@@ -1,0 +1,134 @@
+AcceptedTaxonID	ParentSpeciesID	InfraSpeciesEpithet	InfraSpeciesAuthorString	InfraSpeciesMarker	GSDNameStatus	Sp2000NameStatus	IsExtinct	HasPreHolocene	HasModern	LifeZone	AdditionalData	LTSSpecialist	LTSDate	InfraSpeciesURL	GSDTaxonGUID	GSDNameGUID
+43	2	fortuitus	Péringuey, 1899	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			urnlsidildis.orgTaxonName896798569
+44	29	magnum	Louw, 1979	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+45	29	prominens	Louw, 1979	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+392	88	breuningi	Kaszab, 1963	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+393	91	erlangeri	Wilke, 1921	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+394	129	pauliani	Koch, 1962a	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+395	130	serricostatus	Koch, 1962a	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+396	131	crassigranulatus	Wilke, 1921	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+397	135	septemcostatus	Fairmaire, 1882a	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+398	135	splendidus	Koch 1960	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+399	137	benardellii	Koch, 1960	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+400	137	gibbithorax	Koch, 1956	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+401	137	hellardi	Koch, 1960	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+402	137	tuberculatus	Koch, 1960	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+403	153	fractus	Koch, 1969	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+404	153	humeralis	Koch, 1969	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+405	160	wilkei	Koch, 1951	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+406	175	gridellianus	Koch, 1960	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+407	192	rufocastaneus	Haag-Rutenberg, 1871b	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+408	209	tactilis	Koch, 1962b	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+409	227	coelata	Solier, 1843	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+410	227	gravidus	Solier, 1843	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+411	227	hemisphaericus	Solier, 1843	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+412	227	nigrocostatus	Haag-Rutenberg, 1871a	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+413	227	solieri	Gebien, 1910b	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+414	227	unicolor	Fabricius, 1787	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+415	229	bienus	Koch, 1953b	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+416	301	gariepinus	Koch, 1953c	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+417	305	uriai	Koch, 1953b	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+418	329	litoralis	Koch, 1953c	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+419	329	rugigaster	Koch, 1953c	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+420	333	tuberculifer	Haag-Rutenberg, 1871a	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+421	343	sudanicus	Koch, 1953a	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+422	351	microsetosus	Koch, 1953a	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+423	359	ecostatus	Lesne, 1922	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+424	359	ruandanus	Koch, 1953a	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+425	361	aethiopicus	Koch, 1953a	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+426	361	multilineatus	Koch, 1953a	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+427	361	sulcatus	Gebien 1910b,	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+428	362	subtomentosus	Koch, 1953a	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+429	364	pseudocatenatus	Koch, 1953a	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+430	368	crassecostatus	Koch, 1953a	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+431	368	rugilineatus	Koch, 1953a	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+432	372	piacatus	Koch, 1953a	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+433	374	leleupi	Koch, 1953a	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+434	376	tanganyikanus	Koch, 1953a	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+435	388	magnophthalmus	Koch, 1953a	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+436	389	punctativentris	Koch, 1953a	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+437	389	spinosocostatus	Kolbe, 1904	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+438	390	nyassicus	Koch, 1953a	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+646	607	puncticollis	Louw, 1979	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+647	609	planipennata	Louw, 1979	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+648	613	angolensis	Koch, 1958	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+649	628	kunenensis	Koch, 1952	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+650	640	septentrionalis	Gebien, 1937b	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+651	642	ovambo	Koch, 1952	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+819	661	sabianus	Koch, 1952	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+820	664	lawrencii	Koch, 1954b	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+821	664	mancus	Koch 1954b	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+822	666	ufipanus	Koch, 1952	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+823	675	molestus	Haag-Rutenberg, 1875	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+824	696	zulu	Koch, 1952	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+825	710	salubris	Koch, 1952	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+826	715	invadens	Koch, 1952	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+827	730	estermanni	Koch, 1952	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+828	738	curtus	Koch, 1952	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+829	738	silvestris	Koch, 1952	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+830	747	ornata	Koch, 1952	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+831	758	planisculptus	Koch, 1952	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+832	765	griqua	Koch, 1952	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+833	765	simulans	Koch, 1952	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+834	779	melanarius	Haag-Rutenberg, 1871a	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+835	812	horribillis	Koch, 1952	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1103	1025	desertica	Espanol, 1944	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1104	1025	ifniensis	Escalera, 1940	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1105	1042	spectabile	Kulzer, 1960	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1106	1045	korah	Crotch, 1872	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1107	1045	mogadoricum	Escalera, 1914	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1108	1045	multispinosum	Solier, 1843	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1109	1045	tomentosum	Erichson, 1841	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1110	1051	biena	Koch, 1958	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1111	1051	eduardi	Koch, 1958	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1112	1051	transversa	Fairmaire, 1888b	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1113	1087	dongolensis	Laporte, 1840	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1336	1168	nigritus	Solier, 1843	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1337	1168	sinuosus	Solier, 1843	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1338	1172	variegata	Péringuey, 1892	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1339	1176	pronamibensis	Koch, 1958	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1340	1177	bisbicostatus	Koch, 1958	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1341	1177	kaokoanus	Koch, 1958	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1342	1178	angolanus	Koch, 1958	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1343	1178	formosus	Koch, 1958	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1344	1179	reductus	Koch, 1958	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1345	1179	marginatus	Koch, 1958	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1346	1205	chubbi	Koch, 1953d	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1347	1205	fragilis	Fåhraeus, 1870	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1348	1205	rhodesiana	Koch, 1953d	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1349	1205	zoutpansbergensis	Koch, 1953d	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1350	1226	frigidorae	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1351	1235	gaerdesi	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1352	1235	scherzi	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1353	1236	ovamboanus	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1354	1236	poweri	Hesse, 1935	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1355	1238	hessei	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1356	1238	pluricostatus	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1357	1243	arborarius	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1358	1243	auobensis	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1359	1243	patzelti	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1360	1243	rehobothensis	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1361	1244	ausensis	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1362	1245	drukeri	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1363	1245	subdamarensis	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1364	1252	cisfluminis	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1365	1254	rugosissimus	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1366	1254	testaceipes	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1367	1259	cancellatus	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1368	1259	chevrolati	Haag-Rutenberg, 1873	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1369	1270	bushveldeus	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1370	1271	metallescens	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1371	1271	nigronitens	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1372	1271	peringueyi	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1373	1271	swazicola	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1374	1277	pilosus	Péringuey, 1885	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1375	1286	amnigenus	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1376	1286	cylindricollis	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1377	1287	pilipeplus	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1378	1301	montisdraconis	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1379	1308	setulosus	Haag-Rutenberg, 1873	subsp.	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1380	1310	brachythorax	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1381	1310	disconnectus	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1382	1312	rhodesianus	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1383	1314	fulvohirtus	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1384	1314	orientalis	Koch, 1955	subsp.	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			

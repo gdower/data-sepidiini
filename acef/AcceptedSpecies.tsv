@@ -1,0 +1,875 @@
+AcceptedTaxonID	Kingdom	Phylum	Class	Order	Superfamily	Family	Subtribe	Genus	SubGenusName	SpeciesEpithet	AuthorString	GSDNameStatus	Sp2000NameStatus	IsExtinct	HasPreHolocene	HasModern	LifeZone	AdditionalData	LTSSpecialist	LTSDate	SpeciesURL	GSDTaxonGUID	GSDNameGUID
+1				Coleoptera		Tenebrionidae	Hypomelina	Argenticrinis		lossowi  	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+2				Coleoptera		Tenebrionidae	Hypomelina	Bombocnodulus		crinicollis	Haag-Rutenberg, 1879	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+3				Coleoptera		Tenebrionidae	Hypomelina	Bombocnodulus		dollmani	Penrith, 1986	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+4				Coleoptera		Tenebrionidae	Hypomelina	Bombocnodulus		longantennatus	Penrith, 1986	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+5				Coleoptera		Tenebrionidae	Hypomelina	Bombocnodulus		torridus	Penrith, 1986	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+6				Coleoptera		Tenebrionidae	Hypomelina	Bombocnodulus		wittei	Penrith, 1986	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+7				Coleoptera		Tenebrionidae	Hypomelina	Brinckia		australis	Penrith, 1986	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+8				Coleoptera		Tenebrionidae	Hypomelina	Brinckia		debilis	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+9				Coleoptera		Tenebrionidae	Hypomelina	Brinckia		delicata	Penrith, 1986	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+10				Coleoptera		Tenebrionidae	Hypomelina	Brinckia		insularis	Péringuey, 1908	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+11				Coleoptera		Tenebrionidae	Hypomelina	Brinckia		oblonga	Thunberg, 1787	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+12				Coleoptera		Tenebrionidae	Hypomelina	Brinckia		oograbiensis	Koch, 1962b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+13				Coleoptera		Tenebrionidae	Hypomelina	Brinckia		serratina	Koch, 1962b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+14				Coleoptera		Tenebrionidae	Hypomelina	Brinckia		vaga	Péringuey, 1908	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+15				Coleoptera		Tenebrionidae	Hypomelina	Hypomelus		basalis	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+16				Coleoptera		Tenebrionidae	Hypomelina	Hypomelus		inaequalis	Solier, 1843	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+17				Coleoptera		Tenebrionidae	Hypomelina	Hypomelus		interstitialis	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+18				Coleoptera		Tenebrionidae	Hypomelina	Hypomelus		obliquatus	Solier, 1843	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+19				Coleoptera		Tenebrionidae	Hypomelina	Hypomelus		obliteratus	Solier, 1843	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+20				Coleoptera		Tenebrionidae	Hypomelina	Hypomelus		peringueyi	Gebien 1910b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+21				Coleoptera		Tenebrionidae	Hypomelina	Hypomelus		peronatus	Germar, 1823	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+22				Coleoptera		Tenebrionidae	Hypomelina	Hypomelus		profugus	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+23				Coleoptera		Tenebrionidae	Hypomelina	Hypomelus		reflexicollis	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+24				Coleoptera		Tenebrionidae	Hypomelina	Hypomelus		reflexus	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+25				Coleoptera		Tenebrionidae	Hypomelina	Hypomelus		servus	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+26				Coleoptera		Tenebrionidae	Hypomelina	Hypomelus		setosocostatus	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+27				Coleoptera		Tenebrionidae	Hypomelina	Hypomelus		villosocostatus	Solier, 1843	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+28				Coleoptera		Tenebrionidae	Hypomelina	Hypomelus		vulpinus	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+29				Coleoptera		Tenebrionidae	Hypomelina	Iugidorsum		cumstriis	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+30				Coleoptera		Tenebrionidae	Hypomelina	Iugidorsum		sinestriis	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+31				Coleoptera		Tenebrionidae	Hypomelina	Sulcipectus		cumcavus	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+32				Coleoptera		Tenebrionidae	Hypomelina	Sulcipectus		levis	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+33				Coleoptera		Tenebrionidae	Hypomelina	Trachynotidus		alstoni	Péringuey, 1885	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+34				Coleoptera		Tenebrionidae	Hypomelina	Trachynotidus		angulicollis	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+35				Coleoptera		Tenebrionidae	Hypomelina	Trachynotidus		cognatus	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+36				Coleoptera		Tenebrionidae	Hypomelina	Trachynotidus		cruentus	Péringuey, 1908	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+37				Coleoptera		Tenebrionidae	Hypomelina	Trachynotidus		eximius	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+38				Coleoptera		Tenebrionidae	Hypomelina	Trachynotidus		gravis	Gemminger 1870	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+39				Coleoptera		Tenebrionidae	Hypomelina	Trachynotidus		rufozonatus	Fairmaire, 1888	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+40				Coleoptera		Tenebrionidae	Hypomelina	Trachynotidus		thoreyi	Haag-Rutenberg, 1871b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+41				Coleoptera		Tenebrionidae	Hypomelina	Triangulipenna		lacuna	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+42				Coleoptera		Tenebrionidae	Hypomelina	Uniungulum		hoeschi	Koch, 1962b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+57				Coleoptera		Tenebrionidae	Molurina	Amiantus		browni	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+58				Coleoptera		Tenebrionidae	Molurina	Amiantus		connexus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+59				Coleoptera		Tenebrionidae	Molurina	Amiantus		costipennis	Kolbe, 1886	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+60				Coleoptera		Tenebrionidae	Molurina	Amiantus		decemcostatus	Gebien, 1910a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+61				Coleoptera		Tenebrionidae	Molurina	Amiantus		gibbosus	Fåhraeus, 1870	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+62				Coleoptera		Tenebrionidae	Molurina	Amiantus		globulipennis	Péringuey, 1896	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+63				Coleoptera		Tenebrionidae	Molurina	Amiantus		lobicollis	Kolbe, 1886	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+64				Coleoptera		Tenebrionidae	Molurina	Amiantus		mechowi	Quedenfeldt, 1885	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+65				Coleoptera		Tenebrionidae	Molurina	Amiantus		octocostatus	Péringuey, 1896	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+66				Coleoptera		Tenebrionidae	Molurina	Amiantus		octocristatus	Fairmaire, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+67				Coleoptera		Tenebrionidae	Molurina	Amiantus		opacus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+68				Coleoptera		Tenebrionidae	Molurina	Amiantus		pusillus	Péringuey, 1904	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+69				Coleoptera		Tenebrionidae	Molurina	Amiantus		rusticus	Fåhraeus, 1870	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+70				Coleoptera		Tenebrionidae	Molurina	Amiantus		scrobipennis	Haag-Rutenberg, 1875	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+71				Coleoptera		Tenebrionidae	Molurina	Amiantus		undosus	Distant, 1892	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+72				Coleoptera		Tenebrionidae	Molurina	Arturium		absciri	Koch, 1959	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+73				Coleoptera		Tenebrionidae	Molurina	Arturium		ater	Waterhouse, 1885	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+74				Coleoptera		Tenebrionidae	Molurina	Arturium		auriculatus	Gebien, 1910a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+75				Coleoptera		Tenebrionidae	Molurina	Arturium		benanum	Wilke, 1921	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+76				Coleoptera		Tenebrionidae	Molurina	Arturium		crispatus	Fairmaire, 1887	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+77				Coleoptera		Tenebrionidae	Molurina	Arturium		dallastai	Ardoin, 1977	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+78				Coleoptera		Tenebrionidae	Molurina	Arturium		fiomicum	Wilke, 1921	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+79				Coleoptera		Tenebrionidae	Molurina	Arturium		fulleborni	Wilke, 1921	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+80				Coleoptera		Tenebrionidae	Molurina	Arturium		gebieni	Wilke, 1921	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+81				Coleoptera		Tenebrionidae	Molurina	Arturium		glauningi	Wilke, 1921	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+82				Coleoptera		Tenebrionidae	Molurina	Arturium		methneri	Wilke, 1921	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+83				Coleoptera		Tenebrionidae	Molurina	Arturium		parvulus	Gestro, 1895	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+84				Coleoptera		Tenebrionidae	Molurina	Arturium		pretiosum	Wilke, 1921	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+85				Coleoptera		Tenebrionidae	Molurina	Arturium		tenuecostatus	Gebien, 1910a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+86				Coleoptera		Tenebrionidae	Molurina	Arturium		undaticostis	Fairmaire, 1887	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+87				Coleoptera		Tenebrionidae	Molurina	Arturium		wembericum	Wilke, 1921	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+88				Coleoptera		Tenebrionidae	Molurina	Brachyphrynus		abyssinicus	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+89				Coleoptera		Tenebrionidae	Molurina	Brachyphrynus		gallanus	Wilke, 1921	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+90				Coleoptera		Tenebrionidae	Molurina	Brachyphrynus		kuntzeni	Wilke, 1921	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+91				Coleoptera		Tenebrionidae	Molurina	Brachyphrynus		petrosus	Gerstaecker, 1871	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+92				Coleoptera		Tenebrionidae	Molurina	Brachyphrynus		placidus	Kolbe, 1885	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+93				Coleoptera		Tenebrionidae	Molurina	Brachyphrynus		somalicus	Wilke, 1921	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+94				Coleoptera		Tenebrionidae	Molurina	Brachyphrynus		spissicornis	Fairmaire, 1882a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+95				Coleoptera		Tenebrionidae	Molurina	Brachyphrynus		subnodosus	Gebien, 1937b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+96				Coleoptera		Tenebrionidae	Molurina	Brachyphrynus		wachei	Wilke, 1921	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+97				Coleoptera		Tenebrionidae	Molurina	Dichtha	Distretus	cubica	Guérin-Méneville, 1845	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+98				Coleoptera		Tenebrionidae	Molurina	Dichtha	Distretus	inflata	Gerstaecker, 1854	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+99				Coleoptera		Tenebrionidae	Molurina	Dichtha	Distretus	modesta	Robiche, 2013	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+100				Coleoptera		Tenebrionidae	Molurina	Dichtha	Distretus	transvalica	Brancsik, 1914	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+101				Coleoptera		Tenebrionidae	Molurina	Dichtha	Distretus	quedenfeldti	Kolbe, 1886	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+102				Coleoptera		Tenebrionidae	Molurina	Distretus	Distretus	amplipennis	Fåhraeus, 1870	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+103				Coleoptera		Tenebrionidae	Molurina	Distretus	Distretus	dissociatus	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+104				Coleoptera		Tenebrionidae	Molurina	Distretus	Distretus	fahraei	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+105				Coleoptera		Tenebrionidae	Molurina	Distretus	Distretus	inaequalis	Fairmaire, 1894	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+106				Coleoptera		Tenebrionidae	Molurina	Distretus	Distretus	mashunus	Péringuey, 1896	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+107				Coleoptera		Tenebrionidae	Molurina	Distretus	Distretus	undosus	Kolbe, 1886	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+108				Coleoptera		Tenebrionidae	Molurina	Distretus	Distretus	undatus	Haag-Rutenberg, 1875	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+109				Coleoptera		Tenebrionidae	Molurina	Distretus	Distretus	variabilis	Gebien, 1910a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+110				Coleoptera		Tenebrionidae	Molurina	Distretus	Distretus	variolosus	Guérin-Méneville, 1854	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+111				Coleoptera		Tenebrionidae	Molurina	Distretus	Distretus	vietus	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+112				Coleoptera		Tenebrionidae	Molurina	Distretus	Perdistretus	acutecostatus	Fairmaire, 1888b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+113				Coleoptera		Tenebrionidae	Molurina	Distretus	Perdistretus	angolanus	Koch, 1953b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+114				Coleoptera		Tenebrionidae	Molurina	Distretus	Perdistretus	angustipennis	Péringuey, 1892	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+115				Coleoptera		Tenebrionidae	Molurina	Distretus	Perdistretus	auritus	Koch, 1953b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+116				Coleoptera		Tenebrionidae	Molurina	Distretus	Perdistretus	duartei	Koch, 1953b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+117				Coleoptera		Tenebrionidae	Molurina	Distretus	Perdistretus	gracilis	Gebien, 1910a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+118				Coleoptera		Tenebrionidae	Molurina	Distretus	Perdistretus	mormolyce	Koch, 1953b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+119				Coleoptera		Tenebrionidae	Molurina	Distretus	Perdistretus	seminitidus	Quedenfeldt, 1888	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+120				Coleoptera		Tenebrionidae	Molurina	Distretus	Perdistretus	strioliceps	Koch, 1953b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+121				Coleoptera		Tenebrionidae	Molurina	Distretus	Perdistretus	schoutedeni	Koch, 1954a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+122				Coleoptera		Tenebrionidae	Molurina	Distretus	Perdistretus	upembensis	Koch, 1954a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+123				Coleoptera		Tenebrionidae	Molurina	Distretus	Perdistretus	vilhenai	Koch, 1953b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+124				Coleoptera		Tenebrionidae	Molurina	Euphrynus		carinatus	Fåhraeus, 1870	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+125				Coleoptera		Tenebrionidae	Molurina	Euphrynus		jansei	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+126				Coleoptera		Tenebrionidae	Molurina	Euphrynus		sexdentatus	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+127				Coleoptera		Tenebrionidae	Molurina	Euphrynus		spinithorax	Fairmaire, 1897	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+128				Coleoptera		Tenebrionidae	Molurina	Glyptophrynus		cordipennis	Koch, 1962a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+129				Coleoptera		Tenebrionidae	Molurina	Glyptophrynus		madecassus	Fairmaire, 1901	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+130				Coleoptera		Tenebrionidae	Molurina	Glyptophrynus		ovipennis	Fairmaire, 1899b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+131				Coleoptera		Tenebrionidae	Molurina	Glyptophrynus		tenuesculptus	Fairmaire, 1899b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+132				Coleoptera		Tenebrionidae	Molurina	Glyptophrynus		voeltzkowi	Wilke, 1921	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+133				Coleoptera		Tenebrionidae	Molurina	Melanolophus		gridellii	Koch, 1956	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+134				Coleoptera		Tenebrionidae	Molurina	Melanolophus		lomianus	Koch, 1956	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+135				Coleoptera		Tenebrionidae	Molurina	Melanolophus		picteti	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+136				Coleoptera		Tenebrionidae	Molurina	Melanolophus		praeplanatus	Koch, 1960	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+137				Coleoptera		Tenebrionidae	Molurina	Melanolophus		sexcostatus	Gahan, 1900	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+138				Coleoptera		Tenebrionidae	Molurina	Moluris		chevrolati	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+139				Coleoptera		Tenebrionidae	Molurina	Moluris		discoidea	Guérin-Méneville, 1845	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+140				Coleoptera		Tenebrionidae	Molurina	Moluris		ferrari	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+141				Coleoptera		Tenebrionidae	Molurina	Moluris		gibba	Pallas, 1781	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+142				Coleoptera		Tenebrionidae	Molurina	Moluris		gibbicollis	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+143				Coleoptera		Tenebrionidae	Molurina	Moluris		gibbosa	Thunberg, 1787	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+144				Coleoptera		Tenebrionidae	Molurina	Moluris		globulicollis	Solier, 1843	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+145				Coleoptera		Tenebrionidae	Molurina	Moluris		herbsti	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+146				Coleoptera		Tenebrionidae	Molurina	Moluris		nitida	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+147				Coleoptera		Tenebrionidae	Molurina	Moluris		pseudonitida	Péringuey, 1908	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+148				Coleoptera		Tenebrionidae	Molurina	Moluris		redtenbacheri	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+149				Coleoptera		Tenebrionidae	Molurina	Moluris		rustica	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+150				Coleoptera		Tenebrionidae	Molurina	Moluris		semiscabra	Solier, 1843	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+151				Coleoptera		Tenebrionidae	Molurina	Moluris		strigosa	Herbst, 1799	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+152				Coleoptera		Tenebrionidae	Molurina	Moluris		tuberculata	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+153				Coleoptera		Tenebrionidae	Molurina	Phrynocolus	Phrynocolopsis	denhardti	Wilke, 1921	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+154				Coleoptera		Tenebrionidae	Molurina	Phrynocolus	Phrynocolopsis	desaegeri	Koch, 1969	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+155				Coleoptera		Tenebrionidae	Molurina	Phrynocolus	Phrynocolopsis	frondosus	Gerstaecker, 1871	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+156				Coleoptera		Tenebrionidae	Molurina	Phrynocolus	Phrynocolopsis	transversus	Fairmaire, 1887	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+157				Coleoptera		Tenebrionidae	Molurina	Phrynocolus	Phrynocolopsis	subfrondosus	Wilke, 1921	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+158				Coleoptera		Tenebrionidae	Molurina	Phrynocolus	Phrynocolus	dentatus	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+159				Coleoptera		Tenebrionidae	Molurina	Phrynocolus	Phrynocolus	felinus	Koch, 1951	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+160				Coleoptera		Tenebrionidae	Molurina	Phrynocolus	Phrynocolus	spinolai	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+161				Coleoptera		Tenebrionidae	Molurina	Phrynocolus	Phrynocolus	theryi	Koch, 1951	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+162				Coleoptera		Tenebrionidae	Molurina	Phrynocolus	Spinophrynus	spinipennis	Gebien, 1910a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+163				Coleoptera		Tenebrionidae	Molurina	Phrynocolus		menghallensis	Wilke, 1922	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+164				Coleoptera		Tenebrionidae	Molurina	Phrynophanes		citernii	Gridelli, 1939b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+165				Coleoptera		Tenebrionidae	Molurina	Phrynophanes		cryptisculptus	Koch, 1969	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+166				Coleoptera		Tenebrionidae	Molurina	Phrynophanes		discoideus	Fairmaire, 1891b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+167				Coleoptera		Tenebrionidae	Molurina	Phrynophanes		gredleri	Haag-Rutenberg, 1877	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+168				Coleoptera		Tenebrionidae	Molurina	Phrynophanes		humilis	Wilke, 1921	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+169				Coleoptera		Tenebrionidae	Molurina	Phrynophanes		lateritius	Wilke, 1921	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+170				Coleoptera		Tenebrionidae	Molurina	Phrynophanes		neumanni	Wilke, 1921	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+171				Coleoptera		Tenebrionidae	Molurina	Phrynophanes		reticulatus	Wilke, 1921	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+172				Coleoptera		Tenebrionidae	Molurina	Phrynophanes		schereri	Koch, 1969	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+173				Coleoptera		Tenebrionidae	Molurina	Phrynophanes		scortecii	Koch, 1969	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+174				Coleoptera		Tenebrionidae	Molurina	Phrynophanes		schoutedeni	Koch, 1951	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+175				Coleoptera		Tenebrionidae	Molurina	Phrynophanes		squamifer	Gridelli, 1939b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+176				Coleoptera		Tenebrionidae	Molurina	Physophrynus		bufo	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+177				Coleoptera		Tenebrionidae	Molurina	Physophrynus		burdoi	Fairmaire, 1882b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+178				Coleoptera		Tenebrionidae	Molurina	Physophrynus		bredoi	Mal, 2005	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+179				Coleoptera		Tenebrionidae	Molurina	Physophrynus		crenatocostatus	Fairmaire, 1887	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+180				Coleoptera		Tenebrionidae	Molurina	Physophrynus		haroldi	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+181				Coleoptera		Tenebrionidae	Molurina	Physophrynus		kaszabi	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+182				Coleoptera		Tenebrionidae	Molurina	Physophrynus		manicanus	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+183				Coleoptera		Tenebrionidae	Molurina	Physophrynus		revoili	Fairmaire, 1887	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+184				Coleoptera		Tenebrionidae	Molurina	Psammodes		algoensis	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+185				Coleoptera		Tenebrionidae	Molurina	Psammodes		asperulipennis	Fairmaire, 1888	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+186				Coleoptera		Tenebrionidae	Molurina	Psammodes		atratus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+187				Coleoptera		Tenebrionidae	Molurina	Psammodes		basuto	Koch, 1953c	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+188				Coleoptera		Tenebrionidae	Molurina	Psammodes		barbatus	Fåhraeus, 1870	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+189				Coleoptera		Tenebrionidae	Molurina	Psammodes		batesi	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+190				Coleoptera		Tenebrionidae	Molurina	Psammodes		bennigseni	Kraatz, 1897	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+191				Coleoptera		Tenebrionidae	Molurina	Psammodes		blapsoides	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+192				Coleoptera		Tenebrionidae	Molurina	Psammodes		brunneus	Olivier, 1795	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+193				Coleoptera		Tenebrionidae	Molurina	Psammodes		brunnipes	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+194				Coleoptera		Tenebrionidae	Molurina	Psammodes		caelatus	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+195				Coleoptera		Tenebrionidae	Molurina	Psammodes		caffra	Fåhraeus, 1870	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+196				Coleoptera		Tenebrionidae	Molurina	Psammodes		caraboides	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+197				Coleoptera		Tenebrionidae	Molurina	Psammodes		carinatus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+198				Coleoptera		Tenebrionidae	Molurina	Psammodes		clarus	Haag-Rutenberg, 1873	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+199				Coleoptera		Tenebrionidae	Molurina	Psammodes		collaris	Haag-Rutenberg, 1871b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+200				Coleoptera		Tenebrionidae	Molurina	Psammodes		coloratus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+201				Coleoptera		Tenebrionidae	Molurina	Psammodes		comatus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+202				Coleoptera		Tenebrionidae	Molurina	Psammodes		comptus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+203				Coleoptera		Tenebrionidae	Molurina	Psammodes		convexus	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+204				Coleoptera		Tenebrionidae	Molurina	Psammodes		coriaceus	Gerstaecker, 1854	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+205				Coleoptera		Tenebrionidae	Molurina	Psammodes		costalis	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+206				Coleoptera		Tenebrionidae	Molurina	Psammodes		dejeani	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+207				Coleoptera		Tenebrionidae	Molurina	Psammodes		depressicollis	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+208				Coleoptera		Tenebrionidae	Molurina	Psammodes		devexus	Fåhraeus, 1870	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+209				Coleoptera		Tenebrionidae	Molurina	Psammodes		diabolicus	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+210				Coleoptera		Tenebrionidae	Molurina	Psammodes		difficilis	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+211				Coleoptera		Tenebrionidae	Molurina	Psammodes		dilutus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+212				Coleoptera		Tenebrionidae	Molurina	Psammodes		dimidiatus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+213				Coleoptera		Tenebrionidae	Molurina	Psammodes		discrepans	Péringuey, 1904	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+214				Coleoptera		Tenebrionidae	Molurina	Psammodes		dohrni	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+215				Coleoptera		Tenebrionidae	Molurina	Psammodes		eberlanzi	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+216				Coleoptera		Tenebrionidae	Molurina	Psammodes		egregius	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+217				Coleoptera		Tenebrionidae	Molurina	Psammodes		ethologus	Koch, 1953c	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+218				Coleoptera		Tenebrionidae	Molurina	Psammodes		expletus	Quedenfeldt, 1885	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+219				Coleoptera		Tenebrionidae	Molurina	Psammodes		fartus	Péringuey, 1904	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+220				Coleoptera		Tenebrionidae	Molurina	Psammodes		ferrugineus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+221				Coleoptera		Tenebrionidae	Molurina	Psammodes		flagrans	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+222				Coleoptera		Tenebrionidae	Molurina	Psammodes		fragilis	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+223				Coleoptera		Tenebrionidae	Molurina	Psammodes		fritschi	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+224				Coleoptera		Tenebrionidae	Molurina	Psammodes		funestus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+225				Coleoptera		Tenebrionidae	Molurina	Psammodes		gariesus	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+226				Coleoptera		Tenebrionidae	Molurina	Psammodes		gerstaeckeri	Haag-Rutenberg, 1871b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+227				Coleoptera		Tenebrionidae	Molurina	Psammodes		gibbus	Linnaeus, 1760	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+228				Coleoptera		Tenebrionidae	Molurina	Psammodes		glaber	Koch, 1953c	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+229				Coleoptera		Tenebrionidae	Molurina	Psammodes		glabratus	Harold, 1878	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+230				Coleoptera		Tenebrionidae	Molurina	Psammodes		grandis	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+231				Coleoptera		Tenebrionidae	Molurina	Psammodes		granulatus	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+232				Coleoptera		Tenebrionidae	Molurina	Psammodes		granulifer	Haag-Rutenberg, 1871b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+233				Coleoptera		Tenebrionidae	Molurina	Psammodes		guillarmodi	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+234				Coleoptera		Tenebrionidae	Molurina	Psammodes		haagi	Gebien, 1910b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+235				Coleoptera		Tenebrionidae	Molurina	Psammodes		hirtipennis	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+236				Coleoptera		Tenebrionidae	Molurina	Psammodes		hirtipes	Laporte, 1840	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+237				Coleoptera		Tenebrionidae	Molurina	Psammodes		hirtus	Bertoloni, 1849	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+238				Coleoptera		Tenebrionidae	Molurina	Psammodes		herculeanus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+239				Coleoptera		Tenebrionidae	Molurina	Psammodes		herero	Péringuey, 1908	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+240				Coleoptera		Tenebrionidae	Molurina	Psammodes		hottentottus	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+241				Coleoptera		Tenebrionidae	Molurina	Psammodes		incongruens	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+242				Coleoptera		Tenebrionidae	Molurina	Psammodes		infernalis	Harold, 1878	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+243				Coleoptera		Tenebrionidae	Molurina	Psammodes		intermedius	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+244				Coleoptera		Tenebrionidae	Molurina	Psammodes		janitor	Koch, 1953c	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+245				Coleoptera		Tenebrionidae	Molurina	Psammodes		kamagasus	Péringuey, 1908	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+246				Coleoptera		Tenebrionidae	Molurina	Psammodes		kirschi	Haag-Rutenberg, 1871b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+247				Coleoptera		Tenebrionidae	Molurina	Psammodes		kubub	Péringuey, 1908	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+248				Coleoptera		Tenebrionidae	Molurina	Psammodes		kuisip	Péringuey, 1908	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+249				Coleoptera		Tenebrionidae	Molurina	Psammodes		lanuginosus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+250				Coleoptera		Tenebrionidae	Molurina	Psammodes		lethargicus	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+251				Coleoptera		Tenebrionidae	Molurina	Psammodes		laevicollis	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+252				Coleoptera		Tenebrionidae	Molurina	Psammodes		longicornis	Kirby, 1819	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+253				Coleoptera		Tenebrionidae	Molurina	Psammodes		longipes	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+254				Coleoptera		Tenebrionidae	Molurina	Psammodes		lucidus	Fåhraeus, 1870	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+255				Coleoptera		Tenebrionidae	Molurina	Psammodes		mashunus	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+256				Coleoptera		Tenebrionidae	Molurina	Psammodes		memnonius	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+257				Coleoptera		Tenebrionidae	Molurina	Psammodes		mimipinguis	Koch, 1953c	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+258				Coleoptera		Tenebrionidae	Molurina	Psammodes		moschleri	Haag-Rutenberg, 1875	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+259				Coleoptera		Tenebrionidae	Molurina	Psammodes		muata	Harold, 1878	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+260				Coleoptera		Tenebrionidae	Molurina	Psammodes		mulleri	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+261				Coleoptera		Tenebrionidae	Molurina	Psammodes		nigrisaxicola	Koch, 1953b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+262				Coleoptera		Tenebrionidae	Molurina	Psammodes		nitens	Fåhraeus, 1870	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+263				Coleoptera		Tenebrionidae	Molurina	Psammodes		nitidicollis	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+264				Coleoptera		Tenebrionidae	Molurina	Psammodes		nitidipennis	Fairmaire, 1897	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+265				Coleoptera		Tenebrionidae	Molurina	Psammodes		nitidissimus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+266				Coleoptera		Tenebrionidae	Molurina	Psammodes		obsulcatus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+267				Coleoptera		Tenebrionidae	Molurina	Psammodes		ovatus	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+268				Coleoptera		Tenebrionidae	Molurina	Psammodes		ovipennis	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+269				Coleoptera		Tenebrionidae	Molurina	Psammodes		perfidus	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+270				Coleoptera		Tenebrionidae	Molurina	Psammodes		piceus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+271				Coleoptera		Tenebrionidae	Molurina	Psammodes		pilifer	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+272				Coleoptera		Tenebrionidae	Molurina	Psammodes		pilosellus	Haag-Rutenberg, 1875	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+273				Coleoptera		Tenebrionidae	Molurina	Psammodes		pilosipennis	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+274				Coleoptera		Tenebrionidae	Molurina	Psammodes		pilosus	Thunberg, 1787	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+275				Coleoptera		Tenebrionidae	Molurina	Psammodes		pinguis	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+276				Coleoptera		Tenebrionidae	Molurina	Psammodes		placidus	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+277				Coleoptera		Tenebrionidae	Molurina	Psammodes		plicatus	Solier, 1844	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+278				Coleoptera		Tenebrionidae	Molurina	Psammodes		plicipennis	Gemminger, 1870	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+279				Coleoptera		Tenebrionidae	Molurina	Psammodes		ponderosus	Fåhraeus, 1870	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+280				Coleoptera		Tenebrionidae	Molurina	Psammodes		probes	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+281				Coleoptera		Tenebrionidae	Molurina	Psammodes		procerus	Fåhraeus, 1870	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+282				Coleoptera		Tenebrionidae	Molurina	Psammodes		procustes	Westwood, 1875	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+283				Coleoptera		Tenebrionidae	Molurina	Psammodes		productus	Haag-Rutenberg, 1871b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+284				Coleoptera		Tenebrionidae	Molurina	Psammodes		profanus	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+285				Coleoptera		Tenebrionidae	Molurina	Psammodes		propinquus	Quedenfeldt, 1885	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+286				Coleoptera		Tenebrionidae	Molurina	Psammodes		protensus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+287				Coleoptera		Tenebrionidae	Molurina	Psammodes		pubescens	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+288				Coleoptera		Tenebrionidae	Molurina	Psammodes		pustulifer	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+289				Coleoptera		Tenebrionidae	Molurina	Psammodes		quadricostatus	Fåhraeus, 1870	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+290				Coleoptera		Tenebrionidae	Molurina	Psammodes		raucus	Haag-Rutenberg, 1875	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+291				Coleoptera		Tenebrionidae	Molurina	Psammodes		refleximargo	Gebien, 1920	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+292				Coleoptera		Tenebrionidae	Molurina	Psammodes		retrospinosus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+293				Coleoptera		Tenebrionidae	Molurina	Psammodes		rotundicollis	Haag-Rutenberg, 1871b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+294				Coleoptera		Tenebrionidae	Molurina	Psammodes		rufofasciatus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+295				Coleoptera		Tenebrionidae	Molurina	Psammodes		rufonervosus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+296				Coleoptera		Tenebrionidae	Molurina	Psammodes		rufostriatus	Haag-Rutenberg, 1875	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+297				Coleoptera		Tenebrionidae	Molurina	Psammodes		rugulosipennis	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+298				Coleoptera		Tenebrionidae	Molurina	Psammodes		rugulosus	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+299				Coleoptera		Tenebrionidae	Molurina	Psammodes		rusticus	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+300				Coleoptera		Tenebrionidae	Molurina	Psammodes		scaber	Fabricius, 1775	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+301				Coleoptera		Tenebrionidae	Molurina	Psammodes		scabratus	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+302				Coleoptera		Tenebrionidae	Molurina	Psammodes		scabriusculus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+303				Coleoptera		Tenebrionidae	Molurina	Psammodes		schultzei	Peinguey, 1908	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+304				Coleoptera		Tenebrionidae	Molurina	Psammodes		segnis	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+305				Coleoptera		Tenebrionidae	Molurina	Psammodes		sellatus	Haag-Rutenberg, 1875	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+306				Coleoptera		Tenebrionidae	Molurina	Psammodes		semipilosus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+307				Coleoptera		Tenebrionidae	Molurina	Psammodes		semivillosus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+308				Coleoptera		Tenebrionidae	Molurina	Psammodes		setipennis	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+309				Coleoptera		Tenebrionidae	Molurina	Psammodes		solitarius	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+310				Coleoptera		Tenebrionidae	Molurina	Psammodes		spiculosus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+311				Coleoptera		Tenebrionidae	Molurina	Psammodes		spinosus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+312				Coleoptera		Tenebrionidae	Molurina	Psammodes		splendens	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+313				Coleoptera		Tenebrionidae	Molurina	Psammodes		steinhelli	Haag-Rutenberg, 1878	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+314				Coleoptera		Tenebrionidae	Molurina	Psammodes		striatopilosus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+315				Coleoptera		Tenebrionidae	Molurina	Psammodes		subaeneus	Harold, 1878	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+316				Coleoptera		Tenebrionidae	Molurina	Psammodes		subcostatus	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+317				Coleoptera		Tenebrionidae	Molurina	Psammodes		subgranulatus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+318				Coleoptera		Tenebrionidae	Molurina	Psammodes		tenuipes	Fåhraeus, 1870	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+319				Coleoptera		Tenebrionidae	Molurina	Psammodes		timarchoides	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+320				Coleoptera		Tenebrionidae	Molurina	Psammodes		togatus	Koch, 1953c	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+321				Coleoptera		Tenebrionidae	Molurina	Psammodes		tomentosus	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+322				Coleoptera		Tenebrionidae	Molurina	Psammodes		trachysceloides	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+323				Coleoptera		Tenebrionidae	Molurina	Psammodes		transvaalensis	Haag-Rutenberg, 1875	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+324				Coleoptera		Tenebrionidae	Molurina	Psammodes		tricostatus	Fåhraeus, 1870	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+325				Coleoptera		Tenebrionidae	Molurina	Psammodes		tristis	Fåhraeus, 1870	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+326				Coleoptera		Tenebrionidae	Molurina	Psammodes		tuberculipennis	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+327				Coleoptera		Tenebrionidae	Molurina	Psammodes		tumidipennis	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+328				Coleoptera		Tenebrionidae	Molurina	Psammodes		undulatus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+329				Coleoptera		Tenebrionidae	Molurina	Psammodes		uniformis	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+330				Coleoptera		Tenebrionidae	Molurina	Psammodes		validus	Kratz, 1897	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+331				Coleoptera		Tenebrionidae	Molurina	Psammodes		velutinus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+332				Coleoptera		Tenebrionidae	Molurina	Psammodes		ventricosus	Fåhraeus, 1870	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+333				Coleoptera		Tenebrionidae	Molurina	Psammodes		vialis	Burchell, 1822	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+334				Coleoptera		Tenebrionidae	Molurina	Psammodes		villosostriatus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+335				Coleoptera		Tenebrionidae	Molurina	Psammodes		villosulus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+336				Coleoptera		Tenebrionidae	Molurina	Psammodes		vittatus	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+337				Coleoptera		Tenebrionidae	Molurina	Psammodes		volvulus	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+338				Coleoptera		Tenebrionidae	Molurina	Psammodes		zschokkei	Koch, 1953b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+339				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammolophus	acuticosta	Fairmaire, 1884	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+340				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammolophus	lomii	Gridelli, 1939b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+341				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	angulicauda	Lesne, 1922	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+342				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammolophus	antinorii	Gridelli, 1939b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+343				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	beccarii	Gridelli, 1939a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+344				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammolophus	borosi	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+345				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	castanopterus	Haag-Rutenberg, 1875	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+346				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammolophus	catenatus	Reiche, 1850	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+347				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	camiadei	Robiche, 2013	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+348				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	densepunctatus	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+349				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	duodecimcostatus	Lesne, 1922	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+350				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	granuliger	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+351				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	gridellii	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+352				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	gurannicus	Lesne, 1922	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+353				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	impressiventris	Fairmaire, 1897	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+354				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	kilimandjarus	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+355				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	leakeyi	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+356				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	mirei	Pierre, 1979	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+357				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	nairobiensis	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+358				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	naivashanus	Lesne, 1922	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+359				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	pilosiusculus	Gebien, 1913	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+360				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	plicatoides	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+361				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	plicatus	Gerstaecker, 1871	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+362				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	praetenuis	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+363				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	pyriformis	Gridelli, 1939b)	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+364				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	raffrayi	Lesne, 1922	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+365				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	rubrolineatus	Lesne, 1922	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+366				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	sexcostatus	Gerstäcker, 1884	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+367				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	somalicus	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+368				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	terrenus	Lesne, 1922	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+369				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophanes	vagecostatus	Fairmaire, 1882b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+370				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophrynopsis	frommi	Wilke, 1921	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+371				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophrynus	jokli	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+372				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophrynus	penicillatus	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+373				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammophrynus	poccilator	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+374				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammostretus	bisbicostatus	Gebien, 1910a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+375				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammostretus	circumscriptus	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+376				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammostretus	erectepilosus	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+377				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammostretus	maculicollis	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+378				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammostretus	neavei	Gebien, 1910a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+379				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammostretus	punctipilus	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+380				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammostretus	prosodoides	Gebien, 1910a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+381				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Psammotyriopsis	bredoi	Koch, 1953a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+382				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Somalarabes	ahlmedoensis	Koch, 1969	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+383				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Somalarabes	arabicus	Gebien, 1938	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+384				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Somalarabes	benardellii	Koch, 1965	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+385				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Somalarabes	gracilentus	Fairmaire, 1882a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+386				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Somalarabes	hemmingi	Koch, 1969	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+387				Coleoptera		Tenebrionidae	Molurina	Psammophanes	Somalarabes	nogalus	Koch, 1962c	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+388				Coleoptera		Tenebrionidae	Molurina	Psammotyria		attenuatus	Fairmaire, 1887	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+389				Coleoptera		Tenebrionidae	Molurina	Psammotyria		ertli	Kolbe, 1904	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+390				Coleoptera		Tenebrionidae	Molurina	Psammotyria		lateridens	Fairmaire, 1887	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+391				Coleoptera		Tenebrionidae	Molurina	Psammotyria		quadriplicatus	Gebien, 1910b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+589				Coleoptera		Tenebrionidae	Oxurina	Decoriplus		aequabilis	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+590				Coleoptera		Tenebrionidae	Oxurina	Decoriplus		clavus	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+591				Coleoptera		Tenebrionidae	Oxurina	Decoriplus		convexus	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+592				Coleoptera		Tenebrionidae	Oxurina	Decoriplus		costimargo	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+593				Coleoptera		Tenebrionidae	Oxurina	Decoriplus		discicollis	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+594				Coleoptera		Tenebrionidae	Oxurina	Decoriplus		granulimargo	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+595				Coleoptera		Tenebrionidae	Oxurina	Decoriplus		hamatus	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+596				Coleoptera		Tenebrionidae	Oxurina	Decoriplus		hieroglyphicus	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+597				Coleoptera		Tenebrionidae	Oxurina	Decoriplus		humerus	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+598				Coleoptera		Tenebrionidae	Oxurina	Decoriplus		pictus	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+599				Coleoptera		Tenebrionidae	Oxurina	Decoriplus		striatulus	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+600				Coleoptera		Tenebrionidae	Oxurina	Miripronotum		prominoculatum	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+601				Coleoptera		Tenebrionidae	Oxurina	Namibomodes		maculicollis	Koch, 1962b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+602				Coleoptera		Tenebrionidae	Oxurina	Namibomodes		rubra	Koch, 1962b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+603				Coleoptera		Tenebrionidae	Oxurina	Namibomodes		serrimargo	Gebien, 1938a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+604				Coleoptera		Tenebrionidae	Oxurina	Namibomodes		zarcoi	Koch, 1962b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+605				Coleoptera		Tenebrionidae	Oxurina	Oxura		connexa	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+606				Coleoptera		Tenebrionidae	Oxurina	Oxura		femoralis	Haag-Rutenberg, 1871b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+607				Coleoptera		Tenebrionidae	Oxurina	Oxura		margoabsoluta	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+608				Coleoptera		Tenebrionidae	Oxurina	Oxura		punctipennis	Haag-Rutenberg, 1871b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+609				Coleoptera		Tenebrionidae	Oxurina	Oxura		rufotibiata	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+610				Coleoptera		Tenebrionidae	Oxurina	Oxura		setosa	Kirby, 1819	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+611				Coleoptera		Tenebrionidae	Oxurina	Oxura		vestita	Solier, 1843	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+612				Coleoptera		Tenebrionidae	Oxurina	Palpomodes	Palpomodes	halophilus	Koch, 1958	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+613				Coleoptera		Tenebrionidae	Oxurina	Palpomodes	Palpomodes	physopterus	Gebien, 1920	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+614				Coleoptera		Tenebrionidae	Oxurina	Palpomodes	Pygmaeodes	rudebecki	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+615				Coleoptera		Tenebrionidae	Oxurina	Pterostichula	Pterostichula	aridipaludis	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+616				Coleoptera		Tenebrionidae	Oxurina	Pterostichula	Pterostichula	broomoides	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+617				Coleoptera		Tenebrionidae	Oxurina	Pterostichula	Pterostichula	calathoides	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+618				Coleoptera		Tenebrionidae	Oxurina	Pterostichula	Pterostichula	diaphana	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+619				Coleoptera		Tenebrionidae	Oxurina	Pterostichula	Pterostichula	dubia	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+620				Coleoptera		Tenebrionidae	Oxurina	Pterostichula	Pterostichula	ellamariae	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+621				Coleoptera		Tenebrionidae	Oxurina	Pterostichula	Pterostichula	infuscata	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+622				Coleoptera		Tenebrionidae	Oxurina	Pterostichula	Pterostichula	kung	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+623				Coleoptera		Tenebrionidae	Oxurina	Pterostichula	Pterostichula	namaqua	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+624				Coleoptera		Tenebrionidae	Oxurina	Pterostichula	Pterostichula	quarzophila	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+625				Coleoptera		Tenebrionidae	Oxurina	Pterostichula	Pterostichula	solitudo	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+626				Coleoptera		Tenebrionidae	Oxurina	Pterostichula	Ripicolodes	arenicola	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+627				Coleoptera		Tenebrionidae	Oxurina	Pterostichula	Ripicolodes	frontalis	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+628				Coleoptera		Tenebrionidae	Oxurina	Pterostichula	Ripicolodes	misanthropa	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+629				Coleoptera		Tenebrionidae	Oxurina	Pterostichula	Ripicolodes	omurambestris	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+630				Coleoptera		Tenebrionidae	Oxurina	Pterostichula	Ripicolodes	parvicollis	Louw, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+631				Coleoptera		Tenebrionidae	Oxurina	Stenethmus		borealis	Kaszab, 1972	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+632				Coleoptera		Tenebrionidae	Oxurina	Stenethmus		impuncticollis	Gebien, 1937b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+633				Coleoptera		Tenebrionidae	Oxurina	Stenethmus		massaicus	Kaszab, 1972	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+634				Coleoptera		Tenebrionidae	Oxurina	Stenethmus		orientalis	Kaszab, 1972	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+635				Coleoptera		Tenebrionidae	Oxurina	Stenethmus		poggii	Ferrer, 2004b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+636				Coleoptera		Tenebrionidae	Oxurina	Stenethmus		punctipleuris	Kaszab, 1972	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+637				Coleoptera		Tenebrionidae	Oxurina	Stenethmus		punctiventris	Genien, 1937b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+638				Coleoptera		Tenebrionidae	Oxurina	Stenethmus		rhodesianus	Kaszab, 1972	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+639				Coleoptera		Tenebrionidae	Oxurina	Stenethmus		szunyoghyi	Kaszab, 1972	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+640				Coleoptera		Tenebrionidae	Oxurina	Stenethmus		tentyriiniformis	Hesse, 1935	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+641				Coleoptera		Tenebrionidae	Oxurina	Synhimba		cordiforme	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+642				Coleoptera		Tenebrionidae	Oxurina	Synhimba		hyalinum	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+643				Coleoptera		Tenebrionidae	Oxurina	Synhimba		melancholica	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+644				Coleoptera		Tenebrionidae	Oxurina	Synhimba		pruinosum	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+645				Coleoptera		Tenebrionidae	Oxurina	Synhimba		sculpturatum	Haag-Rutenberg, 1871a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+660				Coleoptera		Tenebrionidae	Phanerotomeina	Huilamus		welwitschi	Koch, 1953b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+661				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Chiliarchum	arnoldi	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+662				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Chiliarchum	bertolonii	Guérin-Méneville, 1844	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+663				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Chiliarchum	freyi	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+664				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Chiliarchum	guerini	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+665				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Chiliarchum	junodi	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+666				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	acuductus	Ancey, 1883	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+667				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	adamantinus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+668				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	argenteofasciatus	Koch, 1953b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+669				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	barbosai	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+670				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	basilewskyi	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+671				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	bellmarleyi	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+672				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	benguelensis	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+673				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	blandus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+674				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	brevicornis	Haag-Rutenberg, 1875	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+675				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	brunnescens	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+676				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	buccinator	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+677				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	bushmanicus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+678				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	carbonarius	Gerstaecker, 1854	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+679				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	cardiopterus	Fairmaire, 1888b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+680				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	cataractus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+681				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	cinerarius	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+682				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	complanatus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+683				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	concinnus	Fåhraeus, 1870	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+684				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	confertus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+685				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	congruens	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+686				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	cordiventris	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+687				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	crocodilinus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+688				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	dimorphus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+689				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	distinctus	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+690				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	dolosus	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+691				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	dorsocostatus	Gebien, 1910a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+692				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	dubiosus	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+693				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	ejectus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+694				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	epronoticus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+695				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	erichsoni	Haag-Rutenberg, 1871b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+696				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	ferreirae	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+697				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	fettingi	Haag-Rutenberg, 1875	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+698				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	fistucans	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+699				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	fraternus	Haag-Rutenberg, 1875	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+700				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	freudei	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+701				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	fulgidus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+702				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	funestus	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+703				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	gemmeulus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+704				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	gibberosulus	Péringuey, 1908	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+705				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	gibbus	Haag-Rutenberg, 1879	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+706				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	globosus	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+707				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	granisterna	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+708				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	granulosicollis	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+709				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	gridellii	Koch, 1960	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+710				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	haemorrhoidalis	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+711				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	heydeni	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+712				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	humeralis	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+713				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	humerangula	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+714				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	imbricatus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+715				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	imitator	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+716				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	inflatus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+717				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	janssensi	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+718				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	javeti	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+719				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	kulzeri	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+720				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	lacustris	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+721				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	laevigatus	Olivier, 1795	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+722				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	lanceolatus	Koch, 1953a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+723				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	licitus	Peringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+724				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	luctuosus	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+725				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	luxurosus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+726				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	maputoensis	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+727				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	marginicollis	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+728				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	martinsi	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+729				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	melleus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+730				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	mendicus	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+731				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	miles	Péringuey, 1908	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+732				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	mimeticus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+733				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	misolampoides	Fairmaire, 1888b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+734				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	mixtus	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+735				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	monacha	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+736				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	montanus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+737				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	mozambicus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+738				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	muliebris	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+739				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	nervosus	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+740				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	notatum	Thunberg, 1787	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+741				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	notaticollis	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+742				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	odorans	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+743				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	opacus	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+744				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	osbecki	Billberg, 1815	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+745				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	overlaeti	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+746				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	ovulus	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+747				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	pachysoma	Péringuey, 1892	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+748				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	papillosus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+749				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	pedator	Fairmaire, 1888b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+750				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	perlucidus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+751				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	planus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+752				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	pretorianus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+753				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	procursus	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+754				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	procrustes	Westwood, 1875	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+755				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	protectus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+756				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	punctatissimus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+757				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	puncticollis	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+758				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	punctipennis	Harold, 1878	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+759				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	punctipleura	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+760				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	rhodesianus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+761				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	roriferus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+762				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	rowleianus	Westwood, 1864	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+763				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	rufipes	Harold, 1878	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+764				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	saltuarius	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+765				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	scabricollis	Gerstaecker, 1854	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+766				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	scopulipes	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+767				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	scrobicollis	Fåhraeus, 1870	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+768				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	semirasus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+769				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	semiscabrum	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+770				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	sericicollis	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+771				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	similis	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+772				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	sjoestedti	Gebien, 1910b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+773				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	spatulipes	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+774				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	specularis	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+775				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	spinigerus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+776				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	stevensoni	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+777				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	tarsocnoides	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+778				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	temulentus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+779				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	tenebrosus	Erichson, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+780				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	tibialis	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+781				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	torosus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+782				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	transversicollis	Haag-Rutenberg, 1879	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+783				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	tumidus	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+784				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	umvumanus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+785				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	vagus	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+786				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	vaticinus	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+787				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	verecundus	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+788				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	vetustus	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+789				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	vexator	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+790				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	virago	Koch, 1952	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+791				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	warmeloi	Koch, 1953b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+792				Coleoptera		Tenebrionidae	Phanerotomeina	Ocnodes	Ocnodes	zanzibaricus	Haag-Rutenberg, 1875	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+793				Coleoptera		Tenebrionidae	Phanerotomeina	Psammoryssus		titanus	Kolbe, 1886	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+794				Coleoptera		Tenebrionidae	Phanerotomeina	Stridulomus		sulcicollis	Péringuey, 1885	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+795				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		albarenarum	Penrith, 1987	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+796				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		aquamontis	Penrith, 1987	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+797				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		brendelli	Penrith, 1987	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+798				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		compressitarsis	Müller, 1887	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+799				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		dilaticollis	Muller, 1887	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+800				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		ephialtes	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+801				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		errans	Péringuey, 1892	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+802				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		finitima	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+803				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		gracilipes	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+804				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		granulicauda	Penrith, 1987	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+805				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		iflundi	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+806				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		laevipennis	Haag-Rutenberg, 1879	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+807				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		madida	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+808				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		michaelis	Penrith, 1986	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+809				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		molossa	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+810				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		monasterialis	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+811				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		nielseni	Ferrer, Evanno & Evanno, 2010	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+812				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		praegrandis	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+813				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		prozeskyorum	Penrith, 1986	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+814				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		rugicollis	Gebien, 1920	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+815				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		tarsalis	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+816				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		variolata	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+817				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		vernayi	Koch, 1952	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+818				Coleoptera		Tenebrionidae	Phanerotomeina	Tarsocnodes		whiteheadi	Penrith, 1986	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+990				Coleoptera		Tenebrionidae	Sepidiina	Dimoniacis		jacksoni	Koch, 1958	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+991				Coleoptera		Tenebrionidae	Sepidiina	Dimoniacis		lavranosi	Ardoin, 1979	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+992				Coleoptera		Tenebrionidae	Sepidiina	Dimoniacis		puccionii	Ferrer, 1995	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+993				Coleoptera		Tenebrionidae	Sepidiina	Echinotus		natalensis	Chevrolat, 1874	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+994				Coleoptera		Tenebrionidae	Sepidiina	Echinotus		spinicollis	Laporte, 1840	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+995				Coleoptera		Tenebrionidae	Sepidiina	Peringueyia		dispar	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+996				Coleoptera		Tenebrionidae	Sepidiina	Sepidiopsis		ardoini	Ferrer, 1995	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+997				Coleoptera		Tenebrionidae	Sepidiina	Sepidiopsis		cornigera	Gestro, 1892	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+998				Coleoptera		Tenebrionidae	Sepidiina	Sepidiopsis		villosa	Gestro, 1892	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+999				Coleoptera		Tenebrionidae	Sepidiina	Sepidiostenus		compressus	Fairmaire, 1884	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1000				Coleoptera		Tenebrionidae	Sepidiina	Sepidiostenus		dolichopus	Gestro, 1898	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1001				Coleoptera		Tenebrionidae	Sepidiina	Sepidiostenus		erinaceus	Fairmaire, 1887	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1002				Coleoptera		Tenebrionidae	Sepidiina	Sepidiostenus		fairmairei	Gestro, 1898	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1003				Coleoptera		Tenebrionidae	Sepidiina	Sepidiostenus		longipennis	Gestro, 1898	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1004				Coleoptera		Tenebrionidae	Sepidiina	Sepidiostenus		pradieri	Guérin-Méneville, 1858	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1005				Coleoptera		Tenebrionidae	Sepidiina	Sepidiostenus		ruspolii	Gestro, 1898	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1006				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		aitagiae	Escalera, 1913	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1007				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		aliferum	Erichson, 1841	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1008				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		aper	Fairmaire, 1884	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1009				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		barbarum	Solier, 1843	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1010				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		bicaudatum	Fairmaire, 1871	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1011				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		bidentatum	Solier, 1843	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1012				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		bilobatum	Gahan, 1900	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1013				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		boranum	Mal, 1986b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1014				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		bulbiferum	Gerstaecker, 1884	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1015				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		brevicaudatum	Fairmaire, 1882b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1016				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		capricorne	Desbrochers des Loges, 1881	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1017				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		crassicaudatum	Gestro, 1878	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1018				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		cristatum	Fabricius, 1775	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1019				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		cylindrigerum	Fairmaire, 1882a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1020				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		cyrenaicum	Schuster, 1928	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1021				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		dathan	Crotch, 1872	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1022				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		fusiforme	Kwieton, 1980	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1023				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		gypsicola	Escalera, 1913	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1024				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		hoseini	Escalera, 1911	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1025				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		hystryx	Antoine, 1932	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1026				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		inaequale	Reitter, 1914	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1027				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		kaszabi	Mal, 1990	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1028				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		kelleri	Fairmaire, 1893	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1029				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		lusitanicum	Kaszab & Pinheiro, 1972	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1030				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		magnum	Gahan, 1900	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1031				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		mali	Ferrer & Martínez, 2012	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1032				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		marraquense	Escalera, 1911	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1033				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		mesopotamicum	Reitter, 1914	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1034				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		mskalicum	Escalera, 1914	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1035				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		obtusangulum	Fairmaire, 1882a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1036				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		pagesii	Fairmaire, 1894	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1037				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		penicilligerum	Karsch, 1881	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1038				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		perforatum	Allard, 1874	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1039				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		peyerimhoffi	Antoine, 1932	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1040				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		reichei	Allard, 187	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1041				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		requieni	Solier, 1843	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1042				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		ruspolii	Fairmaire, 1893	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1043				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		scebelianum	Mal, 1986b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1044				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		siculum	Solier, 1843	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1045				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		tricuspidatum	Fabricius, 1775	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1046				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		tualensis	Escalera, 1940	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1047				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		uncinatum	Erichson, 1841	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1048				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		variegatum	Fabricius, 1792	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1049				Coleoptera		Tenebrionidae	Sepidiina	Sepidium		wagneri	Erichson, 1841	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1050				Coleoptera		Tenebrionidae	Sepidiina	Vieta		algeriana	Allard, 1870	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1051				Coleoptera		Tenebrionidae	Sepidiina	Vieta		angolensis	Quedenfeldt, 1885	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1052				Coleoptera		Tenebrionidae	Sepidiina	Vieta		angustula	Lesne, 1922	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1053				Coleoptera		Tenebrionidae	Sepidiina	Vieta		aper	Fairmaire, 1887	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1054				Coleoptera		Tenebrionidae	Sepidiina	Vieta		apicorne	Fairemaire, 1882	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1055				Coleoptera		Tenebrionidae	Sepidiina	Vieta		borana	Gridelli, 1939a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1056				Coleoptera		Tenebrionidae	Sepidiina	Vieta		bulbifera	Fairmaire, 1897	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1057				Coleoptera		Tenebrionidae	Sepidiina	Vieta		clypeata	Gahan, 1896	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1058				Coleoptera		Tenebrionidae	Sepidiina	Vieta		cornutipennis	Gebien, 1937b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1059				Coleoptera		Tenebrionidae	Sepidiina	Vieta		costata	Allard, 1874	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1060				Coleoptera		Tenebrionidae	Sepidiina	Vieta		crinita	Allard, 1882	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1061				Coleoptera		Tenebrionidae	Sepidiina	Vieta		deckerti	Ferrer, 2004a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1062				Coleoptera		Tenebrionidae	Sepidiina	Vieta		erecticollis	Ancey, 1881b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1063				Coleoptera		Tenebrionidae	Sepidiina	Vieta		erosa	Allard, 1882	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1064				Coleoptera		Tenebrionidae	Sepidiina	Vieta		furcifera	Gerstaecker, 1884	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1065				Coleoptera		Tenebrionidae	Sepidiina	Vieta		gracilenta	Ancey, 1881a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1066				Coleoptera		Tenebrionidae	Sepidiina	Vieta		grisea	Gridelli, 1939a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1067				Coleoptera		Tenebrionidae	Sepidiina	Vieta		grixonii	Gestro, 1895	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1068				Coleoptera		Tenebrionidae	Sepidiina	Vieta		hamaticollis	Fairmaire, 1887	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1069				Coleoptera		Tenebrionidae	Sepidiina	Vieta		holdhausi	Reitter, 1914	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1070				Coleoptera		Tenebrionidae	Sepidiina	Vieta		lacunosa	Fairmaire, 1894	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1071				Coleoptera		Tenebrionidae	Sepidiina	Vieta		longehirta	Fairmaire, 1887	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1072				Coleoptera		Tenebrionidae	Sepidiina	Vieta		longepilosa	Fairmaire, 1891b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1073				Coleoptera		Tenebrionidae	Sepidiina	Vieta		luctuosa	Fairmaire, 1894	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1074				Coleoptera		Tenebrionidae	Sepidiina	Vieta		lutulenta	Gestro, 1895	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1075				Coleoptera		Tenebrionidae	Sepidiina	Vieta		luxorii	Allard, 1874	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1076				Coleoptera		Tenebrionidae	Sepidiina	Vieta		millingenii	Kirchsberg, 1877	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1077				Coleoptera		Tenebrionidae	Sepidiina	Vieta		montana	Fairmaire, 1894	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1078				Coleoptera		Tenebrionidae	Sepidiina	Vieta		muscosa	Gerstaecker, 1871	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1079				Coleoptera		Tenebrionidae	Sepidiina	Vieta		ovalis	Allard, 1874	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1080				Coleoptera		Tenebrionidae	Sepidiina	Vieta		pallidicornis	Koch, 1958	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1081				Coleoptera		Tenebrionidae	Sepidiina	Vieta		protensa	Fairmaire, 1891b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1082				Coleoptera		Tenebrionidae	Sepidiina	Vieta		punctipennis	Reitter, 1914	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1083				Coleoptera		Tenebrionidae	Sepidiina	Vieta		ramosipilus	Koch, 1958	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1084				Coleoptera		Tenebrionidae	Sepidiina	Vieta		rendiliana	Lesne, 1922	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1085				Coleoptera		Tenebrionidae	Sepidiina	Vieta		robusta	Lesne, 1922	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1086				Coleoptera		Tenebrionidae	Sepidiina	Vieta		russoi	Gebien, 1937b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1087				Coleoptera		Tenebrionidae	Sepidiina	Vieta		senegalensis	Klug, 1835	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1088				Coleoptera		Tenebrionidae	Sepidiina	Vieta		sexcornuta	Fairmaire, 1897	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1089				Coleoptera		Tenebrionidae	Sepidiina	Vieta		speculifera	Gebien, 1910a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1090				Coleoptera		Tenebrionidae	Sepidiina	Vieta		spiculosa	Gerstaecker, 1884	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1091				Coleoptera		Tenebrionidae	Sepidiina	Vieta		subcaudata	Lesne, 1922	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1092				Coleoptera		Tenebrionidae	Sepidiina	Vieta		tuberculata	Solier, 1844	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1093				Coleoptera		Tenebrionidae	Sepidiina	Vieta		tuberosa	Fairmaire, 1882a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1094				Coleoptera		Tenebrionidae	Sepidiina	Vieta		uncigera	Ancey, 1881b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1095				Coleoptera		Tenebrionidae	Sepidiina	Vieta		vietomorphoides	Kwieton, 1978	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1096				Coleoptera		Tenebrionidae	Sepidiina	Vieta		villosula	Fairmaire, 1882a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1097				Coleoptera		Tenebrionidae	Sepidiina	Vieta		zavatartii	Gridelli, 1939a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1098				Coleoptera		Tenebrionidae	Sepidiina	Vietomorpha		abyssinica	Mal, 1986a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1099				Coleoptera		Tenebrionidae	Sepidiina	Vietomorpha		bartolozzii	Mal, 1986a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1100				Coleoptera		Tenebrionidae	Sepidiina	Vietomorpha		crassipes	Mal, 1986a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1101				Coleoptera		Tenebrionidae	Sepidiina	Vietomorpha		foveipennis	Fairmaire, 1887	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1102				Coleoptera		Tenebrionidae	Sepidiina	Vietomorpha		tuberosa	Fairmaire, 1882a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1168				Coleoptera		Tenebrionidae	Trachynotina	Cyrtoderes		cristatus	DeGeer, 1778	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1169				Coleoptera		Tenebrionidae	Trachynotina	Cyrtoderes		crucifera	Haag-Rutenberg, 1871a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1170				Coleoptera		Tenebrionidae	Trachynotina	Cyrtoderes		hamaticollis	Péringuey, 1904	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1171				Coleoptera		Tenebrionidae	Trachynotina	Epairopsis		deckerti	Ferrer, 2004	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1172				Coleoptera		Tenebrionidae	Trachynotina	Epairopsis		frontalis	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1173				Coleoptera		Tenebrionidae	Trachynotina	Epairopsis		superbus	Koch 1958	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1174				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmomerus	brevis	Koch, 1954b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1175				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmomerus	subcylindricus	Koch, 1954b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1176				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmophobes	herero	Koch, 1958	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1177				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmophobes	latus	Haag-Rutenberg, 1873	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1178				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmophobes	paradisiacus	Koch, 1958	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1179				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmophobes	vernayi	Koch, 1958	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1180				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmus	acinopoides	Koch, 1954b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1181				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmus	analis	Gebien, 1910a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1182				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmus	barbosai	Koch, 1954b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1183				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmus	borgesi	Koch, 1958	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1184				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmus	cinereosparsus	Gebien, 1910a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1185				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmus	dollmani	Koch, 1954b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1186				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmus	gedyei	Koch, 1954b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1187				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmus	maculatus	Haag-Rutenberg, 1873	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1188				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmus	nyassicus	Koch, 1954b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1189				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmus	plicatus	Müller, 1887	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1190				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmus	pygidialis	Koch, 1954b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1191				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmus	pustulatus	Koch, 1954b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1192				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmus	quadricostatus	Fairmaire, 1888b	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1193				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmus	sculptus	Koch, 1954b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1194				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmus	silvanus	Koch, 1958	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1195				Coleoptera		Tenebrionidae	Trachynotina	Ethmus	Ethmus	tessellatus	Koch, 1958	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1196				Coleoptera		Tenebrionidae	Trachynotina	Ethmus		incostatus	Gebien, 1910a	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1197				Coleoptera		Tenebrionidae	Trachynotina	Histrionotus		lightfooti	Péringuey, 1892	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1198				Coleoptera		Tenebrionidae	Trachynotina	Histrionotus		omercooperi	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1199				Coleoptera		Tenebrionidae	Trachynotina	Microphligra		minuta	Péringuey 1904	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1200				Coleoptera		Tenebrionidae	Trachynotina	Ossiporis		angolensis	Koch, 1953b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1201				Coleoptera		Tenebrionidae	Trachynotina	Ossiporis		capeneri	Koch, 1953d	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1202				Coleoptera		Tenebrionidae	Trachynotina	Ossiporis		crenulimargo	Koch, 1953d	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1203				Coleoptera		Tenebrionidae	Trachynotina	Ossiporis		marshalli	Koch, 1953d	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1204				Coleoptera		Tenebrionidae	Trachynotina	Ossiporis		taterae	Koch, 1953d	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1205				Coleoptera		Tenebrionidae	Trachynotina	Ossiporis		terrena	Pascoe, 1866	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1206				Coleoptera		Tenebrionidae	Trachynotina	Ossiporis		undulicostis	Koch, 1953d	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1207				Coleoptera		Tenebrionidae	Trachynotina	Oxycerus		resolutus	Péringuey, 1904	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1208				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	adventitus	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1209				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	albanyensis	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1210				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	algoensis	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1211				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	bisinuatus	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1212				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	caviventris	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1213				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	cohaerens	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1214				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	corallipes	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1215				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	dimorphus	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1216				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	georgensis	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1217				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	hirundo	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1218				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	karrooensis	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1219				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	licinoides	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1220				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	malaisei	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1221				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	marlothi	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1222				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	moerens	Haag-Rutenberg, 1879	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1223				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	namaquensis	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1224				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	nitens	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1225				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	nollothensis	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1226				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	praephallatus	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1227				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	punctiger	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1228				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	purcelli	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1229				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	saxicola	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1230				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	scaber	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1231				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	striatus	Thunberg, 1787	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1232				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	suturalifer	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1233				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	transmontanus	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1234				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Acromaticus	vansonianus	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1235				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Bechuanitis	bohemani	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1236				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Bechuanitis	brucki	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1237				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Bechuanitis	cinctus	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1238				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Bechuanitis	geniculatus	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1239				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Bechuanitis	hereroensis	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1240				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Bechuanitis	rugulosicollis	Hesse, 1935	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1241				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Ceromelaephus	badeni	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1242				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Ceromelaephus	seminitidus	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1243				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Ceromelaephus	strangulatus	Gebien, 1920	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1244				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Ceromelaephus	wahlbergi	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1245				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Clinocranion	planatus	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1246				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Clinocranion	spinosus	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1247				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Diacis	angustus	Péringuey, 1886	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1248				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Diacis	distinctus	Péringuey, 1892	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1249				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Diacis	regalis	Haag-Rutenberg, 1875	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1250				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Somaticus	aeneus	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1251				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Somaticus	bisbicostatus	Gebien, 1920	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1252				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Somaticus	decoratipes	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1253				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Somaticus	glabriventris	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1254				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Somaticus	rugosus	Fabricius, 1781	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1255				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Somaticus	stali	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1256				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Somaticus	straminicornis	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1257				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Somaticus	stridulatus	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1258				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Somaticus	welwitschi	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1259				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tracheloeum	carinatus	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1260				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tracheloeum	contractus	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1261				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tracheloeum	dilatatus	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1262				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tracheloeum	fahraeusi	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1263				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tracheloeum	giganteus	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1264				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tracheloeum	hoffmanni	Haag-Rutenberg, 1878	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1265				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tracheloeum	impressicollis	Péringuey, 1885	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1266				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tracheloeum	intermedius	Haag-Rutenberg, 1878	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1267				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tracheloeum	laticollis	Hope, 1840	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1268				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tracheloeum	maculosus	Fåhraeus, 1870	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1269				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tracheloeum	marginatus	Thunberg, 1787	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1270				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tracheloeum	pretorianus	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1271				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tracheloeum	silphoides	Fåhraeus, 1870	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1272				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tracheloeum	similis	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1273				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tracheloeum	transvaalensis	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1274				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tracheloeum	vittiger	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1275				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	albomaculatus	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1276				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	barnardi	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1277				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	bipunctatus	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1278				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	braunsi	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1279				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	cordipennis	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1280				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	dubius	Péringuey, 1885	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1281				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	dutoiti	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1282				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	eremicola	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1283				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	fitzsimonsi	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1284				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	goryi	Solier, 1843	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1285				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	gracilipes	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1286				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	gunvorae	Koch, 1953c	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1287				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	haagi	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1288				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	incostatus	Gebien, 1920	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1289				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	kungorum	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1290				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	plutus	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1291				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	pygmaeus	Fåhraeus, 1870	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1292				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	ratus	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1293				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	tentyrioides	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1294				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	tibialis	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1295				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trachyderes	zinni	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1296				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrachys	darlingtoni	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1297				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrachys	funestus	Fåhraeus, 1870	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1298				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrachys	griseus	Fåhraeus, 1870	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1299				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrachys	hispidus	Hesse, 1935	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1300				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrachys	histrio	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1301				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrachys	lutulentus	Péringuey, 1899	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1302				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrachys	metropolis	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1303				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrachys	newtoni	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1304				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrachys	obscurus	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1305				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrachys	schalkwykae	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1306				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrachys	sinuatus	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1307				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrachys	sordidus	Gerstaecker, 1854	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1308				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrachys	terricola	Fåhraeus, 1870	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1309				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrachys	testudo	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1310				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrachys	varicollis	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1311				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrachys	vestitus	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1312				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrachys	zumpti	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1313				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrichus	crinitus	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1314				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrichus	kraatzi	Haag-Rutenberg, 1873	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1315				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Trichotrichus	serratus	Péringuey, 1885	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1316				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tropitrachys	peregrinator	Koch, 1953a	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1317				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tropitrachys	tropicalis	Koch, 1955	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1318				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tropitrachys	damarinus	Péringuey, 1904	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1319				Coleoptera		Tenebrionidae	Trachynotina	Somaticus	Tropitrachys	scutelliformis	Laporte, 1840	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1320				Coleoptera		Tenebrionidae	Trachynotina	Trachynotus		albulus	Péringuey, 1886	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1321				Coleoptera		Tenebrionidae	Trachynotina	Trachynotus		elongatus	Olivier, 1795	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1322				Coleoptera		Tenebrionidae	Trachynotina	Trachynotus		leucographus	Solier, 1843	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1323				Coleoptera		Tenebrionidae	Trachynotina	Trachynotus		lutosus	Péringuey, 1885	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1324				Coleoptera		Tenebrionidae	Trachynotina	Trachynotus		meracus	Péringuey, 1899	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1325				Coleoptera		Tenebrionidae	Trachynotina	Trachynotus		ornatus	Haag-Rutenberg, 1873	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1326				Coleoptera		Tenebrionidae	Trachynotina	Trachynotus		plicipennis	Haag-Rutenberg, 1873	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1327				Coleoptera		Tenebrionidae	Trachynotina	Trachynotus		proximus	Laporte, 1840	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1328				Coleoptera		Tenebrionidae	Trachynotina	Trachynotus		recurvus	Haag-Rutenberg, 1873	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1329				Coleoptera		Tenebrionidae	Trachynotina	Trachynotus		reticulatus	De Geer, 1778	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1330				Coleoptera		Tenebrionidae	Trachynotina	Trachynotus		sctulosus	Haag-Rutenberg, 1873	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1331				Coleoptera		Tenebrionidae	Trachynotina	Trachynotus		tricostatus	Haag-Rutenberg, 1873	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1332				Coleoptera		Tenebrionidae	Trachynotina	Trachynotus		variegatus	Haag-Rutenberg, 1878	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1333				Coleoptera		Tenebrionidae	Trachynotina	Trachynotus		vicinus	Haag-Rutenberg, 1871b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1334				Coleoptera		Tenebrionidae	Trachynotina	Trachynotus		vittatus	Fabricius, 1781	Accepted name	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
+1335				Coleoptera		Tenebrionidae	Trachynotina	Trichethmus		lobicolis	Gebien, 1937b	Accepted name, basionym	Accepted name	0	0	1	Terrestrial		Kamiński M.J.	2019			
