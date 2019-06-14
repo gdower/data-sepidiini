@@ -11,5 +11,5 @@ TBD
 
 # Clearinghouse URL
 
-http://test.col.plus/dataset/1206/classification
+http://www.col.plus/dataset/1206/classification
 
