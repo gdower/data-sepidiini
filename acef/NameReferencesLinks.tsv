@@ -1,1962 +1,1962 @@
 ID	Reference Type	ReferenceID
-1	NomRef	10
-2	NomRef	9
-3	NomRef	13
-4	NomRef	13
-5	NomRef	13
-6	NomRef	13
-7	NomRef	13
-8	NomRef	15
-9	NomRef	13
-10	NomRef	16
-11	NomRef	18
-12	NomRef	11
-13	NomRef	11
-14	NomRef	16
-15	NomRef	6
-16	NomRef	17
-17	NomRef	6
-18	NomRef	17
-19	NomRef	17
-20	NomRef	2
-21	NomRef	4
-22	NomRef	15
-23	NomRef	6
-24	NomRef	6
-25	NomRef	15
-26	NomRef	6
-27	NomRef	17
-28	NomRef	8
-29	NomRef	12
-30	NomRef	12
-31	NomRef	12
-32	NomRef	12
-33	NomRef	14
-34	NomRef	6
-35	NomRef	15
-36	NomRef	16
-37	NomRef	15
-38	NomRef	3
-39	NomRef	1
-40	NomRef	7
-41	NomRef	12
-42	NomRef	11
-43	NomRef	15
-44	NomRef	12
-45	NomRef	12
-46	NomRef	12
-47	NomRef	15
-48	NomRef	15
-49	NomRef	2
-50	NomRef	17
-51	NomRef	15
-52	NomRef	5
-53	NomRef	17
-54	NomRef	7
-55	NomRef	17
-56	NomRef	15
-46	TaxAccRef	19
-47	TaxAccRef	19
-48	TaxAccRef	19
-49	TaxAccRef	19
-50	TaxAccRef	19
-51	TaxAccRef	19
-52	TaxAccRef	19
-53	TaxAccRef	19
-54	TaxAccRef	19
-55	TaxAccRef	19
-56	TaxAccRef	20
-57	NomRef	6
-58	NomRef	6
-59	NomRef	26
-60	NomRef	27
-61	NomRef	28
-62	NomRef	29
-63	NomRef	26
-64	NomRef	30
-65	NomRef	29
-66	NomRef	31
-67	NomRef	6
-68	NomRef	32
-69	NomRef	28
-70	NomRef	33
-71	NomRef	34
-72	NomRef	35
-73	NomRef	36
-74	NomRef	27
-75	NomRef	22
-76	NomRef	37
-77	NomRef	38
-78	NomRef	22
-79	NomRef	22
-80	NomRef	22
-81	NomRef	22
-82	NomRef	22
-83	NomRef	39
-84	NomRef	22
-85	NomRef	27
-86	NomRef	37
-87	NomRef	22
-88	NomRef	6
-89	NomRef	22
-90	NomRef	22
-91	NomRef	40
-92	NomRef	41
-93	NomRef	22
-94	NomRef	42
-95	NomRef	43
-96	NomRef	22
-97	NomRef	44
-98	NomRef	45
-99	NomRef	46
-100	NomRef	47
-101	NomRef	26
-102	NomRef	28
-103	NomRef	20
-104	NomRef	6
-105	NomRef	48
-106	NomRef	29
-107	NomRef	26
-108	NomRef	33
-109	NomRef	27
-110	NomRef	44
-111	NomRef	20
-112	NomRef	49
-113	NomRef	50
-114	NomRef	51
-115	NomRef	50
-116	NomRef	50
-117	NomRef	27
-118	NomRef	50
-119	NomRef	52
-120	NomRef	50
-121	NomRef	53
-122	NomRef	53
-123	NomRef	50
-124	NomRef	28
-125	NomRef	10
-126	NomRef	10
-127	NomRef	54
-128	NomRef	55
-129	NomRef	56
-130	NomRef	31
-131	NomRef	31
-132	NomRef	22
-133	NomRef	25
-134	NomRef	25
-135	NomRef	6
-136	NomRef	57
-137	NomRef	58
-138	NomRef	6
-139	NomRef	44
-140	NomRef	6
-141	NomRef	59
-142	NomRef	6
-143	NomRef	18
-144	NomRef	17
-145	NomRef	6
-146	NomRef	6
-147	NomRef	16
-148	NomRef	6
-149	NomRef	6
-150	NomRef	17
-151	NomRef	60
-152	NomRef	6
-153	NomRef	22
-154	NomRef	61
-155	NomRef	40
-156	NomRef	37
-157	NomRef	22
-158	NomRef	17
-159	NomRef	62
-160	NomRef	17
-161	NomRef	62
-162	NomRef	27
-163	NomRef	63
-164	NomRef	64
-165	NomRef	61
-166	NomRef	65
-167	NomRef	66
-168	NomRef	22
-169	NomRef	22
-170	NomRef	22
-171	NomRef	22
-172	NomRef	61
-173	NomRef	61
-174	NomRef	62
-175	NomRef	64
-176	NomRef	6
-177	NomRef	67
-178	NomRef	68
-179	NomRef	37
-180	NomRef	6
-181	NomRef	69
-182	NomRef	20
-183	NomRef	37
-184	NomRef	20
-185	NomRef	49
-186	NomRef	6
-187	NomRef	70
-188	NomRef	28
-189	NomRef	6
-190	NomRef	54
-191	NomRef	6
-192	NomRef	71
-193	NomRef	6
-194	NomRef	20
-195	NomRef	28
-196	NomRef	6
-197	NomRef	6
-198	NomRef	8
-199	NomRef	7
-200	NomRef	6
-201	NomRef	6
-202	NomRef	6
-203	NomRef	17
-204	NomRef	45
-205	NomRef	6
-206	NomRef	17
-207	NomRef	6
-208	NomRef	28
-209	NomRef	10
-210	NomRef	6
-211	NomRef	6
-212	NomRef	6
-213	NomRef	32
-214	NomRef	6
-215	NomRef	10
-216	NomRef	6
-217	NomRef	70
-218	NomRef	30
-219	NomRef	32
-220	NomRef	6
-221	NomRef	20
-222	NomRef	6
-223	NomRef	6
-224	NomRef	6
-225	NomRef	20
-226	NomRef	7
-227	NomRef	72
-228	NomRef	70
-229	NomRef	73
-230	NomRef	17
-231	NomRef	17
-232	NomRef	7
-233	NomRef	10
-234	NomRef	2
-235	NomRef	6
-236	NomRef	74
-237	NomRef	75
-238	NomRef	6
-239	NomRef	16
-240	NomRef	20
-241	NomRef	20
-242	NomRef	73
-243	NomRef	20
-244	NomRef	70
-245	NomRef	16
-246	NomRef	7
-247	NomRef	16
-248	NomRef	16
-249	NomRef	6
-250	NomRef	20
-251	NomRef	17
-252	NomRef	76
-253	NomRef	6
-254	NomRef	28
-255	NomRef	20
-256	NomRef	6
-257	NomRef	70
-258	NomRef	33
-259	NomRef	73
-260	NomRef	20
-261	NomRef	50
-262	NomRef	28
-263	NomRef	6
-264	NomRef	54
-265	NomRef	6
-266	NomRef	6
-267	NomRef	17
-268	NomRef	6
-269	NomRef	20
-270	NomRef	6
-271	NomRef	6
-272	NomRef	33
-273	NomRef	6
-274	NomRef	18
-275	NomRef	17
-276	NomRef	20
-277	NomRef	17
-278	NomRef	77
-279	NomRef	28
-280	NomRef	20
-281	NomRef	28
-282	NomRef	78
-283	NomRef	7
-284	NomRef	20
-285	NomRef	30
-286	NomRef	6
-287	NomRef	17
-288	NomRef	6
-289	NomRef	28
-290	NomRef	33
-291	NomRef	79
-292	NomRef	6
-293	NomRef	7
-294	NomRef	6
-295	NomRef	6
-296	NomRef	33
-297	NomRef	6
-298	NomRef	17
-299	NomRef	20
-300	NomRef	80
-301	NomRef	17
-302	NomRef	6
-303	NomRef	16
-304	NomRef	6
-305	NomRef	33
-306	NomRef	6
-307	NomRef	6
-308	NomRef	6
-309	NomRef	20
-310	NomRef	6
-311	NomRef	6
-312	NomRef	6
-313	NomRef	169
-314	NomRef	6
-315	NomRef	73
-316	NomRef	17
-317	NomRef	6
-318	NomRef	28
-319	NomRef	6
-320	NomRef	70
-321	NomRef	17
-322	NomRef	6
-323	NomRef	33
-324	NomRef	28
-325	NomRef	28
-326	NomRef	6
-327	NomRef	6
-328	NomRef	6
-329	NomRef	6
-330	NomRef	54
-331	NomRef	6
-332	NomRef	28
-333	NomRef	81
-334	NomRef	6
-335	NomRef	6
-336	NomRef	17
-337	NomRef	6
-338	NomRef	50
-339	NomRef	82
-340	NomRef	64
-341	NomRef	83
-342	NomRef	64
-343	NomRef	84
-344	NomRef	69
-345	NomRef	33
-346	NomRef	85
-347	NomRef	46
-348	NomRef	69
-349	NomRef	83
-350	NomRef	69
-351	NomRef	69
-352	NomRef	83
-353	NomRef	54
-354	NomRef	69
-355	NomRef	69
-356	NomRef	12
-357	NomRef	69
-358	NomRef	83
-359	NomRef	86
-360	NomRef	69
-361	NomRef	40
-362	NomRef	69
-363	NomRef	64
-364	NomRef	83
-365	NomRef	83
-366	NomRef	87
-367	NomRef	69
-368	NomRef	83
-369	NomRef	67
-370	NomRef	22
-371	NomRef	69
-372	NomRef	69
-373	NomRef	69
-374	NomRef	27
-375	NomRef	69
-376	NomRef	69
-377	NomRef	69
-378	NomRef	27
-379	NomRef	69
-380	NomRef	27
-381	NomRef	69
-382	NomRef	61
-383	NomRef	88
-384	NomRef	89
-385	NomRef	42
-386	NomRef	61
-387	NomRef	90
-388	NomRef	37
-389	NomRef	91
-390	NomRef	37
-391	NomRef	2
-392	NomRef	92
-393	NomRef	22
-394	NomRef	55
-395	NomRef	55
-396	NomRef	22
-397	NomRef	42
-398	NomRef	57
-399	NomRef	57
-400	NomRef	25
-401	NomRef	57
-402	NomRef	57
-403	NomRef	61
-404	NomRef	61
-405	NomRef	62
-406	NomRef	57
-407	NomRef	7
-408	NomRef	11
-409	NomRef	17
-410	NomRef	17
-411	NomRef	17
-412	NomRef	6
-413	NomRef	2
-414	NomRef	93
-415	NomRef	50
-416	NomRef	70
-417	NomRef	50
-418	NomRef	70
-419	NomRef	70
-420	NomRef	6
-421	NomRef	69
-422	NomRef	69
-423	NomRef	83
-424	NomRef	69
-425	NomRef	69
-426	NomRef	69
-427	NomRef	2
-428	NomRef	69
-429	NomRef	69
-430	NomRef	69
-431	NomRef	69
-432	NomRef	69
-433	NomRef	69
-434	NomRef	69
-435	NomRef	69
-436	NomRef	69
-437	NomRef	91
-438	NomRef	69
-439	NomRef	27
-440	NomRef	31
-441	NomRef	30
-442	NomRef	36
-443	NomRef	27
-444	NomRef	22
-445	NomRef	37
-446	NomRef	94
-447	NomRef	22
-448	NomRef	22
-449	NomRef	22
-450	NomRef	22
-451	NomRef	22
-452	NomRef	39
-453	NomRef	22
-454	NomRef	27
-455	NomRef	37
-456	NomRef	22
-457	NomRef	6
-458	NomRef	22
-459	NomRef	22
-460	NomRef	40
-461	NomRef	54
-462	NomRef	41
-463	NomRef	22
-464	NomRef	43
-465	NomRef	22
-466	NomRef	44
-467	NomRef	45
-468	NomRef	28
-469	NomRef	20
-470	NomRef	29
-471	NomRef	33
-472	NomRef	95
-473	NomRef	28
-474	NomRef	20
-475	NomRef	49
-476	NomRef	28
-477	NomRef	29
-478	NomRef	56
-479	NomRef	6
-480	NomRef	58
-481	NomRef	59
-482	NomRef	18
-483	NomRef	93
-484	NomRef	60
-485	NomRef	18
-486	NomRef	96
-487	NomRef	60
-488	NomRef	60
-489	NomRef	17
-490	NomRef	17
-491	NomRef	17
-492	NomRef	6
-493	NomRef	97
-494	NomRef	64
-495	NomRef	65
-496	NomRef	66
-497	NomRef	22
-498	NomRef	22
-499	NomRef	22
-500	NomRef	22
-501	NomRef	62
-502	NomRef	64
-503	NomRef	6
-504	NomRef	26
-505	NomRef	37
-506	NomRef	6
-507	NomRef	20
-508	NomRef	20
-509	NomRef	71
-510	NomRef	17
-511	NomRef	45
-512	NomRef	20
-513	NomRef	17
-514	NomRef	32
-515	NomRef	80
-516	NomRef	59
-517	NomRef	17
-518	NomRef	17
-519	NomRef	28
-520	NomRef	17
-521	NomRef	6
-522	NomRef	74
-523	NomRef	17
-524	NomRef	75
-525	NomRef	17
-526	NomRef	17
-527	NomRef	18
-528	NomRef	20
-529	NomRef	17
-530	NomRef	17
-531	NomRef	20
-532	NomRef	28
-533	NomRef	78
-534	NomRef	9
-535	NomRef	17
-536	NomRef	28
-537	NomRef	79
-538	NomRef	17
-539	NomRef	20
-540	NomRef	80
-541	NomRef	17
-542	NomRef	20
-543	NomRef	20
-544	NomRef	17
-545	NomRef	28
-546	NomRef	17
-547	NomRef	20
-548	NomRef	20
-549	NomRef	20
-550	NomRef	16
-551	NomRef	98
-552	NomRef	17
-553	NomRef	20
-554	NomRef	82
-555	NomRef	64
-556	NomRef	83
-557	NomRef	64
-558	NomRef	84
-559	NomRef	33
-560	NomRef	85
-561	NomRef	7
-562	NomRef	83
-563	NomRef	83
-564	NomRef	54
-565	NomRef	12
-566	NomRef	83
-567	NomRef	86
-568	NomRef	40
-569	NomRef	2
-570	NomRef	65
-571	NomRef	64
-572	NomRef	83
-573	NomRef	83
-574	NomRef	87
-575	NomRef	83
-576	NomRef	67
-577	NomRef	22
-578	NomRef	27
-579	NomRef	27
-580	NomRef	27
-581	NomRef	88
-582	NomRef	42
-583	NomRef	37
-584	NomRef	97
-585	NomRef	69
-586	NomRef	91
-587	NomRef	37
-588	NomRef	65
-652	NomRef	6
-653	NomRef	6
-654	NomRef	99
-655	NomRef	6
-656	NomRef	23
-657	NomRef	79
-658	NomRef	10
-659	NomRef	100
-439	TaxAccRef	19
-440	TaxAccRef	24
-441	TaxAccRef	19
-442	TaxAccRef	19
-443	TaxAccRef	19
-444	TaxAccRef	19
-445	TaxAccRef	19
-446	TaxAccRef	22
-447	TaxAccRef	19
-448	TaxAccRef	19
-449	TaxAccRef	19
-450	TaxAccRef	19
-451	TaxAccRef	19
-452	TaxAccRef	19
-453	TaxAccRef	19
-454	TaxAccRef	19
-455	TaxAccRef	19
-456	TaxAccRef	19
-457	TaxAccRef	19
-458	TaxAccRef	19
-459	TaxAccRef	19
-460	TaxAccRef	19
-461	TaxAccRef	22
-462	TaxAccRef	19
-463	TaxAccRef	19
-464	TaxAccRef	19
-465	TaxAccRef	19
-466	TaxAccRef	19
-467	TaxAccRef	19
-468	TaxAccRef	19
-469	TaxAccRef	19
-470	TaxAccRef	19
-471	TaxAccRef	19
-472	TaxAccRef	19
-473	TaxAccRef	48
-474	TaxAccRef	19
-475	TaxAccRef	19
-476	TaxAccRef	19
-477	TaxAccRef	24
-478	TaxAccRef	19
-479	TaxAccRef	19
-480	TaxAccRef	19
-481	TaxAccRef	19
-482	TaxAccRef	6
-483	TaxAccRef	19
-484	TaxAccRef	6
-485	TaxAccRef	19
-486	TaxAccRef	101
-487	TaxAccRef	19
-488	TaxAccRef	19
-489	TaxAccRef	6
-490	TaxAccRef	6
-491	TaxAccRef	6
-492	TaxAccRef	62
-493	TaxAccRef	22
-494	TaxAccRef	19
-495	TaxAccRef	19
-496	TaxAccRef	19
-497	TaxAccRef	61
-498	TaxAccRef	19
-499	TaxAccRef	19
-500	TaxAccRef	19
-501	TaxAccRef	19
-502	TaxAccRef	19
-503	TaxAccRef	19
-504	TaxAccRef	69
-505	TaxAccRef	19
-506	TaxAccRef	19
-507	TaxAccRef	19
-508	TaxAccRef	24
-509	TaxAccRef	19
-510	TaxAccRef	19
-511	TaxAccRef	19
-512	TaxAccRef	24
-513	TaxAccRef	19
-514	TaxAccRef	24
-515	TaxAccRef	102
-516	TaxAccRef	6
-517	TaxAccRef	19
-518	TaxAccRef	19
-519	TaxAccRef	7
-520	TaxAccRef	7
-521	TaxAccRef	19
-522	TaxAccRef	19
-523	TaxAccRef	6
-524	TaxAccRef	19
-525	TaxAccRef	7
-526	TaxAccRef	19
-527	TaxAccRef	19
-528	TaxAccRef	24
-529	TaxAccRef	19
-530	TaxAccRef	19
-531	TaxAccRef	19
-532	TaxAccRef	19
-533	TaxAccRef	19
-534	TaxAccRef	24
-535	TaxAccRef	19
-536	TaxAccRef	19
-537	TaxAccRef	19
-538	TaxAccRef	19
-539	TaxAccRef	32
-540	TaxAccRef	19
-541	TaxAccRef	19
-542	TaxAccRef	24
-543	TaxAccRef	24
-544	TaxAccRef	19
-545	TaxAccRef	19
-546	TaxAccRef	19
-547	TaxAccRef	24
-548	TaxAccRef	24
-549	TaxAccRef	32
-550	TaxAccRef	16
-551	TaxAccRef	24
-552	TaxAccRef	19
-553	TaxAccRef	32
-554	TaxAccRef	19
-555	TaxAccRef	19
-556	TaxAccRef	19
-557	TaxAccRef	19
-558	TaxAccRef	19
-559	TaxAccRef	19
-560	TaxAccRef	19
-561	TaxAccRef	69
-562	TaxAccRef	19
-563	TaxAccRef	19
-564	TaxAccRef	19
-565	TaxAccRef	19
-566	TaxAccRef	19
-567	TaxAccRef	19
-568	TaxAccRef	19
-569	TaxAccRef	19
-570	TaxAccRef	19
-571	TaxAccRef	19
-572	TaxAccRef	19
-573	TaxAccRef	19
-574	TaxAccRef	19
-575	TaxAccRef	19
-576	TaxAccRef	19
-577	TaxAccRef	19
-578	TaxAccRef	19
-579	TaxAccRef	19
-580	TaxAccRef	19
-581	TaxAccRef	19
-582	TaxAccRef	19
-583	TaxAccRef	19
-584	TaxAccRef	69
-585	TaxAccRef	19
-586	TaxAccRef	19
-587	TaxAccRef	19
-588	TaxAccRef	19
-589	NomRef	12
-590	NomRef	12
-591	NomRef	12
-592	NomRef	12
-593	NomRef	12
-594	NomRef	12
-595	NomRef	12
-596	NomRef	6
-597	NomRef	12
-598	NomRef	6
-599	NomRef	12
-600	NomRef	12
-601	NomRef	11
-602	NomRef	11
-603	NomRef	99
-604	NomRef	11
-605	NomRef	6
-606	NomRef	7
-607	NomRef	12
-608	NomRef	7
-609	NomRef	12
-610	NomRef	76
-611	NomRef	17
-612	NomRef	23
-613	NomRef	79
-614	NomRef	10
-615	NomRef	12
-616	NomRef	10
-617	NomRef	10
-618	NomRef	12
-619	NomRef	12
-620	NomRef	10
-621	NomRef	10
-622	NomRef	10
-623	NomRef	10
-624	NomRef	10
-625	NomRef	12
-626	NomRef	10
-627	NomRef	10
-628	NomRef	10
-629	NomRef	10
-630	NomRef	12
-631	NomRef	103
-632	NomRef	43
-633	NomRef	103
-634	NomRef	103
-635	NomRef	104
-636	NomRef	103
-637	NomRef	43
-638	NomRef	103
-639	NomRef	103
-640	NomRef	100
-641	NomRef	6
-642	NomRef	10
-643	NomRef	6
-644	NomRef	10
-645	NomRef	6
-646	NomRef	12
-647	NomRef	12
-648	NomRef	23
-649	NomRef	10
-650	NomRef	43
-651	NomRef	10
-652	NomRef	6
-653	NomRef	6
-654	NomRef	99
-655	NomRef	6
-656	NomRef	23
-657	NomRef	79
-658	NomRef	10
-659	NomRef	100
-652	TaxAccRef	19
-653	TaxAccRef	19
-654	TaxAccRef	19
-655	TaxAccRef	19
-656	TaxAccRef	19
-657	TaxAccRef	19
-658	TaxAccRef	19
-659	TaxAccRef	19
-660	NomRef	50
-661	NomRef	10
-662	NomRef	105
-663	NomRef	10
-664	NomRef	6
-665	NomRef	20
-666	NomRef	106
-667	NomRef	10
-668	NomRef	50
-669	NomRef	10
-670	NomRef	10
-671	NomRef	10
-672	NomRef	10
-673	NomRef	10
-674	NomRef	33
-675	NomRef	6
-676	NomRef	10
-677	NomRef	10
-678	NomRef	45
-679	NomRef	49
-680	NomRef	10
-681	NomRef	10
-682	NomRef	10
-683	NomRef	28
-684	NomRef	10
-685	NomRef	20
-686	NomRef	6
-687	NomRef	10
-688	NomRef	10
-689	NomRef	6
-690	NomRef	20
-691	NomRef	27
-692	NomRef	20
-693	NomRef	10
-694	NomRef	10
-695	NomRef	7
-696	NomRef	10
-697	NomRef	33
-698	NomRef	10
-699	NomRef	33
-700	NomRef	10
-701	NomRef	10
-702	NomRef	6
-703	NomRef	10
-704	NomRef	16
-705	NomRef	9
-706	NomRef	6
-707	NomRef	10
-708	NomRef	6
-709	NomRef	57
-710	NomRef	10
-711	NomRef	6
-712	NomRef	6
-713	NomRef	10
-714	NomRef	10
-715	NomRef	20
-716	NomRef	10
-717	NomRef	10
-718	NomRef	6
-719	NomRef	10
-720	NomRef	10
-721	NomRef	71
-722	NomRef	69
-723	NomRef	20
-724	NomRef	6
-725	NomRef	10
-726	NomRef	10
-727	NomRef	10
-728	NomRef	10
-729	NomRef	10
-730	NomRef	20
-731	NomRef	16
-732	NomRef	10
-733	NomRef	49
-734	NomRef	6
-735	NomRef	10
-736	NomRef	10
-737	NomRef	10
-738	NomRef	10
-739	NomRef	6
-740	NomRef	18
-741	NomRef	10
-742	NomRef	10
-743	NomRef	17
-744	NomRef	107
-745	NomRef	10
-746	NomRef	6
-747	NomRef	51
-748	NomRef	10
-749	NomRef	49
-750	NomRef	10
-751	NomRef	10
-752	NomRef	10
-753	NomRef	20
-754	NomRef	78
-755	NomRef	10
-756	NomRef	10
-757	NomRef	10
-758	NomRef	73
-759	NomRef	10
-760	NomRef	10
-761	NomRef	10
-762	NomRef	108
-763	NomRef	73
-764	NomRef	10
-765	NomRef	45
-766	NomRef	10
-767	NomRef	28
-768	NomRef	10
-769	NomRef	6
-770	NomRef	10
-771	NomRef	20
-772	NomRef	2
-773	NomRef	10
-774	NomRef	20
-775	NomRef	10
-776	NomRef	10
-777	NomRef	10
-778	NomRef	10
-779	NomRef	17
-780	NomRef	6
-781	NomRef	10
-782	NomRef	9
-783	NomRef	6
-784	NomRef	10
-785	NomRef	20
-786	NomRef	20
-787	NomRef	20
-788	NomRef	10
-789	NomRef	20
-790	NomRef	10
-791	NomRef	50
-792	NomRef	33
-793	NomRef	26
-794	NomRef	14
-795	NomRef	109
-796	NomRef	109
-797	NomRef	109
-798	NomRef	110
-799	NomRef	110
-800	NomRef	10
-801	NomRef	51
-802	NomRef	10
-803	NomRef	10
-804	NomRef	109
-805	NomRef	10
-806	NomRef	9
-807	NomRef	10
-808	NomRef	13
-809	NomRef	6
-810	NomRef	10
-811	NomRef	111
-812	NomRef	10
-813	NomRef	13
-814	NomRef	79
-815	NomRef	6
-816	NomRef	10
-817	NomRef	10
-818	NomRef	13
-819	NomRef	10
-820	NomRef	112
-821	NomRef	112
-822	NomRef	10
-823	NomRef	33
-824	NomRef	10
-825	NomRef	10
-826	NomRef	10
-827	NomRef	10
-828	NomRef	10
-829	NomRef	10
-830	NomRef	10
-831	NomRef	10
-832	NomRef	10
-833	NomRef	10
-834	NomRef	6
-835	NomRef	10
-836	NomRef	105
-837	NomRef	10
-838	NomRef	6
-839	NomRef	6
-840	NomRef	20
-841	NomRef	31
-842	NomRef	106
-843	NomRef	10
-844	NomRef	50
-845	NomRef	10
-846	NomRef	10
-847	NomRef	10
-848	NomRef	10
-849	NomRef	10
-850	NomRef	33
-851	NomRef	113
-852	NomRef	6
-853	NomRef	10
-854	NomRef	10
-855	NomRef	45
-856	NomRef	49
-857	NomRef	10
-858	NomRef	10
-859	NomRef	10
-860	NomRef	10
-861	NomRef	20
-862	NomRef	6
-863	NomRef	10
-864	NomRef	10
-865	NomRef	6
-866	NomRef	20
-867	NomRef	27
-868	NomRef	20
-869	NomRef	10
-870	NomRef	10
-871	NomRef	7
-872	NomRef	10
-873	NomRef	33
-874	NomRef	10
-875	NomRef	33
-876	NomRef	10
-877	NomRef	10
-878	NomRef	6
-879	NomRef	10
-880	NomRef	16
-881	NomRef	9
-882	NomRef	20
-883	NomRef	6
-884	NomRef	20
-885	NomRef	10
-886	NomRef	6
-887	NomRef	57
-888	NomRef	10
-889	NomRef	6
-890	NomRef	6
-891	NomRef	10
-892	NomRef	10
-893	NomRef	20
-894	NomRef	10
-895	NomRef	10
-896	NomRef	6
-897	NomRef	10
-898	NomRef	10
-899	NomRef	71
-900	NomRef	60
-901	NomRef	17
-902	NomRef	69
-903	NomRef	20
-904	NomRef	6
-905	NomRef	10
-906	NomRef	10
-907	NomRef	10
-908	NomRef	10
-909	NomRef	10
-910	NomRef	20
-911	NomRef	16
-912	NomRef	10
-913	NomRef	49
-914	NomRef	6
-915	NomRef	10
-916	NomRef	10
-917	NomRef	10
-918	NomRef	10
-919	NomRef	6
-920	NomRef	18
-921	NomRef	10
-922	NomRef	10
-923	NomRef	17
-924	NomRef	107
-925	NomRef	17
-926	NomRef	10
-927	NomRef	6
-928	NomRef	20
-929	NomRef	20
-930	NomRef	51
-931	NomRef	10
-932	NomRef	49
-933	NomRef	10
-934	NomRef	10
-935	NomRef	10
-936	NomRef	20
-937	NomRef	78
-938	NomRef	10
-939	NomRef	10
-940	NomRef	10
-941	NomRef	73
-942	NomRef	10
-943	NomRef	10
-944	NomRef	10
-945	NomRef	108
-946	NomRef	32
-947	NomRef	73
-948	NomRef	79
-949	NomRef	10
-950	NomRef	45
-951	NomRef	10
-952	NomRef	10
-953	NomRef	6
-954	NomRef	10
-955	NomRef	20
-956	NomRef	2
-957	NomRef	10
-958	NomRef	20
-959	NomRef	10
-960	NomRef	10
-961	NomRef	10
-962	NomRef	10
-963	NomRef	17
-964	NomRef	6
-965	NomRef	10
-966	NomRef	9
-967	NomRef	31
-968	NomRef	20
-969	NomRef	6
-970	NomRef	10
-971	NomRef	20
-972	NomRef	20
-973	NomRef	20
-974	NomRef	10
-975	NomRef	20
-976	NomRef	10
-977	NomRef	50
-978	NomRef	33
-979	NomRef	14
-980	NomRef	91
-981	NomRef	110
-982	NomRef	110
-983	NomRef	51
-984	NomRef	79
-985	NomRef	9
-986	NomRef	6
-987	NomRef	78
-988	NomRef	10
-989	NomRef	6
-836	TaxAccRef	19
-837	TaxAccRef	19
-838	TaxAccRef	19
-839	TaxAccRef	19
-840	TaxAccRef	19
-841	TaxAccRef	32
-842	TaxAccRef	19
-843	TaxAccRef	19
-844	TaxAccRef	19
-845	TaxAccRef	19
-846	TaxAccRef	19
-847	TaxAccRef	19
-848	TaxAccRef	19
-849	TaxAccRef	19
-850	TaxAccRef	19
-851	TaxAccRef	10
-852	TaxAccRef	19
-853	TaxAccRef	19
-854	TaxAccRef	19
-855	TaxAccRef	19
-856	TaxAccRef	19
-857	TaxAccRef	19
-858	TaxAccRef	19
-859	TaxAccRef	19
-860	TaxAccRef	19
-861	TaxAccRef	19
-862	TaxAccRef	19
-863	TaxAccRef	19
-864	TaxAccRef	19
-865	TaxAccRef	19
-866	TaxAccRef	19
-867	TaxAccRef	19
-868	TaxAccRef	19
-869	TaxAccRef	19
-870	TaxAccRef	19
-871	TaxAccRef	19
-872	TaxAccRef	19
-873	TaxAccRef	19
-874	TaxAccRef	19
-875	TaxAccRef	19
-876	TaxAccRef	19
-877	TaxAccRef	19
-878	TaxAccRef	19
-879	TaxAccRef	19
-880	TaxAccRef	19
-881	TaxAccRef	19
-882	TaxAccRef	10
-883	TaxAccRef	19
-884	TaxAccRef	10
-885	TaxAccRef	19
-886	TaxAccRef	19
-887	TaxAccRef	19
-888	TaxAccRef	19
-889	TaxAccRef	19
-890	TaxAccRef	19
-891	TaxAccRef	19
-892	TaxAccRef	19
-893	TaxAccRef	19
-894	TaxAccRef	19
-895	TaxAccRef	19
-896	TaxAccRef	19
-897	TaxAccRef	19
-898	TaxAccRef	19
-899	TaxAccRef	19
-900	TaxAccRef	7
-901	TaxAccRef	7
-902	TaxAccRef	19
-903	TaxAccRef	19
-904	TaxAccRef	19
-905	TaxAccRef	19
-906	TaxAccRef	19
-907	TaxAccRef	19
-908	TaxAccRef	19
-909	TaxAccRef	19
-910	TaxAccRef	19
-911	TaxAccRef	19
-912	TaxAccRef	19
-913	TaxAccRef	19
-914	TaxAccRef	19
-915	TaxAccRef	19
-916	TaxAccRef	19
-917	TaxAccRef	19
-918	TaxAccRef	19
-919	TaxAccRef	19
-920	TaxAccRef	19
-921	TaxAccRef	19
-922	TaxAccRef	19
-923	TaxAccRef	19
-924	TaxAccRef	19
-925	TaxAccRef	24
-926	TaxAccRef	19
-927	TaxAccRef	19
-928	TaxAccRef	10
-929	TaxAccRef	10
-930	TaxAccRef	19
-931	TaxAccRef	19
-932	TaxAccRef	19
-933	TaxAccRef	19
-934	TaxAccRef	19
-935	TaxAccRef	19
-936	TaxAccRef	19
-937	TaxAccRef	19
-938	TaxAccRef	19
-939	TaxAccRef	19
-940	TaxAccRef	19
-941	TaxAccRef	19
-942	TaxAccRef	19
-943	TaxAccRef	19
-944	TaxAccRef	19
-945	TaxAccRef	19
-946	TaxAccRef	24
-947	TaxAccRef	19
-948	TaxAccRef	10
-949	TaxAccRef	19
-950	TaxAccRef	19
-951	TaxAccRef	19
-952	TaxAccRef	19
-953	TaxAccRef	19
-954	TaxAccRef	10
-955	TaxAccRef	19
-956	TaxAccRef	19
-957	TaxAccRef	19
-958	TaxAccRef	19
-959	TaxAccRef	19
-960	TaxAccRef	19
-961	TaxAccRef	19
-962	TaxAccRef	19
-963	TaxAccRef	19
-964	TaxAccRef	19
-965	TaxAccRef	19
-966	TaxAccRef	19
-967	TaxAccRef	32
-968	TaxAccRef	10
-969	TaxAccRef	19
-970	TaxAccRef	19
-971	TaxAccRef	19
-972	TaxAccRef	19
-973	TaxAccRef	19
-974	TaxAccRef	19
-975	TaxAccRef	19
-976	TaxAccRef	19
-977	TaxAccRef	19
-978	TaxAccRef	19
-979	TaxAccRef	19
-980	TaxAccRef	16
-981	TaxAccRef	19
-982	TaxAccRef	19
-983	TaxAccRef	19
-984	TaxAccRef	109
-985	TaxAccRef	19
-986	TaxAccRef	19
-987	TaxAccRef	9
-988	TaxAccRef	109
-989	TaxAccRef	19
-990	NomRef	23
-991	NomRef	114
-992	NomRef	115
-993	NomRef	116
-994	NomRef	74
-995	NomRef	20
-996	NomRef	115
-997	NomRef	117
-998	NomRef	117
-999	NomRef	82
-1000	NomRef	118
-1001	NomRef	37
-1002	NomRef	118
-1003	NomRef	118
-1004	NomRef	119
-1005	NomRef	118
-1006	NomRef	120
-1007	NomRef	121
-1008	NomRef	82
-1009	NomRef	17
-1010	NomRef	122
-1011	NomRef	17
-1012	NomRef	58
-1013	NomRef	123
-1014	NomRef	87
-1015	NomRef	67
-1016	NomRef	124
-1017	NomRef	125
-1018	NomRef	80
-1019	NomRef	42
-1020	NomRef	126
-1021	NomRef	127
-1022	NomRef	128
-1023	NomRef	120
-1024	NomRef	129
-1025	NomRef	130
-1026	NomRef	131
-1027	NomRef	132
-1028	NomRef	133
-1029	NomRef	134
-1030	NomRef	58
-1031	NomRef	135
-1032	NomRef	129
-1033	NomRef	131
-1034	NomRef	136
-1035	NomRef	42
-1036	NomRef	48
-1037	NomRef	137
-1038	NomRef	138
-1039	NomRef	130
-1040	NomRef	138
-1041	NomRef	17
-1042	NomRef	133
-1043	NomRef	123
-1044	NomRef	17
-1045	NomRef	80
-1046	NomRef	139
-1047	NomRef	121
-1048	NomRef	140
-1049	NomRef	121
-1050	NomRef	141
-1051	NomRef	30
-1052	NomRef	83
-1053	NomRef	37
-1054	NomRef	42
-1055	NomRef	84
-1056	NomRef	54
-1057	NomRef	142
-1058	NomRef	43
-1059	NomRef	138
-1060	NomRef	143
-1061	NomRef	144
-1062	NomRef	145
-1063	NomRef	143
-1064	NomRef	87
-1065	NomRef	146
-1066	NomRef	84
-1067	NomRef	39
-1068	NomRef	37
-1069	NomRef	131
-1070	NomRef	48
-1071	NomRef	37
-1072	NomRef	65
-1073	NomRef	48
-1074	NomRef	39
-1075	NomRef	138
-1076	NomRef	147
-1077	NomRef	48
-1078	NomRef	40
-1079	NomRef	138
-1080	NomRef	23
-1081	NomRef	65
-1082	NomRef	131
-1083	NomRef	23
-1084	NomRef	83
-1085	NomRef	83
-1086	NomRef	43
-1087	NomRef	148
-1088	NomRef	54
-1089	NomRef	27
-1090	NomRef	87
-1091	NomRef	83
-1092	NomRef	17
-1093	NomRef	42
-1094	NomRef	145
-1095	NomRef	149
-1096	NomRef	42
-1097	NomRef	84
-1098	NomRef	150
-1099	NomRef	150
-1100	NomRef	150
-1101	NomRef	37
-1102	NomRef	42
-1103	NomRef	151
-1104	NomRef	139
-1105	NomRef	152
-1106	NomRef	127
-1107	NomRef	136
-1108	NomRef	17
-1109	NomRef	121
-1110	NomRef	23
-1111	NomRef	23
-1112	NomRef	49
-1113	NomRef	74
-1114	NomRef	74
-1115	NomRef	20
-1116	NomRef	82
-1117	NomRef	119
-1118	NomRef	17
-1119	NomRef	17
-1120	NomRef	138
-1121	NomRef	59
-1122	NomRef	127
-1123	NomRef	131
-1124	NomRef	153
-1125	NomRef	131
-1126	NomRef	17
-1127	NomRef	131
-1128	NomRef	23
-1129	NomRef	23
-1130	NomRef	154
-1131	NomRef	17
-1132	NomRef	17
-1133	NomRef	17
-1134	NomRef	155
-1135	NomRef	156
-1136	NomRef	17
-1137	NomRef	17
-1138	NomRef	17
-1139	NomRef	17
-1140	NomRef	157
-1141	NomRef	158
-1142	NomRef	17
-1143	NomRef	17
-1144	NomRef	138
-1145	NomRef	124
-1146	NomRef	124
-1147	NomRef	124
-1148	NomRef	140
-1149	NomRef	138
-1150	NomRef	62
-1151	NomRef	51
-1152	NomRef	42
-1153	NomRef	51
-1154	NomRef	87
-1155	NomRef	37
-1156	NomRef	37
-1157	NomRef	40
-1158	NomRef	17
-1159	NomRef	159
-1160	NomRef	54
-1161	NomRef	87
-1162	NomRef	17
-1163	NomRef	17
-1164	NomRef	42
-1165	NomRef	88
-1166	NomRef	42
-1167	NomRef	43
-1114	TaxAccRef	19
-1115	TaxAccRef	19
-1116	TaxAccRef	19
-1117	TaxAccRef	19
-1118	TaxAccRef	160
-1119	TaxAccRef	131
-1120	TaxAccRef	131
-1121	TaxAccRef	138
-1122	TaxAccRef	24
-1123	TaxAccRef	24
-1124	TaxAccRef	19
-1125	TaxAccRef	128
-1126	TaxAccRef	131
-1127	TaxAccRef	128
-1128	TaxAccRef	128
-1129	TaxAccRef	128
-1130	TaxAccRef	128
-1131	TaxAccRef	131
-1132	TaxAccRef	131
-1133	TaxAccRef	128
-1134	TaxAccRef	131
-1135	TaxAccRef	161
-1136	TaxAccRef	131
-1137	TaxAccRef	131
-1138	TaxAccRef	131
-1139	TaxAccRef	131
-1140	TaxAccRef	128
-1141	TaxAccRef	128
-1142	TaxAccRef	131
-1143	TaxAccRef	131
-1144	TaxAccRef	131
-1145	TaxAccRef	162
-1146	TaxAccRef	131
-1147	TaxAccRef	2
-1148	TaxAccRef	2
-1149	TaxAccRef	131
-1150	TaxAccRef	128
-1151	TaxAccRef	23
-1152	TaxAccRef	23
-1153	TaxAccRef	23
-1154	TaxAccRef	19
-1155	TaxAccRef	19
-1156	TaxAccRef	19
-1157	TaxAccRef	19
-1158	TaxAccRef	162
-1159	TaxAccRef	138
-1160	TaxAccRef	19
-1161	TaxAccRef	19
-1162	TaxAccRef	19
-1163	TaxAccRef	131
-1164	TaxAccRef	19
-1165	TaxAccRef	163
-1166	TaxAccRef	19
-1167	TaxAccRef	150
-1268	NomRef	164
-1269	NomRef	6
-1270	NomRef	32
-1271	NomRef	144
-1272	NomRef	8
-1273	NomRef	23
-1274	NomRef	112
-1275	NomRef	112
-1276	NomRef	23
-1277	NomRef	8
-1278	NomRef	23
-1279	NomRef	23
-1280	NomRef	112
-1281	NomRef	27
-1282	NomRef	112
-1283	NomRef	23
-1284	NomRef	27
-1285	NomRef	112
-1286	NomRef	112
-1287	NomRef	8
-1288	NomRef	112
-1289	NomRef	110
-1290	NomRef	112
-1291	NomRef	112
-1292	NomRef	49
-1293	NomRef	112
-1294	NomRef	23
-1295	NomRef	23
-1296	NomRef	27
-1297	NomRef	51
-1298	NomRef	21
-1299	NomRef	32
-1300	NomRef	50
-1301	NomRef	165
-1302	NomRef	165
-1303	NomRef	165
-1304	NomRef	165
-1305	NomRef	166
-1306	NomRef	166
-1307	NomRef	32
-1308	NomRef	20
-1309	NomRef	21
-1310	NomRef	21
-1311	NomRef	21
-1312	NomRef	21
-1313	NomRef	21
-1314	NomRef	21
-1315	NomRef	21
-1316	NomRef	21
-1317	NomRef	21
-1318	NomRef	21
-1319	NomRef	8
-1320	NomRef	21
-1321	NomRef	21
-1322	NomRef	9
-1323	NomRef	21
-1324	NomRef	20
-1325	NomRef	21
-1326	NomRef	21
-1327	NomRef	9
-1328	NomRef	21
-1329	NomRef	21
-1330	NomRef	8
-1331	NomRef	18
-1332	NomRef	21
-1333	NomRef	21
-1334	NomRef	21
-1335	NomRef	8
-1336	NomRef	8
-1337	NomRef	8
-1338	NomRef	8
-1339	NomRef	21
-1340	NomRef	100
-1341	NomRef	8
-1342	NomRef	21
-1343	NomRef	79
-1344	NomRef	8
-1345	NomRef	17
-1346	NomRef	17
-1347	NomRef	168
-1348	NomRef	51
-1349	NomRef	33
-1350	NomRef	17
-1351	NomRef	79
-1352	NomRef	21
-1353	NomRef	21
-1354	NomRef	168
-1355	NomRef	8
-1356	NomRef	21
-1357	NomRef	21
-1358	NomRef	21
-1359	NomRef	17
-1360	NomRef	8
-1361	NomRef	8
-1362	NomRef	21
-1363	NomRef	21
-1364	NomRef	169
-1365	NomRef	14
-1366	NomRef	169
-1367	NomRef	170
-1368	NomRef	28
-1369	NomRef	18
-1370	NomRef	21
-1371	NomRef	28
-1372	NomRef	8
-1373	NomRef	21
-1374	NomRef	8
-1375	NomRef	8
-1376	NomRef	21
-1377	NomRef	8
-1378	NomRef	21
-1379	NomRef	21
-1380	NomRef	14
-1381	NomRef	21
-1382	NomRef	21
-1383	NomRef	21
-1384	NomRef	17
-1385	NomRef	8
-1386	NomRef	70
-1387	NomRef	20
-1388	NomRef	79
-1389	NomRef	21
-1390	NomRef	21
-1391	NomRef	28
-1392	NomRef	21
-1393	NomRef	8
-1394	NomRef	8
-1395	NomRef	21
-1396	NomRef	21
-1397	NomRef	28
-1398	NomRef	28
-1399	NomRef	100
-1400	NomRef	21
-1401	NomRef	20
-1402	NomRef	21
-1403	NomRef	21
-1404	NomRef	21
-1405	NomRef	21
-1406	NomRef	21
-1407	NomRef	45
-1408	NomRef	28
-1409	NomRef	21
-1410	NomRef	21
-1411	NomRef	8
-1412	NomRef	21
-1413	NomRef	8
-1414	NomRef	8
-1415	NomRef	14
-1416	NomRef	69
-1417	NomRef	21
-1418	NomRef	32
-1419	NomRef	74
-1420	NomRef	168
-1421	NomRef	71
-1422	NomRef	17
-1423	NomRef	14
-1424	NomRef	20
-1425	NomRef	8
-1426	NomRef	8
-1427	NomRef	74
-1428	NomRef	8
-1429	NomRef	172
-1430	NomRef	8
-1431	NomRef	8
-1432	NomRef	169
-1433	NomRef	7
-1434	NomRef	168
-1435	NomRef	43
-1436	NomRef	17
-1437	NomRef	17
-1438	NomRef	51
-1439	NomRef	23
-1440	NomRef	23
-1441	NomRef	23
-1442	NomRef	23
-1443	NomRef	23
-1444	NomRef	23
-1445	NomRef	23
-1446	NomRef	166
-1447	NomRef	28
-1448	NomRef	166
-1449	NomRef	166
-1450	NomRef	21
-1451	NomRef	21
-1452	NomRef	21
-1453	NomRef	21
-1454	NomRef	100
-1455	NomRef	21
-1456	NomRef	21
-1457	NomRef	21
-1458	NomRef	21
-1459	NomRef	21
-1460	NomRef	21
-1461	NomRef	21
-1462	NomRef	21
-1463	NomRef	21
-1464	NomRef	21
-1465	NomRef	21
-1466	NomRef	21
-1467	NomRef	21
-1468	NomRef	8
-1469	NomRef	21
-1470	NomRef	21
-1471	NomRef	21
-1472	NomRef	21
-1473	NomRef	21
-1474	NomRef	14
-1475	NomRef	21
-1476	NomRef	21
-1477	NomRef	21
-1478	NomRef	21
-1479	NomRef	8
-1380	NomRef	21
-1381	NomRef	21
-1382	NomRef	21
-1383	NomRef	21
-1384	NomRef	21
-1385	NomRef	165
-1386	NomRef	18
-1387	NomRef	172
-1388	NomRef	173
-1389	NomRef	74
-1390	NomRef	17
-1391	NomRef	6
-1392	NomRef	32
-1393	NomRef	8
-1394	NomRef	51
-1395	NomRef	49
-1396	NomRef	51
-1397	NomRef	32
-1398	NomRef	32
-1399	NomRef	20
-1400	NomRef	8
-1401	NomRef	20
-1402	NomRef	9
-1403	NomRef	20
-1404	NomRef	8
-1405	NomRef	8
-1406	NomRef	18
-1407	NomRef	171
-1408	NomRef	8
-1409	NomRef	8
-1410	NomRef	8
-1411	NomRef	8
-1412	NomRef	100
-1413	NomRef	8
-1414	NomRef	14
-1415	NomRef	79
-1416	NomRef	8
-1417	NomRef	17
-1418	NomRef	17
-1419	NomRef	168
-1420	NomRef	51
-1421	NomRef	33
-1422	NomRef	17
-1423	NomRef	79
-1424	NomRef	168
-1425	NomRef	60
-1426	NomRef	8
-1427	NomRef	14
-1428	NomRef	8
-1429	NomRef	8
-1430	NomRef	8
-1431	NomRef	169
-1432	NomRef	14
-1433	NomRef	169
-1434	NomRef	170
-1435	NomRef	28
-1436	NomRef	18
-1437	NomRef	28
-1438	NomRef	28
-1439	NomRef	20
-1440	NomRef	28
-1441	NomRef	8
-1442	NomRef	8
-1443	NomRef	8
-1444	NomRef	14
-1445	NomRef	8
-1446	NomRef	14
-1447	NomRef	14
-1448	NomRef	168
-1449	NomRef	79
-1450	NomRef	17
-1451	NomRef	8
-1452	NomRef	168
-1453	NomRef	70
-1454	NomRef	20
-1455	NomRef	79
-1456	NomRef	28
-1457	NomRef	20
-1458	NomRef	8
-1459	NomRef	79
-1460	NomRef	8
-1461	NomRef	28
-1462	NomRef	28
-1463	NomRef	100
-1464	NomRef	20
-1465	NomRef	45
-1466	NomRef	28
-1467	NomRef	8
-1468	NomRef	8
-1469	NomRef	8
-1470	NomRef	14
-1471	NomRef	69
-1472	NomRef	74
-1473	NomRef	71
-1474	NomRef	172
-1475	NomRef	174
-1476	NomRef	7
-1477	NomRef	168
-1478	NomRef	174
-1479	NomRef	175
-1480	NomRef	17
-1385	TaxAccRef	19
-1386	TaxAccRef	6
-1387	TaxAccRef	176
-1388	TaxAccRef	177
-1389	TaxAccRef	6
-1390	TaxAccRef	6
-1391	TaxAccRef	19
-1392	TaxAccRef	19
-1393	TaxAccRef	19
-1394	TaxAccRef	79
-1395	TaxAccRef	19
-1396	TaxAccRef	19
-1397	TaxAccRef	19
-1398	TaxAccRef	19
-1399	TaxAccRef	19
-1400	TaxAccRef	19
-1401	TaxAccRef	24
-1402	TaxAccRef	19
-1403	TaxAccRef	19
-1404	TaxAccRef	19
-1405	TaxAccRef	19
-1406	TaxAccRef	19
-1407	TaxAccRef	101
-1408	TaxAccRef	19
-1409	TaxAccRef	19
-1410	TaxAccRef	19
-1411	TaxAccRef	19
-1412	TaxAccRef	19
-1413	TaxAccRef	19
-1414	TaxAccRef	24
-1415	TaxAccRef	19
-1416	TaxAccRef	19
-1417	TaxAccRef	19
-1418	TaxAccRef	19
-1419	TaxAccRef	19
-1420	TaxAccRef	19
-1421	TaxAccRef	19
-1422	TaxAccRef	19
-1423	TaxAccRef	19
-1424	TaxAccRef	19
-1425	TaxAccRef	8
-1426	TaxAccRef	19
-1427	TaxAccRef	2
-1428	TaxAccRef	19
-1429	TaxAccRef	19
-1430	TaxAccRef	19
-1431	TaxAccRef	19
-1432	TaxAccRef	19
-1433	TaxAccRef	19
-1434	TaxAccRef	19
-1435	TaxAccRef	19
-1436	TaxAccRef	19
-1437	TaxAccRef	101
-1438	TaxAccRef	21
-1439	TaxAccRef	19
-1440	TaxAccRef	19
-1441	TaxAccRef	19
-1442	TaxAccRef	19
-1443	TaxAccRef	24
-1444	TaxAccRef	24
-1445	TaxAccRef	19
-1446	TaxAccRef	19
-1447	TaxAccRef	19
-1448	TaxAccRef	24
-1449	TaxAccRef	21
-1450	TaxAccRef	19
-1451	TaxAccRef	19
-1452	TaxAccRef	2
-1453	TaxAccRef	19
-1454	TaxAccRef	19
-1455	TaxAccRef	19
-1456	TaxAccRef	19
-1457	TaxAccRef	32
-1458	TaxAccRef	19
-1459	TaxAccRef	21
-1460	TaxAccRef	19
-1461	TaxAccRef	19
-1462	TaxAccRef	19
-1463	TaxAccRef	19
-1464	TaxAccRef	19
-1465	TaxAccRef	19
-1466	TaxAccRef	19
-1467	TaxAccRef	19
-1468	TaxAccRef	19
-1469	TaxAccRef	19
-1470	TaxAccRef	19
-1471	TaxAccRef	19
-1472	TaxAccRef	19
-1473	TaxAccRef	19
-1474	TaxAccRef	19
-1475	TaxAccRef	101
-1476	TaxAccRef	19
-1477	TaxAccRef	19
-1478	TaxAccRef	101
-1479	TaxAccRef	21
-1480	TaxAccRef	8
+1	Nomenclatural Reference	10
+2	Nomenclatural Reference	9
+3	Nomenclatural Reference	13
+4	Nomenclatural Reference	13
+5	Nomenclatural Reference	13
+6	Nomenclatural Reference	13
+7	Nomenclatural Reference	13
+8	Nomenclatural Reference	15
+9	Nomenclatural Reference	13
+10	Nomenclatural Reference	16
+11	Nomenclatural Reference	18
+12	Nomenclatural Reference	11
+13	Nomenclatural Reference	11
+14	Nomenclatural Reference	16
+15	Nomenclatural Reference	6
+16	Nomenclatural Reference	17
+17	Nomenclatural Reference	6
+18	Nomenclatural Reference	17
+19	Nomenclatural Reference	17
+20	Nomenclatural Reference	2
+21	Nomenclatural Reference	4
+22	Nomenclatural Reference	15
+23	Nomenclatural Reference	6
+24	Nomenclatural Reference	6
+25	Nomenclatural Reference	15
+26	Nomenclatural Reference	6
+27	Nomenclatural Reference	17
+28	Nomenclatural Reference	8
+29	Nomenclatural Reference	12
+30	Nomenclatural Reference	12
+31	Nomenclatural Reference	12
+32	Nomenclatural Reference	12
+33	Nomenclatural Reference	14
+34	Nomenclatural Reference	6
+35	Nomenclatural Reference	15
+36	Nomenclatural Reference	16
+37	Nomenclatural Reference	15
+38	Nomenclatural Reference	3
+39	Nomenclatural Reference	1
+40	Nomenclatural Reference	7
+41	Nomenclatural Reference	12
+42	Nomenclatural Reference	11
+43	Nomenclatural Reference	15
+44	Nomenclatural Reference	12
+45	Nomenclatural Reference	12
+46	Nomenclatural Reference	12
+47	Nomenclatural Reference	15
+48	Nomenclatural Reference	15
+49	Nomenclatural Reference	2
+50	Nomenclatural Reference	17
+51	Nomenclatural Reference	15
+52	Nomenclatural Reference	5
+53	Nomenclatural Reference	17
+54	Nomenclatural Reference	7
+55	Nomenclatural Reference	17
+56	Nomenclatural Reference	15
+46	Taxonomic Acceptance Reference	19
+47	Taxonomic Acceptance Reference	19
+48	Taxonomic Acceptance Reference	19
+49	Taxonomic Acceptance Reference	19
+50	Taxonomic Acceptance Reference	19
+51	Taxonomic Acceptance Reference	19
+52	Taxonomic Acceptance Reference	19
+53	Taxonomic Acceptance Reference	19
+54	Taxonomic Acceptance Reference	19
+55	Taxonomic Acceptance Reference	19
+56	Taxonomic Acceptance Reference	20
+57	Nomenclatural Reference	6
+58	Nomenclatural Reference	6
+59	Nomenclatural Reference	26
+60	Nomenclatural Reference	27
+61	Nomenclatural Reference	28
+62	Nomenclatural Reference	29
+63	Nomenclatural Reference	26
+64	Nomenclatural Reference	30
+65	Nomenclatural Reference	29
+66	Nomenclatural Reference	31
+67	Nomenclatural Reference	6
+68	Nomenclatural Reference	32
+69	Nomenclatural Reference	28
+70	Nomenclatural Reference	33
+71	Nomenclatural Reference	34
+72	Nomenclatural Reference	35
+73	Nomenclatural Reference	36
+74	Nomenclatural Reference	27
+75	Nomenclatural Reference	22
+76	Nomenclatural Reference	37
+77	Nomenclatural Reference	38
+78	Nomenclatural Reference	22
+79	Nomenclatural Reference	22
+80	Nomenclatural Reference	22
+81	Nomenclatural Reference	22
+82	Nomenclatural Reference	22
+83	Nomenclatural Reference	39
+84	Nomenclatural Reference	22
+85	Nomenclatural Reference	27
+86	Nomenclatural Reference	37
+87	Nomenclatural Reference	22
+88	Nomenclatural Reference	6
+89	Nomenclatural Reference	22
+90	Nomenclatural Reference	22
+91	Nomenclatural Reference	40
+92	Nomenclatural Reference	41
+93	Nomenclatural Reference	22
+94	Nomenclatural Reference	42
+95	Nomenclatural Reference	43
+96	Nomenclatural Reference	22
+97	Nomenclatural Reference	44
+98	Nomenclatural Reference	45
+99	Nomenclatural Reference	46
+100	Nomenclatural Reference	47
+101	Nomenclatural Reference	26
+102	Nomenclatural Reference	28
+103	Nomenclatural Reference	20
+104	Nomenclatural Reference	6
+105	Nomenclatural Reference	48
+106	Nomenclatural Reference	29
+107	Nomenclatural Reference	26
+108	Nomenclatural Reference	33
+109	Nomenclatural Reference	27
+110	Nomenclatural Reference	44
+111	Nomenclatural Reference	20
+112	Nomenclatural Reference	49
+113	Nomenclatural Reference	50
+114	Nomenclatural Reference	51
+115	Nomenclatural Reference	50
+116	Nomenclatural Reference	50
+117	Nomenclatural Reference	27
+118	Nomenclatural Reference	50
+119	Nomenclatural Reference	52
+120	Nomenclatural Reference	50
+121	Nomenclatural Reference	53
+122	Nomenclatural Reference	53
+123	Nomenclatural Reference	50
+124	Nomenclatural Reference	28
+125	Nomenclatural Reference	10
+126	Nomenclatural Reference	10
+127	Nomenclatural Reference	54
+128	Nomenclatural Reference	55
+129	Nomenclatural Reference	56
+130	Nomenclatural Reference	31
+131	Nomenclatural Reference	31
+132	Nomenclatural Reference	22
+133	Nomenclatural Reference	25
+134	Nomenclatural Reference	25
+135	Nomenclatural Reference	6
+136	Nomenclatural Reference	57
+137	Nomenclatural Reference	58
+138	Nomenclatural Reference	6
+139	Nomenclatural Reference	44
+140	Nomenclatural Reference	6
+141	Nomenclatural Reference	59
+142	Nomenclatural Reference	6
+143	Nomenclatural Reference	18
+144	Nomenclatural Reference	17
+145	Nomenclatural Reference	6
+146	Nomenclatural Reference	6
+147	Nomenclatural Reference	16
+148	Nomenclatural Reference	6
+149	Nomenclatural Reference	6
+150	Nomenclatural Reference	17
+151	Nomenclatural Reference	60
+152	Nomenclatural Reference	6
+153	Nomenclatural Reference	22
+154	Nomenclatural Reference	61
+155	Nomenclatural Reference	40
+156	Nomenclatural Reference	37
+157	Nomenclatural Reference	22
+158	Nomenclatural Reference	17
+159	Nomenclatural Reference	62
+160	Nomenclatural Reference	17
+161	Nomenclatural Reference	62
+162	Nomenclatural Reference	27
+163	Nomenclatural Reference	63
+164	Nomenclatural Reference	64
+165	Nomenclatural Reference	61
+166	Nomenclatural Reference	65
+167	Nomenclatural Reference	66
+168	Nomenclatural Reference	22
+169	Nomenclatural Reference	22
+170	Nomenclatural Reference	22
+171	Nomenclatural Reference	22
+172	Nomenclatural Reference	61
+173	Nomenclatural Reference	61
+174	Nomenclatural Reference	62
+175	Nomenclatural Reference	64
+176	Nomenclatural Reference	6
+177	Nomenclatural Reference	67
+178	Nomenclatural Reference	68
+179	Nomenclatural Reference	37
+180	Nomenclatural Reference	6
+181	Nomenclatural Reference	69
+182	Nomenclatural Reference	20
+183	Nomenclatural Reference	37
+184	Nomenclatural Reference	20
+185	Nomenclatural Reference	49
+186	Nomenclatural Reference	6
+187	Nomenclatural Reference	70
+188	Nomenclatural Reference	28
+189	Nomenclatural Reference	6
+190	Nomenclatural Reference	54
+191	Nomenclatural Reference	6
+192	Nomenclatural Reference	71
+193	Nomenclatural Reference	6
+194	Nomenclatural Reference	20
+195	Nomenclatural Reference	28
+196	Nomenclatural Reference	6
+197	Nomenclatural Reference	6
+198	Nomenclatural Reference	8
+199	Nomenclatural Reference	7
+200	Nomenclatural Reference	6
+201	Nomenclatural Reference	6
+202	Nomenclatural Reference	6
+203	Nomenclatural Reference	17
+204	Nomenclatural Reference	45
+205	Nomenclatural Reference	6
+206	Nomenclatural Reference	17
+207	Nomenclatural Reference	6
+208	Nomenclatural Reference	28
+209	Nomenclatural Reference	10
+210	Nomenclatural Reference	6
+211	Nomenclatural Reference	6
+212	Nomenclatural Reference	6
+213	Nomenclatural Reference	32
+214	Nomenclatural Reference	6
+215	Nomenclatural Reference	10
+216	Nomenclatural Reference	6
+217	Nomenclatural Reference	70
+218	Nomenclatural Reference	30
+219	Nomenclatural Reference	32
+220	Nomenclatural Reference	6
+221	Nomenclatural Reference	20
+222	Nomenclatural Reference	6
+223	Nomenclatural Reference	6
+224	Nomenclatural Reference	6
+225	Nomenclatural Reference	20
+226	Nomenclatural Reference	7
+227	Nomenclatural Reference	72
+228	Nomenclatural Reference	70
+229	Nomenclatural Reference	73
+230	Nomenclatural Reference	17
+231	Nomenclatural Reference	17
+232	Nomenclatural Reference	7
+233	Nomenclatural Reference	10
+234	Nomenclatural Reference	2
+235	Nomenclatural Reference	6
+236	Nomenclatural Reference	74
+237	Nomenclatural Reference	75
+238	Nomenclatural Reference	6
+239	Nomenclatural Reference	16
+240	Nomenclatural Reference	20
+241	Nomenclatural Reference	20
+242	Nomenclatural Reference	73
+243	Nomenclatural Reference	20
+244	Nomenclatural Reference	70
+245	Nomenclatural Reference	16
+246	Nomenclatural Reference	7
+247	Nomenclatural Reference	16
+248	Nomenclatural Reference	16
+249	Nomenclatural Reference	6
+250	Nomenclatural Reference	20
+251	Nomenclatural Reference	17
+252	Nomenclatural Reference	76
+253	Nomenclatural Reference	6
+254	Nomenclatural Reference	28
+255	Nomenclatural Reference	20
+256	Nomenclatural Reference	6
+257	Nomenclatural Reference	70
+258	Nomenclatural Reference	33
+259	Nomenclatural Reference	73
+260	Nomenclatural Reference	20
+261	Nomenclatural Reference	50
+262	Nomenclatural Reference	28
+263	Nomenclatural Reference	6
+264	Nomenclatural Reference	54
+265	Nomenclatural Reference	6
+266	Nomenclatural Reference	6
+267	Nomenclatural Reference	17
+268	Nomenclatural Reference	6
+269	Nomenclatural Reference	20
+270	Nomenclatural Reference	6
+271	Nomenclatural Reference	6
+272	Nomenclatural Reference	33
+273	Nomenclatural Reference	6
+274	Nomenclatural Reference	18
+275	Nomenclatural Reference	17
+276	Nomenclatural Reference	20
+277	Nomenclatural Reference	17
+278	Nomenclatural Reference	77
+279	Nomenclatural Reference	28
+280	Nomenclatural Reference	20
+281	Nomenclatural Reference	28
+282	Nomenclatural Reference	78
+283	Nomenclatural Reference	7
+284	Nomenclatural Reference	20
+285	Nomenclatural Reference	30
+286	Nomenclatural Reference	6
+287	Nomenclatural Reference	17
+288	Nomenclatural Reference	6
+289	Nomenclatural Reference	28
+290	Nomenclatural Reference	33
+291	Nomenclatural Reference	79
+292	Nomenclatural Reference	6
+293	Nomenclatural Reference	7
+294	Nomenclatural Reference	6
+295	Nomenclatural Reference	6
+296	Nomenclatural Reference	33
+297	Nomenclatural Reference	6
+298	Nomenclatural Reference	17
+299	Nomenclatural Reference	20
+300	Nomenclatural Reference	80
+301	Nomenclatural Reference	17
+302	Nomenclatural Reference	6
+303	Nomenclatural Reference	16
+304	Nomenclatural Reference	6
+305	Nomenclatural Reference	33
+306	Nomenclatural Reference	6
+307	Nomenclatural Reference	6
+308	Nomenclatural Reference	6
+309	Nomenclatural Reference	20
+310	Nomenclatural Reference	6
+311	Nomenclatural Reference	6
+312	Nomenclatural Reference	6
+313	Nomenclatural Reference	169
+314	Nomenclatural Reference	6
+315	Nomenclatural Reference	73
+316	Nomenclatural Reference	17
+317	Nomenclatural Reference	6
+318	Nomenclatural Reference	28
+319	Nomenclatural Reference	6
+320	Nomenclatural Reference	70
+321	Nomenclatural Reference	17
+322	Nomenclatural Reference	6
+323	Nomenclatural Reference	33
+324	Nomenclatural Reference	28
+325	Nomenclatural Reference	28
+326	Nomenclatural Reference	6
+327	Nomenclatural Reference	6
+328	Nomenclatural Reference	6
+329	Nomenclatural Reference	6
+330	Nomenclatural Reference	54
+331	Nomenclatural Reference	6
+332	Nomenclatural Reference	28
+333	Nomenclatural Reference	81
+334	Nomenclatural Reference	6
+335	Nomenclatural Reference	6
+336	Nomenclatural Reference	17
+337	Nomenclatural Reference	6
+338	Nomenclatural Reference	50
+339	Nomenclatural Reference	82
+340	Nomenclatural Reference	64
+341	Nomenclatural Reference	83
+342	Nomenclatural Reference	64
+343	Nomenclatural Reference	84
+344	Nomenclatural Reference	69
+345	Nomenclatural Reference	33
+346	Nomenclatural Reference	85
+347	Nomenclatural Reference	46
+348	Nomenclatural Reference	69
+349	Nomenclatural Reference	83
+350	Nomenclatural Reference	69
+351	Nomenclatural Reference	69
+352	Nomenclatural Reference	83
+353	Nomenclatural Reference	54
+354	Nomenclatural Reference	69
+355	Nomenclatural Reference	69
+356	Nomenclatural Reference	12
+357	Nomenclatural Reference	69
+358	Nomenclatural Reference	83
+359	Nomenclatural Reference	86
+360	Nomenclatural Reference	69
+361	Nomenclatural Reference	40
+362	Nomenclatural Reference	69
+363	Nomenclatural Reference	64
+364	Nomenclatural Reference	83
+365	Nomenclatural Reference	83
+366	Nomenclatural Reference	87
+367	Nomenclatural Reference	69
+368	Nomenclatural Reference	83
+369	Nomenclatural Reference	67
+370	Nomenclatural Reference	22
+371	Nomenclatural Reference	69
+372	Nomenclatural Reference	69
+373	Nomenclatural Reference	69
+374	Nomenclatural Reference	27
+375	Nomenclatural Reference	69
+376	Nomenclatural Reference	69
+377	Nomenclatural Reference	69
+378	Nomenclatural Reference	27
+379	Nomenclatural Reference	69
+380	Nomenclatural Reference	27
+381	Nomenclatural Reference	69
+382	Nomenclatural Reference	61
+383	Nomenclatural Reference	88
+384	Nomenclatural Reference	89
+385	Nomenclatural Reference	42
+386	Nomenclatural Reference	61
+387	Nomenclatural Reference	90
+388	Nomenclatural Reference	37
+389	Nomenclatural Reference	91
+390	Nomenclatural Reference	37
+391	Nomenclatural Reference	2
+392	Nomenclatural Reference	92
+393	Nomenclatural Reference	22
+394	Nomenclatural Reference	55
+395	Nomenclatural Reference	55
+396	Nomenclatural Reference	22
+397	Nomenclatural Reference	42
+398	Nomenclatural Reference	57
+399	Nomenclatural Reference	57
+400	Nomenclatural Reference	25
+401	Nomenclatural Reference	57
+402	Nomenclatural Reference	57
+403	Nomenclatural Reference	61
+404	Nomenclatural Reference	61
+405	Nomenclatural Reference	62
+406	Nomenclatural Reference	57
+407	Nomenclatural Reference	7
+408	Nomenclatural Reference	11
+409	Nomenclatural Reference	17
+410	Nomenclatural Reference	17
+411	Nomenclatural Reference	17
+412	Nomenclatural Reference	6
+413	Nomenclatural Reference	2
+414	Nomenclatural Reference	93
+415	Nomenclatural Reference	50
+416	Nomenclatural Reference	70
+417	Nomenclatural Reference	50
+418	Nomenclatural Reference	70
+419	Nomenclatural Reference	70
+420	Nomenclatural Reference	6
+421	Nomenclatural Reference	69
+422	Nomenclatural Reference	69
+423	Nomenclatural Reference	83
+424	Nomenclatural Reference	69
+425	Nomenclatural Reference	69
+426	Nomenclatural Reference	69
+427	Nomenclatural Reference	2
+428	Nomenclatural Reference	69
+429	Nomenclatural Reference	69
+430	Nomenclatural Reference	69
+431	Nomenclatural Reference	69
+432	Nomenclatural Reference	69
+433	Nomenclatural Reference	69
+434	Nomenclatural Reference	69
+435	Nomenclatural Reference	69
+436	Nomenclatural Reference	69
+437	Nomenclatural Reference	91
+438	Nomenclatural Reference	69
+439	Nomenclatural Reference	27
+440	Nomenclatural Reference	31
+441	Nomenclatural Reference	30
+442	Nomenclatural Reference	36
+443	Nomenclatural Reference	27
+444	Nomenclatural Reference	22
+445	Nomenclatural Reference	37
+446	Nomenclatural Reference	94
+447	Nomenclatural Reference	22
+448	Nomenclatural Reference	22
+449	Nomenclatural Reference	22
+450	Nomenclatural Reference	22
+451	Nomenclatural Reference	22
+452	Nomenclatural Reference	39
+453	Nomenclatural Reference	22
+454	Nomenclatural Reference	27
+455	Nomenclatural Reference	37
+456	Nomenclatural Reference	22
+457	Nomenclatural Reference	6
+458	Nomenclatural Reference	22
+459	Nomenclatural Reference	22
+460	Nomenclatural Reference	40
+461	Nomenclatural Reference	54
+462	Nomenclatural Reference	41
+463	Nomenclatural Reference	22
+464	Nomenclatural Reference	43
+465	Nomenclatural Reference	22
+466	Nomenclatural Reference	44
+467	Nomenclatural Reference	45
+468	Nomenclatural Reference	28
+469	Nomenclatural Reference	20
+470	Nomenclatural Reference	29
+471	Nomenclatural Reference	33
+472	Nomenclatural Reference	95
+473	Nomenclatural Reference	28
+474	Nomenclatural Reference	20
+475	Nomenclatural Reference	49
+476	Nomenclatural Reference	28
+477	Nomenclatural Reference	29
+478	Nomenclatural Reference	56
+479	Nomenclatural Reference	6
+480	Nomenclatural Reference	58
+481	Nomenclatural Reference	59
+482	Nomenclatural Reference	18
+483	Nomenclatural Reference	93
+484	Nomenclatural Reference	60
+485	Nomenclatural Reference	18
+486	Nomenclatural Reference	96
+487	Nomenclatural Reference	60
+488	Nomenclatural Reference	60
+489	Nomenclatural Reference	17
+490	Nomenclatural Reference	17
+491	Nomenclatural Reference	17
+492	Nomenclatural Reference	6
+493	Nomenclatural Reference	97
+494	Nomenclatural Reference	64
+495	Nomenclatural Reference	65
+496	Nomenclatural Reference	66
+497	Nomenclatural Reference	22
+498	Nomenclatural Reference	22
+499	Nomenclatural Reference	22
+500	Nomenclatural Reference	22
+501	Nomenclatural Reference	62
+502	Nomenclatural Reference	64
+503	Nomenclatural Reference	6
+504	Nomenclatural Reference	26
+505	Nomenclatural Reference	37
+506	Nomenclatural Reference	6
+507	Nomenclatural Reference	20
+508	Nomenclatural Reference	20
+509	Nomenclatural Reference	71
+510	Nomenclatural Reference	17
+511	Nomenclatural Reference	45
+512	Nomenclatural Reference	20
+513	Nomenclatural Reference	17
+514	Nomenclatural Reference	32
+515	Nomenclatural Reference	80
+516	Nomenclatural Reference	59
+517	Nomenclatural Reference	17
+518	Nomenclatural Reference	17
+519	Nomenclatural Reference	28
+520	Nomenclatural Reference	17
+521	Nomenclatural Reference	6
+522	Nomenclatural Reference	74
+523	Nomenclatural Reference	17
+524	Nomenclatural Reference	75
+525	Nomenclatural Reference	17
+526	Nomenclatural Reference	17
+527	Nomenclatural Reference	18
+528	Nomenclatural Reference	20
+529	Nomenclatural Reference	17
+530	Nomenclatural Reference	17
+531	Nomenclatural Reference	20
+532	Nomenclatural Reference	28
+533	Nomenclatural Reference	78
+534	Nomenclatural Reference	9
+535	Nomenclatural Reference	17
+536	Nomenclatural Reference	28
+537	Nomenclatural Reference	79
+538	Nomenclatural Reference	17
+539	Nomenclatural Reference	20
+540	Nomenclatural Reference	80
+541	Nomenclatural Reference	17
+542	Nomenclatural Reference	20
+543	Nomenclatural Reference	20
+544	Nomenclatural Reference	17
+545	Nomenclatural Reference	28
+546	Nomenclatural Reference	17
+547	Nomenclatural Reference	20
+548	Nomenclatural Reference	20
+549	Nomenclatural Reference	20
+550	Nomenclatural Reference	16
+551	Nomenclatural Reference	98
+552	Nomenclatural Reference	17
+553	Nomenclatural Reference	20
+554	Nomenclatural Reference	82
+555	Nomenclatural Reference	64
+556	Nomenclatural Reference	83
+557	Nomenclatural Reference	64
+558	Nomenclatural Reference	84
+559	Nomenclatural Reference	33
+560	Nomenclatural Reference	85
+561	Nomenclatural Reference	7
+562	Nomenclatural Reference	83
+563	Nomenclatural Reference	83
+564	Nomenclatural Reference	54
+565	Nomenclatural Reference	12
+566	Nomenclatural Reference	83
+567	Nomenclatural Reference	86
+568	Nomenclatural Reference	40
+569	Nomenclatural Reference	2
+570	Nomenclatural Reference	65
+571	Nomenclatural Reference	64
+572	Nomenclatural Reference	83
+573	Nomenclatural Reference	83
+574	Nomenclatural Reference	87
+575	Nomenclatural Reference	83
+576	Nomenclatural Reference	67
+577	Nomenclatural Reference	22
+578	Nomenclatural Reference	27
+579	Nomenclatural Reference	27
+580	Nomenclatural Reference	27
+581	Nomenclatural Reference	88
+582	Nomenclatural Reference	42
+583	Nomenclatural Reference	37
+584	Nomenclatural Reference	97
+585	Nomenclatural Reference	69
+586	Nomenclatural Reference	91
+587	Nomenclatural Reference	37
+588	Nomenclatural Reference	65
+652	Nomenclatural Reference	6
+653	Nomenclatural Reference	6
+654	Nomenclatural Reference	99
+655	Nomenclatural Reference	6
+656	Nomenclatural Reference	23
+657	Nomenclatural Reference	79
+658	Nomenclatural Reference	10
+659	Nomenclatural Reference	100
+439	Taxonomic Acceptance Reference	19
+440	Taxonomic Acceptance Reference	24
+441	Taxonomic Acceptance Reference	19
+442	Taxonomic Acceptance Reference	19
+443	Taxonomic Acceptance Reference	19
+444	Taxonomic Acceptance Reference	19
+445	Taxonomic Acceptance Reference	19
+446	Taxonomic Acceptance Reference	22
+447	Taxonomic Acceptance Reference	19
+448	Taxonomic Acceptance Reference	19
+449	Taxonomic Acceptance Reference	19
+450	Taxonomic Acceptance Reference	19
+451	Taxonomic Acceptance Reference	19
+452	Taxonomic Acceptance Reference	19
+453	Taxonomic Acceptance Reference	19
+454	Taxonomic Acceptance Reference	19
+455	Taxonomic Acceptance Reference	19
+456	Taxonomic Acceptance Reference	19
+457	Taxonomic Acceptance Reference	19
+458	Taxonomic Acceptance Reference	19
+459	Taxonomic Acceptance Reference	19
+460	Taxonomic Acceptance Reference	19
+461	Taxonomic Acceptance Reference	22
+462	Taxonomic Acceptance Reference	19
+463	Taxonomic Acceptance Reference	19
+464	Taxonomic Acceptance Reference	19
+465	Taxonomic Acceptance Reference	19
+466	Taxonomic Acceptance Reference	19
+467	Taxonomic Acceptance Reference	19
+468	Taxonomic Acceptance Reference	19
+469	Taxonomic Acceptance Reference	19
+470	Taxonomic Acceptance Reference	19
+471	Taxonomic Acceptance Reference	19
+472	Taxonomic Acceptance Reference	19
+473	Taxonomic Acceptance Reference	48
+474	Taxonomic Acceptance Reference	19
+475	Taxonomic Acceptance Reference	19
+476	Taxonomic Acceptance Reference	19
+477	Taxonomic Acceptance Reference	24
+478	Taxonomic Acceptance Reference	19
+479	Taxonomic Acceptance Reference	19
+480	Taxonomic Acceptance Reference	19
+481	Taxonomic Acceptance Reference	19
+482	Taxonomic Acceptance Reference	6
+483	Taxonomic Acceptance Reference	19
+484	Taxonomic Acceptance Reference	6
+485	Taxonomic Acceptance Reference	19
+486	Taxonomic Acceptance Reference	101
+487	Taxonomic Acceptance Reference	19
+488	Taxonomic Acceptance Reference	19
+489	Taxonomic Acceptance Reference	6
+490	Taxonomic Acceptance Reference	6
+491	Taxonomic Acceptance Reference	6
+492	Taxonomic Acceptance Reference	62
+493	Taxonomic Acceptance Reference	22
+494	Taxonomic Acceptance Reference	19
+495	Taxonomic Acceptance Reference	19
+496	Taxonomic Acceptance Reference	19
+497	Taxonomic Acceptance Reference	61
+498	Taxonomic Acceptance Reference	19
+499	Taxonomic Acceptance Reference	19
+500	Taxonomic Acceptance Reference	19
+501	Taxonomic Acceptance Reference	19
+502	Taxonomic Acceptance Reference	19
+503	Taxonomic Acceptance Reference	19
+504	Taxonomic Acceptance Reference	69
+505	Taxonomic Acceptance Reference	19
+506	Taxonomic Acceptance Reference	19
+507	Taxonomic Acceptance Reference	19
+508	Taxonomic Acceptance Reference	24
+509	Taxonomic Acceptance Reference	19
+510	Taxonomic Acceptance Reference	19
+511	Taxonomic Acceptance Reference	19
+512	Taxonomic Acceptance Reference	24
+513	Taxonomic Acceptance Reference	19
+514	Taxonomic Acceptance Reference	24
+515	Taxonomic Acceptance Reference	102
+516	Taxonomic Acceptance Reference	6
+517	Taxonomic Acceptance Reference	19
+518	Taxonomic Acceptance Reference	19
+519	Taxonomic Acceptance Reference	7
+520	Taxonomic Acceptance Reference	7
+521	Taxonomic Acceptance Reference	19
+522	Taxonomic Acceptance Reference	19
+523	Taxonomic Acceptance Reference	6
+524	Taxonomic Acceptance Reference	19
+525	Taxonomic Acceptance Reference	7
+526	Taxonomic Acceptance Reference	19
+527	Taxonomic Acceptance Reference	19
+528	Taxonomic Acceptance Reference	24
+529	Taxonomic Acceptance Reference	19
+530	Taxonomic Acceptance Reference	19
+531	Taxonomic Acceptance Reference	19
+532	Taxonomic Acceptance Reference	19
+533	Taxonomic Acceptance Reference	19
+534	Taxonomic Acceptance Reference	24
+535	Taxonomic Acceptance Reference	19
+536	Taxonomic Acceptance Reference	19
+537	Taxonomic Acceptance Reference	19
+538	Taxonomic Acceptance Reference	19
+539	Taxonomic Acceptance Reference	32
+540	Taxonomic Acceptance Reference	19
+541	Taxonomic Acceptance Reference	19
+542	Taxonomic Acceptance Reference	24
+543	Taxonomic Acceptance Reference	24
+544	Taxonomic Acceptance Reference	19
+545	Taxonomic Acceptance Reference	19
+546	Taxonomic Acceptance Reference	19
+547	Taxonomic Acceptance Reference	24
+548	Taxonomic Acceptance Reference	24
+549	Taxonomic Acceptance Reference	32
+550	Taxonomic Acceptance Reference	16
+551	Taxonomic Acceptance Reference	24
+552	Taxonomic Acceptance Reference	19
+553	Taxonomic Acceptance Reference	32
+554	Taxonomic Acceptance Reference	19
+555	Taxonomic Acceptance Reference	19
+556	Taxonomic Acceptance Reference	19
+557	Taxonomic Acceptance Reference	19
+558	Taxonomic Acceptance Reference	19
+559	Taxonomic Acceptance Reference	19
+560	Taxonomic Acceptance Reference	19
+561	Taxonomic Acceptance Reference	69
+562	Taxonomic Acceptance Reference	19
+563	Taxonomic Acceptance Reference	19
+564	Taxonomic Acceptance Reference	19
+565	Taxonomic Acceptance Reference	19
+566	Taxonomic Acceptance Reference	19
+567	Taxonomic Acceptance Reference	19
+568	Taxonomic Acceptance Reference	19
+569	Taxonomic Acceptance Reference	19
+570	Taxonomic Acceptance Reference	19
+571	Taxonomic Acceptance Reference	19
+572	Taxonomic Acceptance Reference	19
+573	Taxonomic Acceptance Reference	19
+574	Taxonomic Acceptance Reference	19
+575	Taxonomic Acceptance Reference	19
+576	Taxonomic Acceptance Reference	19
+577	Taxonomic Acceptance Reference	19
+578	Taxonomic Acceptance Reference	19
+579	Taxonomic Acceptance Reference	19
+580	Taxonomic Acceptance Reference	19
+581	Taxonomic Acceptance Reference	19
+582	Taxonomic Acceptance Reference	19
+583	Taxonomic Acceptance Reference	19
+584	Taxonomic Acceptance Reference	69
+585	Taxonomic Acceptance Reference	19
+586	Taxonomic Acceptance Reference	19
+587	Taxonomic Acceptance Reference	19
+588	Taxonomic Acceptance Reference	19
+589	Nomenclatural Reference	12
+590	Nomenclatural Reference	12
+591	Nomenclatural Reference	12
+592	Nomenclatural Reference	12
+593	Nomenclatural Reference	12
+594	Nomenclatural Reference	12
+595	Nomenclatural Reference	12
+596	Nomenclatural Reference	6
+597	Nomenclatural Reference	12
+598	Nomenclatural Reference	6
+599	Nomenclatural Reference	12
+600	Nomenclatural Reference	12
+601	Nomenclatural Reference	11
+602	Nomenclatural Reference	11
+603	Nomenclatural Reference	99
+604	Nomenclatural Reference	11
+605	Nomenclatural Reference	6
+606	Nomenclatural Reference	7
+607	Nomenclatural Reference	12
+608	Nomenclatural Reference	7
+609	Nomenclatural Reference	12
+610	Nomenclatural Reference	76
+611	Nomenclatural Reference	17
+612	Nomenclatural Reference	23
+613	Nomenclatural Reference	79
+614	Nomenclatural Reference	10
+615	Nomenclatural Reference	12
+616	Nomenclatural Reference	10
+617	Nomenclatural Reference	10
+618	Nomenclatural Reference	12
+619	Nomenclatural Reference	12
+620	Nomenclatural Reference	10
+621	Nomenclatural Reference	10
+622	Nomenclatural Reference	10
+623	Nomenclatural Reference	10
+624	Nomenclatural Reference	10
+625	Nomenclatural Reference	12
+626	Nomenclatural Reference	10
+627	Nomenclatural Reference	10
+628	Nomenclatural Reference	10
+629	Nomenclatural Reference	10
+630	Nomenclatural Reference	12
+631	Nomenclatural Reference	103
+632	Nomenclatural Reference	43
+633	Nomenclatural Reference	103
+634	Nomenclatural Reference	103
+635	Nomenclatural Reference	104
+636	Nomenclatural Reference	103
+637	Nomenclatural Reference	43
+638	Nomenclatural Reference	103
+639	Nomenclatural Reference	103
+640	Nomenclatural Reference	100
+641	Nomenclatural Reference	6
+642	Nomenclatural Reference	10
+643	Nomenclatural Reference	6
+644	Nomenclatural Reference	10
+645	Nomenclatural Reference	6
+646	Nomenclatural Reference	12
+647	Nomenclatural Reference	12
+648	Nomenclatural Reference	23
+649	Nomenclatural Reference	10
+650	Nomenclatural Reference	43
+651	Nomenclatural Reference	10
+652	Nomenclatural Reference	6
+653	Nomenclatural Reference	6
+654	Nomenclatural Reference	99
+655	Nomenclatural Reference	6
+656	Nomenclatural Reference	23
+657	Nomenclatural Reference	79
+658	Nomenclatural Reference	10
+659	Nomenclatural Reference	100
+652	Taxonomic Acceptance Reference	19
+653	Taxonomic Acceptance Reference	19
+654	Taxonomic Acceptance Reference	19
+655	Taxonomic Acceptance Reference	19
+656	Taxonomic Acceptance Reference	19
+657	Taxonomic Acceptance Reference	19
+658	Taxonomic Acceptance Reference	19
+659	Taxonomic Acceptance Reference	19
+660	Nomenclatural Reference	50
+661	Nomenclatural Reference	10
+662	Nomenclatural Reference	105
+663	Nomenclatural Reference	10
+664	Nomenclatural Reference	6
+665	Nomenclatural Reference	20
+666	Nomenclatural Reference	106
+667	Nomenclatural Reference	10
+668	Nomenclatural Reference	50
+669	Nomenclatural Reference	10
+670	Nomenclatural Reference	10
+671	Nomenclatural Reference	10
+672	Nomenclatural Reference	10
+673	Nomenclatural Reference	10
+674	Nomenclatural Reference	33
+675	Nomenclatural Reference	6
+676	Nomenclatural Reference	10
+677	Nomenclatural Reference	10
+678	Nomenclatural Reference	45
+679	Nomenclatural Reference	49
+680	Nomenclatural Reference	10
+681	Nomenclatural Reference	10
+682	Nomenclatural Reference	10
+683	Nomenclatural Reference	28
+684	Nomenclatural Reference	10
+685	Nomenclatural Reference	20
+686	Nomenclatural Reference	6
+687	Nomenclatural Reference	10
+688	Nomenclatural Reference	10
+689	Nomenclatural Reference	6
+690	Nomenclatural Reference	20
+691	Nomenclatural Reference	27
+692	Nomenclatural Reference	20
+693	Nomenclatural Reference	10
+694	Nomenclatural Reference	10
+695	Nomenclatural Reference	7
+696	Nomenclatural Reference	10
+697	Nomenclatural Reference	33
+698	Nomenclatural Reference	10
+699	Nomenclatural Reference	33
+700	Nomenclatural Reference	10
+701	Nomenclatural Reference	10
+702	Nomenclatural Reference	6
+703	Nomenclatural Reference	10
+704	Nomenclatural Reference	16
+705	Nomenclatural Reference	9
+706	Nomenclatural Reference	6
+707	Nomenclatural Reference	10
+708	Nomenclatural Reference	6
+709	Nomenclatural Reference	57
+710	Nomenclatural Reference	10
+711	Nomenclatural Reference	6
+712	Nomenclatural Reference	6
+713	Nomenclatural Reference	10
+714	Nomenclatural Reference	10
+715	Nomenclatural Reference	20
+716	Nomenclatural Reference	10
+717	Nomenclatural Reference	10
+718	Nomenclatural Reference	6
+719	Nomenclatural Reference	10
+720	Nomenclatural Reference	10
+721	Nomenclatural Reference	71
+722	Nomenclatural Reference	69
+723	Nomenclatural Reference	20
+724	Nomenclatural Reference	6
+725	Nomenclatural Reference	10
+726	Nomenclatural Reference	10
+727	Nomenclatural Reference	10
+728	Nomenclatural Reference	10
+729	Nomenclatural Reference	10
+730	Nomenclatural Reference	20
+731	Nomenclatural Reference	16
+732	Nomenclatural Reference	10
+733	Nomenclatural Reference	49
+734	Nomenclatural Reference	6
+735	Nomenclatural Reference	10
+736	Nomenclatural Reference	10
+737	Nomenclatural Reference	10
+738	Nomenclatural Reference	10
+739	Nomenclatural Reference	6
+740	Nomenclatural Reference	18
+741	Nomenclatural Reference	10
+742	Nomenclatural Reference	10
+743	Nomenclatural Reference	17
+744	Nomenclatural Reference	107
+745	Nomenclatural Reference	10
+746	Nomenclatural Reference	6
+747	Nomenclatural Reference	51
+748	Nomenclatural Reference	10
+749	Nomenclatural Reference	49
+750	Nomenclatural Reference	10
+751	Nomenclatural Reference	10
+752	Nomenclatural Reference	10
+753	Nomenclatural Reference	20
+754	Nomenclatural Reference	78
+755	Nomenclatural Reference	10
+756	Nomenclatural Reference	10
+757	Nomenclatural Reference	10
+758	Nomenclatural Reference	73
+759	Nomenclatural Reference	10
+760	Nomenclatural Reference	10
+761	Nomenclatural Reference	10
+762	Nomenclatural Reference	108
+763	Nomenclatural Reference	73
+764	Nomenclatural Reference	10
+765	Nomenclatural Reference	45
+766	Nomenclatural Reference	10
+767	Nomenclatural Reference	28
+768	Nomenclatural Reference	10
+769	Nomenclatural Reference	6
+770	Nomenclatural Reference	10
+771	Nomenclatural Reference	20
+772	Nomenclatural Reference	2
+773	Nomenclatural Reference	10
+774	Nomenclatural Reference	20
+775	Nomenclatural Reference	10
+776	Nomenclatural Reference	10
+777	Nomenclatural Reference	10
+778	Nomenclatural Reference	10
+779	Nomenclatural Reference	17
+780	Nomenclatural Reference	6
+781	Nomenclatural Reference	10
+782	Nomenclatural Reference	9
+783	Nomenclatural Reference	6
+784	Nomenclatural Reference	10
+785	Nomenclatural Reference	20
+786	Nomenclatural Reference	20
+787	Nomenclatural Reference	20
+788	Nomenclatural Reference	10
+789	Nomenclatural Reference	20
+790	Nomenclatural Reference	10
+791	Nomenclatural Reference	50
+792	Nomenclatural Reference	33
+793	Nomenclatural Reference	26
+794	Nomenclatural Reference	14
+795	Nomenclatural Reference	109
+796	Nomenclatural Reference	109
+797	Nomenclatural Reference	109
+798	Nomenclatural Reference	110
+799	Nomenclatural Reference	110
+800	Nomenclatural Reference	10
+801	Nomenclatural Reference	51
+802	Nomenclatural Reference	10
+803	Nomenclatural Reference	10
+804	Nomenclatural Reference	109
+805	Nomenclatural Reference	10
+806	Nomenclatural Reference	9
+807	Nomenclatural Reference	10
+808	Nomenclatural Reference	13
+809	Nomenclatural Reference	6
+810	Nomenclatural Reference	10
+811	Nomenclatural Reference	111
+812	Nomenclatural Reference	10
+813	Nomenclatural Reference	13
+814	Nomenclatural Reference	79
+815	Nomenclatural Reference	6
+816	Nomenclatural Reference	10
+817	Nomenclatural Reference	10
+818	Nomenclatural Reference	13
+819	Nomenclatural Reference	10
+820	Nomenclatural Reference	112
+821	Nomenclatural Reference	112
+822	Nomenclatural Reference	10
+823	Nomenclatural Reference	33
+824	Nomenclatural Reference	10
+825	Nomenclatural Reference	10
+826	Nomenclatural Reference	10
+827	Nomenclatural Reference	10
+828	Nomenclatural Reference	10
+829	Nomenclatural Reference	10
+830	Nomenclatural Reference	10
+831	Nomenclatural Reference	10
+832	Nomenclatural Reference	10
+833	Nomenclatural Reference	10
+834	Nomenclatural Reference	6
+835	Nomenclatural Reference	10
+836	Nomenclatural Reference	105
+837	Nomenclatural Reference	10
+838	Nomenclatural Reference	6
+839	Nomenclatural Reference	6
+840	Nomenclatural Reference	20
+841	Nomenclatural Reference	31
+842	Nomenclatural Reference	106
+843	Nomenclatural Reference	10
+844	Nomenclatural Reference	50
+845	Nomenclatural Reference	10
+846	Nomenclatural Reference	10
+847	Nomenclatural Reference	10
+848	Nomenclatural Reference	10
+849	Nomenclatural Reference	10
+850	Nomenclatural Reference	33
+851	Nomenclatural Reference	113
+852	Nomenclatural Reference	6
+853	Nomenclatural Reference	10
+854	Nomenclatural Reference	10
+855	Nomenclatural Reference	45
+856	Nomenclatural Reference	49
+857	Nomenclatural Reference	10
+858	Nomenclatural Reference	10
+859	Nomenclatural Reference	10
+860	Nomenclatural Reference	10
+861	Nomenclatural Reference	20
+862	Nomenclatural Reference	6
+863	Nomenclatural Reference	10
+864	Nomenclatural Reference	10
+865	Nomenclatural Reference	6
+866	Nomenclatural Reference	20
+867	Nomenclatural Reference	27
+868	Nomenclatural Reference	20
+869	Nomenclatural Reference	10
+870	Nomenclatural Reference	10
+871	Nomenclatural Reference	7
+872	Nomenclatural Reference	10
+873	Nomenclatural Reference	33
+874	Nomenclatural Reference	10
+875	Nomenclatural Reference	33
+876	Nomenclatural Reference	10
+877	Nomenclatural Reference	10
+878	Nomenclatural Reference	6
+879	Nomenclatural Reference	10
+880	Nomenclatural Reference	16
+881	Nomenclatural Reference	9
+882	Nomenclatural Reference	20
+883	Nomenclatural Reference	6
+884	Nomenclatural Reference	20
+885	Nomenclatural Reference	10
+886	Nomenclatural Reference	6
+887	Nomenclatural Reference	57
+888	Nomenclatural Reference	10
+889	Nomenclatural Reference	6
+890	Nomenclatural Reference	6
+891	Nomenclatural Reference	10
+892	Nomenclatural Reference	10
+893	Nomenclatural Reference	20
+894	Nomenclatural Reference	10
+895	Nomenclatural Reference	10
+896	Nomenclatural Reference	6
+897	Nomenclatural Reference	10
+898	Nomenclatural Reference	10
+899	Nomenclatural Reference	71
+900	Nomenclatural Reference	60
+901	Nomenclatural Reference	17
+902	Nomenclatural Reference	69
+903	Nomenclatural Reference	20
+904	Nomenclatural Reference	6
+905	Nomenclatural Reference	10
+906	Nomenclatural Reference	10
+907	Nomenclatural Reference	10
+908	Nomenclatural Reference	10
+909	Nomenclatural Reference	10
+910	Nomenclatural Reference	20
+911	Nomenclatural Reference	16
+912	Nomenclatural Reference	10
+913	Nomenclatural Reference	49
+914	Nomenclatural Reference	6
+915	Nomenclatural Reference	10
+916	Nomenclatural Reference	10
+917	Nomenclatural Reference	10
+918	Nomenclatural Reference	10
+919	Nomenclatural Reference	6
+920	Nomenclatural Reference	18
+921	Nomenclatural Reference	10
+922	Nomenclatural Reference	10
+923	Nomenclatural Reference	17
+924	Nomenclatural Reference	107
+925	Nomenclatural Reference	17
+926	Nomenclatural Reference	10
+927	Nomenclatural Reference	6
+928	Nomenclatural Reference	20
+929	Nomenclatural Reference	20
+930	Nomenclatural Reference	51
+931	Nomenclatural Reference	10
+932	Nomenclatural Reference	49
+933	Nomenclatural Reference	10
+934	Nomenclatural Reference	10
+935	Nomenclatural Reference	10
+936	Nomenclatural Reference	20
+937	Nomenclatural Reference	78
+938	Nomenclatural Reference	10
+939	Nomenclatural Reference	10
+940	Nomenclatural Reference	10
+941	Nomenclatural Reference	73
+942	Nomenclatural Reference	10
+943	Nomenclatural Reference	10
+944	Nomenclatural Reference	10
+945	Nomenclatural Reference	108
+946	Nomenclatural Reference	32
+947	Nomenclatural Reference	73
+948	Nomenclatural Reference	79
+949	Nomenclatural Reference	10
+950	Nomenclatural Reference	45
+951	Nomenclatural Reference	10
+952	Nomenclatural Reference	10
+953	Nomenclatural Reference	6
+954	Nomenclatural Reference	10
+955	Nomenclatural Reference	20
+956	Nomenclatural Reference	2
+957	Nomenclatural Reference	10
+958	Nomenclatural Reference	20
+959	Nomenclatural Reference	10
+960	Nomenclatural Reference	10
+961	Nomenclatural Reference	10
+962	Nomenclatural Reference	10
+963	Nomenclatural Reference	17
+964	Nomenclatural Reference	6
+965	Nomenclatural Reference	10
+966	Nomenclatural Reference	9
+967	Nomenclatural Reference	31
+968	Nomenclatural Reference	20
+969	Nomenclatural Reference	6
+970	Nomenclatural Reference	10
+971	Nomenclatural Reference	20
+972	Nomenclatural Reference	20
+973	Nomenclatural Reference	20
+974	Nomenclatural Reference	10
+975	Nomenclatural Reference	20
+976	Nomenclatural Reference	10
+977	Nomenclatural Reference	50
+978	Nomenclatural Reference	33
+979	Nomenclatural Reference	14
+980	Nomenclatural Reference	91
+981	Nomenclatural Reference	110
+982	Nomenclatural Reference	110
+983	Nomenclatural Reference	51
+984	Nomenclatural Reference	79
+985	Nomenclatural Reference	9
+986	Nomenclatural Reference	6
+987	Nomenclatural Reference	78
+988	Nomenclatural Reference	10
+989	Nomenclatural Reference	6
+836	Taxonomic Acceptance Reference	19
+837	Taxonomic Acceptance Reference	19
+838	Taxonomic Acceptance Reference	19
+839	Taxonomic Acceptance Reference	19
+840	Taxonomic Acceptance Reference	19
+841	Taxonomic Acceptance Reference	32
+842	Taxonomic Acceptance Reference	19
+843	Taxonomic Acceptance Reference	19
+844	Taxonomic Acceptance Reference	19
+845	Taxonomic Acceptance Reference	19
+846	Taxonomic Acceptance Reference	19
+847	Taxonomic Acceptance Reference	19
+848	Taxonomic Acceptance Reference	19
+849	Taxonomic Acceptance Reference	19
+850	Taxonomic Acceptance Reference	19
+851	Taxonomic Acceptance Reference	10
+852	Taxonomic Acceptance Reference	19
+853	Taxonomic Acceptance Reference	19
+854	Taxonomic Acceptance Reference	19
+855	Taxonomic Acceptance Reference	19
+856	Taxonomic Acceptance Reference	19
+857	Taxonomic Acceptance Reference	19
+858	Taxonomic Acceptance Reference	19
+859	Taxonomic Acceptance Reference	19
+860	Taxonomic Acceptance Reference	19
+861	Taxonomic Acceptance Reference	19
+862	Taxonomic Acceptance Reference	19
+863	Taxonomic Acceptance Reference	19
+864	Taxonomic Acceptance Reference	19
+865	Taxonomic Acceptance Reference	19
+866	Taxonomic Acceptance Reference	19
+867	Taxonomic Acceptance Reference	19
+868	Taxonomic Acceptance Reference	19
+869	Taxonomic Acceptance Reference	19
+870	Taxonomic Acceptance Reference	19
+871	Taxonomic Acceptance Reference	19
+872	Taxonomic Acceptance Reference	19
+873	Taxonomic Acceptance Reference	19
+874	Taxonomic Acceptance Reference	19
+875	Taxonomic Acceptance Reference	19
+876	Taxonomic Acceptance Reference	19
+877	Taxonomic Acceptance Reference	19
+878	Taxonomic Acceptance Reference	19
+879	Taxonomic Acceptance Reference	19
+880	Taxonomic Acceptance Reference	19
+881	Taxonomic Acceptance Reference	19
+882	Taxonomic Acceptance Reference	10
+883	Taxonomic Acceptance Reference	19
+884	Taxonomic Acceptance Reference	10
+885	Taxonomic Acceptance Reference	19
+886	Taxonomic Acceptance Reference	19
+887	Taxonomic Acceptance Reference	19
+888	Taxonomic Acceptance Reference	19
+889	Taxonomic Acceptance Reference	19
+890	Taxonomic Acceptance Reference	19
+891	Taxonomic Acceptance Reference	19
+892	Taxonomic Acceptance Reference	19
+893	Taxonomic Acceptance Reference	19
+894	Taxonomic Acceptance Reference	19
+895	Taxonomic Acceptance Reference	19
+896	Taxonomic Acceptance Reference	19
+897	Taxonomic Acceptance Reference	19
+898	Taxonomic Acceptance Reference	19
+899	Taxonomic Acceptance Reference	19
+900	Taxonomic Acceptance Reference	7
+901	Taxonomic Acceptance Reference	7
+902	Taxonomic Acceptance Reference	19
+903	Taxonomic Acceptance Reference	19
+904	Taxonomic Acceptance Reference	19
+905	Taxonomic Acceptance Reference	19
+906	Taxonomic Acceptance Reference	19
+907	Taxonomic Acceptance Reference	19
+908	Taxonomic Acceptance Reference	19
+909	Taxonomic Acceptance Reference	19
+910	Taxonomic Acceptance Reference	19
+911	Taxonomic Acceptance Reference	19
+912	Taxonomic Acceptance Reference	19
+913	Taxonomic Acceptance Reference	19
+914	Taxonomic Acceptance Reference	19
+915	Taxonomic Acceptance Reference	19
+916	Taxonomic Acceptance Reference	19
+917	Taxonomic Acceptance Reference	19
+918	Taxonomic Acceptance Reference	19
+919	Taxonomic Acceptance Reference	19
+920	Taxonomic Acceptance Reference	19
+921	Taxonomic Acceptance Reference	19
+922	Taxonomic Acceptance Reference	19
+923	Taxonomic Acceptance Reference	19
+924	Taxonomic Acceptance Reference	19
+925	Taxonomic Acceptance Reference	24
+926	Taxonomic Acceptance Reference	19
+927	Taxonomic Acceptance Reference	19
+928	Taxonomic Acceptance Reference	10
+929	Taxonomic Acceptance Reference	10
+930	Taxonomic Acceptance Reference	19
+931	Taxonomic Acceptance Reference	19
+932	Taxonomic Acceptance Reference	19
+933	Taxonomic Acceptance Reference	19
+934	Taxonomic Acceptance Reference	19
+935	Taxonomic Acceptance Reference	19
+936	Taxonomic Acceptance Reference	19
+937	Taxonomic Acceptance Reference	19
+938	Taxonomic Acceptance Reference	19
+939	Taxonomic Acceptance Reference	19
+940	Taxonomic Acceptance Reference	19
+941	Taxonomic Acceptance Reference	19
+942	Taxonomic Acceptance Reference	19
+943	Taxonomic Acceptance Reference	19
+944	Taxonomic Acceptance Reference	19
+945	Taxonomic Acceptance Reference	19
+946	Taxonomic Acceptance Reference	24
+947	Taxonomic Acceptance Reference	19
+948	Taxonomic Acceptance Reference	10
+949	Taxonomic Acceptance Reference	19
+950	Taxonomic Acceptance Reference	19
+951	Taxonomic Acceptance Reference	19
+952	Taxonomic Acceptance Reference	19
+953	Taxonomic Acceptance Reference	19
+954	Taxonomic Acceptance Reference	10
+955	Taxonomic Acceptance Reference	19
+956	Taxonomic Acceptance Reference	19
+957	Taxonomic Acceptance Reference	19
+958	Taxonomic Acceptance Reference	19
+959	Taxonomic Acceptance Reference	19
+960	Taxonomic Acceptance Reference	19
+961	Taxonomic Acceptance Reference	19
+962	Taxonomic Acceptance Reference	19
+963	Taxonomic Acceptance Reference	19
+964	Taxonomic Acceptance Reference	19
+965	Taxonomic Acceptance Reference	19
+966	Taxonomic Acceptance Reference	19
+967	Taxonomic Acceptance Reference	32
+968	Taxonomic Acceptance Reference	10
+969	Taxonomic Acceptance Reference	19
+970	Taxonomic Acceptance Reference	19
+971	Taxonomic Acceptance Reference	19
+972	Taxonomic Acceptance Reference	19
+973	Taxonomic Acceptance Reference	19
+974	Taxonomic Acceptance Reference	19
+975	Taxonomic Acceptance Reference	19
+976	Taxonomic Acceptance Reference	19
+977	Taxonomic Acceptance Reference	19
+978	Taxonomic Acceptance Reference	19
+979	Taxonomic Acceptance Reference	19
+980	Taxonomic Acceptance Reference	16
+981	Taxonomic Acceptance Reference	19
+982	Taxonomic Acceptance Reference	19
+983	Taxonomic Acceptance Reference	19
+984	Taxonomic Acceptance Reference	109
+985	Taxonomic Acceptance Reference	19
+986	Taxonomic Acceptance Reference	19
+987	Taxonomic Acceptance Reference	9
+988	Taxonomic Acceptance Reference	109
+989	Taxonomic Acceptance Reference	19
+990	Nomenclatural Reference	23
+991	Nomenclatural Reference	114
+992	Nomenclatural Reference	115
+993	Nomenclatural Reference	116
+994	Nomenclatural Reference	74
+995	Nomenclatural Reference	20
+996	Nomenclatural Reference	115
+997	Nomenclatural Reference	117
+998	Nomenclatural Reference	117
+999	Nomenclatural Reference	82
+1000	Nomenclatural Reference	118
+1001	Nomenclatural Reference	37
+1002	Nomenclatural Reference	118
+1003	Nomenclatural Reference	118
+1004	Nomenclatural Reference	119
+1005	Nomenclatural Reference	118
+1006	Nomenclatural Reference	120
+1007	Nomenclatural Reference	121
+1008	Nomenclatural Reference	82
+1009	Nomenclatural Reference	17
+1010	Nomenclatural Reference	122
+1011	Nomenclatural Reference	17
+1012	Nomenclatural Reference	58
+1013	Nomenclatural Reference	123
+1014	Nomenclatural Reference	87
+1015	Nomenclatural Reference	67
+1016	Nomenclatural Reference	124
+1017	Nomenclatural Reference	125
+1018	Nomenclatural Reference	80
+1019	Nomenclatural Reference	42
+1020	Nomenclatural Reference	126
+1021	Nomenclatural Reference	127
+1022	Nomenclatural Reference	128
+1023	Nomenclatural Reference	120
+1024	Nomenclatural Reference	129
+1025	Nomenclatural Reference	130
+1026	Nomenclatural Reference	131
+1027	Nomenclatural Reference	132
+1028	Nomenclatural Reference	133
+1029	Nomenclatural Reference	134
+1030	Nomenclatural Reference	58
+1031	Nomenclatural Reference	135
+1032	Nomenclatural Reference	129
+1033	Nomenclatural Reference	131
+1034	Nomenclatural Reference	136
+1035	Nomenclatural Reference	42
+1036	Nomenclatural Reference	48
+1037	Nomenclatural Reference	137
+1038	Nomenclatural Reference	138
+1039	Nomenclatural Reference	130
+1040	Nomenclatural Reference	138
+1041	Nomenclatural Reference	17
+1042	Nomenclatural Reference	133
+1043	Nomenclatural Reference	123
+1044	Nomenclatural Reference	17
+1045	Nomenclatural Reference	80
+1046	Nomenclatural Reference	139
+1047	Nomenclatural Reference	121
+1048	Nomenclatural Reference	140
+1049	Nomenclatural Reference	121
+1050	Nomenclatural Reference	141
+1051	Nomenclatural Reference	30
+1052	Nomenclatural Reference	83
+1053	Nomenclatural Reference	37
+1054	Nomenclatural Reference	42
+1055	Nomenclatural Reference	84
+1056	Nomenclatural Reference	54
+1057	Nomenclatural Reference	142
+1058	Nomenclatural Reference	43
+1059	Nomenclatural Reference	138
+1060	Nomenclatural Reference	143
+1061	Nomenclatural Reference	144
+1062	Nomenclatural Reference	145
+1063	Nomenclatural Reference	143
+1064	Nomenclatural Reference	87
+1065	Nomenclatural Reference	146
+1066	Nomenclatural Reference	84
+1067	Nomenclatural Reference	39
+1068	Nomenclatural Reference	37
+1069	Nomenclatural Reference	131
+1070	Nomenclatural Reference	48
+1071	Nomenclatural Reference	37
+1072	Nomenclatural Reference	65
+1073	Nomenclatural Reference	48
+1074	Nomenclatural Reference	39
+1075	Nomenclatural Reference	138
+1076	Nomenclatural Reference	147
+1077	Nomenclatural Reference	48
+1078	Nomenclatural Reference	40
+1079	Nomenclatural Reference	138
+1080	Nomenclatural Reference	23
+1081	Nomenclatural Reference	65
+1082	Nomenclatural Reference	131
+1083	Nomenclatural Reference	23
+1084	Nomenclatural Reference	83
+1085	Nomenclatural Reference	83
+1086	Nomenclatural Reference	43
+1087	Nomenclatural Reference	148
+1088	Nomenclatural Reference	54
+1089	Nomenclatural Reference	27
+1090	Nomenclatural Reference	87
+1091	Nomenclatural Reference	83
+1092	Nomenclatural Reference	17
+1093	Nomenclatural Reference	42
+1094	Nomenclatural Reference	145
+1095	Nomenclatural Reference	149
+1096	Nomenclatural Reference	42
+1097	Nomenclatural Reference	84
+1098	Nomenclatural Reference	150
+1099	Nomenclatural Reference	150
+1100	Nomenclatural Reference	150
+1101	Nomenclatural Reference	37
+1102	Nomenclatural Reference	42
+1103	Nomenclatural Reference	151
+1104	Nomenclatural Reference	139
+1105	Nomenclatural Reference	152
+1106	Nomenclatural Reference	127
+1107	Nomenclatural Reference	136
+1108	Nomenclatural Reference	17
+1109	Nomenclatural Reference	121
+1110	Nomenclatural Reference	23
+1111	Nomenclatural Reference	23
+1112	Nomenclatural Reference	49
+1113	Nomenclatural Reference	74
+1114	Nomenclatural Reference	74
+1115	Nomenclatural Reference	20
+1116	Nomenclatural Reference	82
+1117	Nomenclatural Reference	119
+1118	Nomenclatural Reference	17
+1119	Nomenclatural Reference	17
+1120	Nomenclatural Reference	138
+1121	Nomenclatural Reference	59
+1122	Nomenclatural Reference	127
+1123	Nomenclatural Reference	131
+1124	Nomenclatural Reference	153
+1125	Nomenclatural Reference	131
+1126	Nomenclatural Reference	17
+1127	Nomenclatural Reference	131
+1128	Nomenclatural Reference	23
+1129	Nomenclatural Reference	23
+1130	Nomenclatural Reference	154
+1131	Nomenclatural Reference	17
+1132	Nomenclatural Reference	17
+1133	Nomenclatural Reference	17
+1134	Nomenclatural Reference	155
+1135	Nomenclatural Reference	156
+1136	Nomenclatural Reference	17
+1137	Nomenclatural Reference	17
+1138	Nomenclatural Reference	17
+1139	Nomenclatural Reference	17
+1140	Nomenclatural Reference	157
+1141	Nomenclatural Reference	158
+1142	Nomenclatural Reference	17
+1143	Nomenclatural Reference	17
+1144	Nomenclatural Reference	138
+1145	Nomenclatural Reference	124
+1146	Nomenclatural Reference	124
+1147	Nomenclatural Reference	124
+1148	Nomenclatural Reference	140
+1149	Nomenclatural Reference	138
+1150	Nomenclatural Reference	62
+1151	Nomenclatural Reference	51
+1152	Nomenclatural Reference	42
+1153	Nomenclatural Reference	51
+1154	Nomenclatural Reference	87
+1155	Nomenclatural Reference	37
+1156	Nomenclatural Reference	37
+1157	Nomenclatural Reference	40
+1158	Nomenclatural Reference	17
+1159	Nomenclatural Reference	159
+1160	Nomenclatural Reference	54
+1161	Nomenclatural Reference	87
+1162	Nomenclatural Reference	17
+1163	Nomenclatural Reference	17
+1164	Nomenclatural Reference	42
+1165	Nomenclatural Reference	88
+1166	Nomenclatural Reference	42
+1167	Nomenclatural Reference	43
+1114	Taxonomic Acceptance Reference	19
+1115	Taxonomic Acceptance Reference	19
+1116	Taxonomic Acceptance Reference	19
+1117	Taxonomic Acceptance Reference	19
+1118	Taxonomic Acceptance Reference	160
+1119	Taxonomic Acceptance Reference	131
+1120	Taxonomic Acceptance Reference	131
+1121	Taxonomic Acceptance Reference	138
+1122	Taxonomic Acceptance Reference	24
+1123	Taxonomic Acceptance Reference	24
+1124	Taxonomic Acceptance Reference	19
+1125	Taxonomic Acceptance Reference	128
+1126	Taxonomic Acceptance Reference	131
+1127	Taxonomic Acceptance Reference	128
+1128	Taxonomic Acceptance Reference	128
+1129	Taxonomic Acceptance Reference	128
+1130	Taxonomic Acceptance Reference	128
+1131	Taxonomic Acceptance Reference	131
+1132	Taxonomic Acceptance Reference	131
+1133	Taxonomic Acceptance Reference	128
+1134	Taxonomic Acceptance Reference	131
+1135	Taxonomic Acceptance Reference	161
+1136	Taxonomic Acceptance Reference	131
+1137	Taxonomic Acceptance Reference	131
+1138	Taxonomic Acceptance Reference	131
+1139	Taxonomic Acceptance Reference	131
+1140	Taxonomic Acceptance Reference	128
+1141	Taxonomic Acceptance Reference	128
+1142	Taxonomic Acceptance Reference	131
+1143	Taxonomic Acceptance Reference	131
+1144	Taxonomic Acceptance Reference	131
+1145	Taxonomic Acceptance Reference	162
+1146	Taxonomic Acceptance Reference	131
+1147	Taxonomic Acceptance Reference	2
+1148	Taxonomic Acceptance Reference	2
+1149	Taxonomic Acceptance Reference	131
+1150	Taxonomic Acceptance Reference	128
+1151	Taxonomic Acceptance Reference	23
+1152	Taxonomic Acceptance Reference	23
+1153	Taxonomic Acceptance Reference	23
+1154	Taxonomic Acceptance Reference	19
+1155	Taxonomic Acceptance Reference	19
+1156	Taxonomic Acceptance Reference	19
+1157	Taxonomic Acceptance Reference	19
+1158	Taxonomic Acceptance Reference	162
+1159	Taxonomic Acceptance Reference	138
+1160	Taxonomic Acceptance Reference	19
+1161	Taxonomic Acceptance Reference	19
+1162	Taxonomic Acceptance Reference	19
+1163	Taxonomic Acceptance Reference	131
+1164	Taxonomic Acceptance Reference	19
+1165	Taxonomic Acceptance Reference	163
+1166	Taxonomic Acceptance Reference	19
+1167	Taxonomic Acceptance Reference	150
+1268	Nomenclatural Reference	164
+1269	Nomenclatural Reference	6
+1270	Nomenclatural Reference	32
+1271	Nomenclatural Reference	144
+1272	Nomenclatural Reference	8
+1273	Nomenclatural Reference	23
+1274	Nomenclatural Reference	112
+1275	Nomenclatural Reference	112
+1276	Nomenclatural Reference	23
+1277	Nomenclatural Reference	8
+1278	Nomenclatural Reference	23
+1279	Nomenclatural Reference	23
+1280	Nomenclatural Reference	112
+1281	Nomenclatural Reference	27
+1282	Nomenclatural Reference	112
+1283	Nomenclatural Reference	23
+1284	Nomenclatural Reference	27
+1285	Nomenclatural Reference	112
+1286	Nomenclatural Reference	112
+1287	Nomenclatural Reference	8
+1288	Nomenclatural Reference	112
+1289	Nomenclatural Reference	110
+1290	Nomenclatural Reference	112
+1291	Nomenclatural Reference	112
+1292	Nomenclatural Reference	49
+1293	Nomenclatural Reference	112
+1294	Nomenclatural Reference	23
+1295	Nomenclatural Reference	23
+1296	Nomenclatural Reference	27
+1297	Nomenclatural Reference	51
+1298	Nomenclatural Reference	21
+1299	Nomenclatural Reference	32
+1300	Nomenclatural Reference	50
+1301	Nomenclatural Reference	165
+1302	Nomenclatural Reference	165
+1303	Nomenclatural Reference	165
+1304	Nomenclatural Reference	165
+1305	Nomenclatural Reference	166
+1306	Nomenclatural Reference	166
+1307	Nomenclatural Reference	32
+1308	Nomenclatural Reference	20
+1309	Nomenclatural Reference	21
+1310	Nomenclatural Reference	21
+1311	Nomenclatural Reference	21
+1312	Nomenclatural Reference	21
+1313	Nomenclatural Reference	21
+1314	Nomenclatural Reference	21
+1315	Nomenclatural Reference	21
+1316	Nomenclatural Reference	21
+1317	Nomenclatural Reference	21
+1318	Nomenclatural Reference	21
+1319	Nomenclatural Reference	8
+1320	Nomenclatural Reference	21
+1321	Nomenclatural Reference	21
+1322	Nomenclatural Reference	9
+1323	Nomenclatural Reference	21
+1324	Nomenclatural Reference	20
+1325	Nomenclatural Reference	21
+1326	Nomenclatural Reference	21
+1327	Nomenclatural Reference	9
+1328	Nomenclatural Reference	21
+1329	Nomenclatural Reference	21
+1330	Nomenclatural Reference	8
+1331	Nomenclatural Reference	18
+1332	Nomenclatural Reference	21
+1333	Nomenclatural Reference	21
+1334	Nomenclatural Reference	21
+1335	Nomenclatural Reference	8
+1336	Nomenclatural Reference	8
+1337	Nomenclatural Reference	8
+1338	Nomenclatural Reference	8
+1339	Nomenclatural Reference	21
+1340	Nomenclatural Reference	100
+1341	Nomenclatural Reference	8
+1342	Nomenclatural Reference	21
+1343	Nomenclatural Reference	79
+1344	Nomenclatural Reference	8
+1345	Nomenclatural Reference	17
+1346	Nomenclatural Reference	17
+1347	Nomenclatural Reference	168
+1348	Nomenclatural Reference	51
+1349	Nomenclatural Reference	33
+1350	Nomenclatural Reference	17
+1351	Nomenclatural Reference	79
+1352	Nomenclatural Reference	21
+1353	Nomenclatural Reference	21
+1354	Nomenclatural Reference	168
+1355	Nomenclatural Reference	8
+1356	Nomenclatural Reference	21
+1357	Nomenclatural Reference	21
+1358	Nomenclatural Reference	21
+1359	Nomenclatural Reference	17
+1360	Nomenclatural Reference	8
+1361	Nomenclatural Reference	8
+1362	Nomenclatural Reference	21
+1363	Nomenclatural Reference	21
+1364	Nomenclatural Reference	169
+1365	Nomenclatural Reference	14
+1366	Nomenclatural Reference	169
+1367	Nomenclatural Reference	170
+1368	Nomenclatural Reference	28
+1369	Nomenclatural Reference	18
+1370	Nomenclatural Reference	21
+1371	Nomenclatural Reference	28
+1372	Nomenclatural Reference	8
+1373	Nomenclatural Reference	21
+1374	Nomenclatural Reference	8
+1375	Nomenclatural Reference	8
+1376	Nomenclatural Reference	21
+1377	Nomenclatural Reference	8
+1378	Nomenclatural Reference	21
+1379	Nomenclatural Reference	21
+1380	Nomenclatural Reference	14
+1381	Nomenclatural Reference	21
+1382	Nomenclatural Reference	21
+1383	Nomenclatural Reference	21
+1384	Nomenclatural Reference	17
+1385	Nomenclatural Reference	8
+1386	Nomenclatural Reference	70
+1387	Nomenclatural Reference	20
+1388	Nomenclatural Reference	79
+1389	Nomenclatural Reference	21
+1390	Nomenclatural Reference	21
+1391	Nomenclatural Reference	28
+1392	Nomenclatural Reference	21
+1393	Nomenclatural Reference	8
+1394	Nomenclatural Reference	8
+1395	Nomenclatural Reference	21
+1396	Nomenclatural Reference	21
+1397	Nomenclatural Reference	28
+1398	Nomenclatural Reference	28
+1399	Nomenclatural Reference	100
+1400	Nomenclatural Reference	21
+1401	Nomenclatural Reference	20
+1402	Nomenclatural Reference	21
+1403	Nomenclatural Reference	21
+1404	Nomenclatural Reference	21
+1405	Nomenclatural Reference	21
+1406	Nomenclatural Reference	21
+1407	Nomenclatural Reference	45
+1408	Nomenclatural Reference	28
+1409	Nomenclatural Reference	21
+1410	Nomenclatural Reference	21
+1411	Nomenclatural Reference	8
+1412	Nomenclatural Reference	21
+1413	Nomenclatural Reference	8
+1414	Nomenclatural Reference	8
+1415	Nomenclatural Reference	14
+1416	Nomenclatural Reference	69
+1417	Nomenclatural Reference	21
+1418	Nomenclatural Reference	32
+1419	Nomenclatural Reference	74
+1420	Nomenclatural Reference	168
+1421	Nomenclatural Reference	71
+1422	Nomenclatural Reference	17
+1423	Nomenclatural Reference	14
+1424	Nomenclatural Reference	20
+1425	Nomenclatural Reference	8
+1426	Nomenclatural Reference	8
+1427	Nomenclatural Reference	74
+1428	Nomenclatural Reference	8
+1429	Nomenclatural Reference	172
+1430	Nomenclatural Reference	8
+1431	Nomenclatural Reference	8
+1432	Nomenclatural Reference	169
+1433	Nomenclatural Reference	7
+1434	Nomenclatural Reference	168
+1435	Nomenclatural Reference	43
+1436	Nomenclatural Reference	17
+1437	Nomenclatural Reference	17
+1438	Nomenclatural Reference	51
+1439	Nomenclatural Reference	23
+1440	Nomenclatural Reference	23
+1441	Nomenclatural Reference	23
+1442	Nomenclatural Reference	23
+1443	Nomenclatural Reference	23
+1444	Nomenclatural Reference	23
+1445	Nomenclatural Reference	23
+1446	Nomenclatural Reference	166
+1447	Nomenclatural Reference	28
+1448	Nomenclatural Reference	166
+1449	Nomenclatural Reference	166
+1450	Nomenclatural Reference	21
+1451	Nomenclatural Reference	21
+1452	Nomenclatural Reference	21
+1453	Nomenclatural Reference	21
+1454	Nomenclatural Reference	100
+1455	Nomenclatural Reference	21
+1456	Nomenclatural Reference	21
+1457	Nomenclatural Reference	21
+1458	Nomenclatural Reference	21
+1459	Nomenclatural Reference	21
+1460	Nomenclatural Reference	21
+1461	Nomenclatural Reference	21
+1462	Nomenclatural Reference	21
+1463	Nomenclatural Reference	21
+1464	Nomenclatural Reference	21
+1465	Nomenclatural Reference	21
+1466	Nomenclatural Reference	21
+1467	Nomenclatural Reference	21
+1468	Nomenclatural Reference	8
+1469	Nomenclatural Reference	21
+1470	Nomenclatural Reference	21
+1471	Nomenclatural Reference	21
+1472	Nomenclatural Reference	21
+1473	Nomenclatural Reference	21
+1474	Nomenclatural Reference	14
+1475	Nomenclatural Reference	21
+1476	Nomenclatural Reference	21
+1477	Nomenclatural Reference	21
+1478	Nomenclatural Reference	21
+1479	Nomenclatural Reference	8
+1380	Nomenclatural Reference	21
+1381	Nomenclatural Reference	21
+1382	Nomenclatural Reference	21
+1383	Nomenclatural Reference	21
+1384	Nomenclatural Reference	21
+1385	Nomenclatural Reference	165
+1386	Nomenclatural Reference	18
+1387	Nomenclatural Reference	172
+1388	Nomenclatural Reference	173
+1389	Nomenclatural Reference	74
+1390	Nomenclatural Reference	17
+1391	Nomenclatural Reference	6
+1392	Nomenclatural Reference	32
+1393	Nomenclatural Reference	8
+1394	Nomenclatural Reference	51
+1395	Nomenclatural Reference	49
+1396	Nomenclatural Reference	51
+1397	Nomenclatural Reference	32
+1398	Nomenclatural Reference	32
+1399	Nomenclatural Reference	20
+1400	Nomenclatural Reference	8
+1401	Nomenclatural Reference	20
+1402	Nomenclatural Reference	9
+1403	Nomenclatural Reference	20
+1404	Nomenclatural Reference	8
+1405	Nomenclatural Reference	8
+1406	Nomenclatural Reference	18
+1407	Nomenclatural Reference	171
+1408	Nomenclatural Reference	8
+1409	Nomenclatural Reference	8
+1410	Nomenclatural Reference	8
+1411	Nomenclatural Reference	8
+1412	Nomenclatural Reference	100
+1413	Nomenclatural Reference	8
+1414	Nomenclatural Reference	14
+1415	Nomenclatural Reference	79
+1416	Nomenclatural Reference	8
+1417	Nomenclatural Reference	17
+1418	Nomenclatural Reference	17
+1419	Nomenclatural Reference	168
+1420	Nomenclatural Reference	51
+1421	Nomenclatural Reference	33
+1422	Nomenclatural Reference	17
+1423	Nomenclatural Reference	79
+1424	Nomenclatural Reference	168
+1425	Nomenclatural Reference	60
+1426	Nomenclatural Reference	8
+1427	Nomenclatural Reference	14
+1428	Nomenclatural Reference	8
+1429	Nomenclatural Reference	8
+1430	Nomenclatural Reference	8
+1431	Nomenclatural Reference	169
+1432	Nomenclatural Reference	14
+1433	Nomenclatural Reference	169
+1434	Nomenclatural Reference	170
+1435	Nomenclatural Reference	28
+1436	Nomenclatural Reference	18
+1437	Nomenclatural Reference	28
+1438	Nomenclatural Reference	28
+1439	Nomenclatural Reference	20
+1440	Nomenclatural Reference	28
+1441	Nomenclatural Reference	8
+1442	Nomenclatural Reference	8
+1443	Nomenclatural Reference	8
+1444	Nomenclatural Reference	14
+1445	Nomenclatural Reference	8
+1446	Nomenclatural Reference	14
+1447	Nomenclatural Reference	14
+1448	Nomenclatural Reference	168
+1449	Nomenclatural Reference	79
+1450	Nomenclatural Reference	17
+1451	Nomenclatural Reference	8
+1452	Nomenclatural Reference	168
+1453	Nomenclatural Reference	70
+1454	Nomenclatural Reference	20
+1455	Nomenclatural Reference	79
+1456	Nomenclatural Reference	28
+1457	Nomenclatural Reference	20
+1458	Nomenclatural Reference	8
+1459	Nomenclatural Reference	79
+1460	Nomenclatural Reference	8
+1461	Nomenclatural Reference	28
+1462	Nomenclatural Reference	28
+1463	Nomenclatural Reference	100
+1464	Nomenclatural Reference	20
+1465	Nomenclatural Reference	45
+1466	Nomenclatural Reference	28
+1467	Nomenclatural Reference	8
+1468	Nomenclatural Reference	8
+1469	Nomenclatural Reference	8
+1470	Nomenclatural Reference	14
+1471	Nomenclatural Reference	69
+1472	Nomenclatural Reference	74
+1473	Nomenclatural Reference	71
+1474	Nomenclatural Reference	172
+1475	Nomenclatural Reference	174
+1476	Nomenclatural Reference	7
+1477	Nomenclatural Reference	168
+1478	Nomenclatural Reference	174
+1479	Nomenclatural Reference	175
+1480	Nomenclatural Reference	17
+1385	Taxonomic Acceptance Reference	19
+1386	Taxonomic Acceptance Reference	6
+1387	Taxonomic Acceptance Reference	176
+1388	Taxonomic Acceptance Reference	177
+1389	Taxonomic Acceptance Reference	6
+1390	Taxonomic Acceptance Reference	6
+1391	Taxonomic Acceptance Reference	19
+1392	Taxonomic Acceptance Reference	19
+1393	Taxonomic Acceptance Reference	19
+1394	Taxonomic Acceptance Reference	79
+1395	Taxonomic Acceptance Reference	19
+1396	Taxonomic Acceptance Reference	19
+1397	Taxonomic Acceptance Reference	19
+1398	Taxonomic Acceptance Reference	19
+1399	Taxonomic Acceptance Reference	19
+1400	Taxonomic Acceptance Reference	19
+1401	Taxonomic Acceptance Reference	24
+1402	Taxonomic Acceptance Reference	19
+1403	Taxonomic Acceptance Reference	19
+1404	Taxonomic Acceptance Reference	19
+1405	Taxonomic Acceptance Reference	19
+1406	Taxonomic Acceptance Reference	19
+1407	Taxonomic Acceptance Reference	101
+1408	Taxonomic Acceptance Reference	19
+1409	Taxonomic Acceptance Reference	19
+1410	Taxonomic Acceptance Reference	19
+1411	Taxonomic Acceptance Reference	19
+1412	Taxonomic Acceptance Reference	19
+1413	Taxonomic Acceptance Reference	19
+1414	Taxonomic Acceptance Reference	24
+1415	Taxonomic Acceptance Reference	19
+1416	Taxonomic Acceptance Reference	19
+1417	Taxonomic Acceptance Reference	19
+1418	Taxonomic Acceptance Reference	19
+1419	Taxonomic Acceptance Reference	19
+1420	Taxonomic Acceptance Reference	19
+1421	Taxonomic Acceptance Reference	19
+1422	Taxonomic Acceptance Reference	19
+1423	Taxonomic Acceptance Reference	19
+1424	Taxonomic Acceptance Reference	19
+1425	Taxonomic Acceptance Reference	8
+1426	Taxonomic Acceptance Reference	19
+1427	Taxonomic Acceptance Reference	2
+1428	Taxonomic Acceptance Reference	19
+1429	Taxonomic Acceptance Reference	19
+1430	Taxonomic Acceptance Reference	19
+1431	Taxonomic Acceptance Reference	19
+1432	Taxonomic Acceptance Reference	19
+1433	Taxonomic Acceptance Reference	19
+1434	Taxonomic Acceptance Reference	19
+1435	Taxonomic Acceptance Reference	19
+1436	Taxonomic Acceptance Reference	19
+1437	Taxonomic Acceptance Reference	101
+1438	Taxonomic Acceptance Reference	21
+1439	Taxonomic Acceptance Reference	19
+1440	Taxonomic Acceptance Reference	19
+1441	Taxonomic Acceptance Reference	19
+1442	Taxonomic Acceptance Reference	19
+1443	Taxonomic Acceptance Reference	24
+1444	Taxonomic Acceptance Reference	24
+1445	Taxonomic Acceptance Reference	19
+1446	Taxonomic Acceptance Reference	19
+1447	Taxonomic Acceptance Reference	19
+1448	Taxonomic Acceptance Reference	24
+1449	Taxonomic Acceptance Reference	21
+1450	Taxonomic Acceptance Reference	19
+1451	Taxonomic Acceptance Reference	19
+1452	Taxonomic Acceptance Reference	2
+1453	Taxonomic Acceptance Reference	19
+1454	Taxonomic Acceptance Reference	19
+1455	Taxonomic Acceptance Reference	19
+1456	Taxonomic Acceptance Reference	19
+1457	Taxonomic Acceptance Reference	32
+1458	Taxonomic Acceptance Reference	19
+1459	Taxonomic Acceptance Reference	21
+1460	Taxonomic Acceptance Reference	19
+1461	Taxonomic Acceptance Reference	19
+1462	Taxonomic Acceptance Reference	19
+1463	Taxonomic Acceptance Reference	19
+1464	Taxonomic Acceptance Reference	19
+1465	Taxonomic Acceptance Reference	19
+1466	Taxonomic Acceptance Reference	19
+1467	Taxonomic Acceptance Reference	19
+1468	Taxonomic Acceptance Reference	19
+1469	Taxonomic Acceptance Reference	19
+1470	Taxonomic Acceptance Reference	19
+1471	Taxonomic Acceptance Reference	19
+1472	Taxonomic Acceptance Reference	19
+1473	Taxonomic Acceptance Reference	19
+1474	Taxonomic Acceptance Reference	19
+1475	Taxonomic Acceptance Reference	101
+1476	Taxonomic Acceptance Reference	19
+1477	Taxonomic Acceptance Reference	19
+1478	Taxonomic Acceptance Reference	101
+1479	Taxonomic Acceptance Reference	21
+1480	Taxonomic Acceptance Reference	8
